@@ -1,0 +1,28 @@
+{% extends "advert/base.html.twig" %}
+
+{% block title %}
+    {{ parent() }} - Consulter les offres
+{% endblock %}
+
+{% block domjob_body %}
+
+    <h2>Liste des offres</h2>
+
+    <ul>
+        {% for advert in listAdverts %}
+        <li>
+            {#<a href="{{ path('dj_platform_view', {'id': advert.id}) }}">
+            {{ advert.title }}
+            </a>#}
+            {{ advert.title }}
+            par {{ advert.author }},
+            le {{ advert.date|date('d/m/Y') }}
+        </li>
+        {% else %}
+            <li>Pas (encore !) d'offres</li>
+        {% endfor %}
+    </ul>
+
+    {{ render(controller("App\\Controller\\AdvertController::menuAction", {'limit': 3})) }}
+
+{% endblock %}

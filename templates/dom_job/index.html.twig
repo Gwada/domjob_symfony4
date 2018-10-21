@@ -1,0 +1,21 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}
+    {{ parent() }} - Page d'acceuil
+{% endblock %}
+
+{% block body %}
+
+    {% for message in app.session.flashbag.get('Message flash') %}
+        <p>Message flash : {{ message }}</p>
+    {% endfor %}
+
+    {{ render(controller("App\\Controller\\AdvertController::menuAction", {'limit': 3})) }}
+
+    <div class="clearfix"></div>
+    <hr>
+
+    {% block ocplatform_body %}
+    {% endblock %}
+
+{% endblock %}
