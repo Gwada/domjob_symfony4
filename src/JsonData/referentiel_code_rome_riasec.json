@@ -1,0 +1,2662 @@
+[
+ {
+   "code_rome": "A1101",
+   "riasec_majeur": "R",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "A1201",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1202",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1203",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1204",
+   "riasec_majeur": "C",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "A1205",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1301",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "A1302",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "A1303",
+   "riasec_majeur": "I",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1401",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1402",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1403",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1404",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1405",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1406",
+   "riasec_majeur": "E",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "A1407",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1408",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1409",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1410",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1411",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1412",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1413",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1414",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1415",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1416",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1417",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1501",
+   "riasec_majeur": "R",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "A1502",
+   "riasec_majeur": "R",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "A1503",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "A1504",
+   "riasec_majeur": "R",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "B1101",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "B1201",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "B1301",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "B1302",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "B1303",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "B1401",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "B1402",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "B1501",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "B1601",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "B1602",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "B1603",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "B1604",
+   "riasec_majeur": "R",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "B1701",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "B1801",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "B1802",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "B1803",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "B1804",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "B1805",
+   "riasec_majeur": "A",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "B1806",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "C1101",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "C1102",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "C1103",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "C1104",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "C1105",
+   "riasec_majeur": "C",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "C1106",
+   "riasec_majeur": "C",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "C1107",
+   "riasec_majeur": "C",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "C1108",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "C1109",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "C1110",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "C1201",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "C1202",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "C1203",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "C1204",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "C1205",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "C1206",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "C1207",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "C1301",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "C1302",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "C1303",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "C1401",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "C1501",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "C1502",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "C1503",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "C1504",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "D1101",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "D1102",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "D1103",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "D1104",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "D1105",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "D1106",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "D1107",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "D1201",
+   "riasec_majeur": "E",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "D1202",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "D1203",
+   "riasec_majeur": "R",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "D1204",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "D1205",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "D1206",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "D1207",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "D1208",
+   "riasec_majeur": "R",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "D1209",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "D1210",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "D1211",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "D1212",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "D1213",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "D1214",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "D1301",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "D1401",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "D1402",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "D1403",
+   "riasec_majeur": "E",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "D1404",
+   "riasec_majeur": "E",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "D1405",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "D1406",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "D1407",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "D1408",
+   "riasec_majeur": "E",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "D1501",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "D1502",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "D1503",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "D1504",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "D1505",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "D1506",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "D1507",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "D1508",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "D1509",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "E1101",
+   "riasec_majeur": "C",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "E1102",
+   "riasec_majeur": "A",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "E1103",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "E1104",
+   "riasec_majeur": "A",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "E1105",
+   "riasec_majeur": "A",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "E1106",
+   "riasec_majeur": "A",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "E1107",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "E1108",
+   "riasec_majeur": "A",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "E1201",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "E1202",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "E1203",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "E1204",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "E1205",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "E1301",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "E1302",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "E1303",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "E1304",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "E1305",
+   "riasec_majeur": "C",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "E1306",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "E1307",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "E1308",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "E1401",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "E1402",
+   "riasec_majeur": "E",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "F1101",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "F1102",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "F1103",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "F1104",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "F1105",
+   "riasec_majeur": "R",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "F1106",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "F1107",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "F1108",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "F1201",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "F1202",
+   "riasec_majeur": "E",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "F1203",
+   "riasec_majeur": "E",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "F1204",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "F1301",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "F1302",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "F1401",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "F1402",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "F1501",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "F1502",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "F1503",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "F1601",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "F1602",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "F1603",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "F1604",
+   "riasec_majeur": "R",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "F1605",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "F1606",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "F1607",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "F1608",
+   "riasec_majeur": "R",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "F1609",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "F1610",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "F1611",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "F1612",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "F1613",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "F1701",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "F1702",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "F1703",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "F1704",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "F1705",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "F1706",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1101",
+   "riasec_majeur": "S",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1102",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1201",
+   "riasec_majeur": "S",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1202",
+   "riasec_majeur": "S",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "G1203",
+   "riasec_majeur": "S",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1204",
+   "riasec_majeur": "S",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "G1205",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1206",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "G1301",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1302",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1303",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "G1401",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "G1402",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1403",
+   "riasec_majeur": "E",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "G1404",
+   "riasec_majeur": "E",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "G1501",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1502",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1503",
+   "riasec_majeur": "E",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "G1601",
+   "riasec_majeur": "E",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "G1602",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1603",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1604",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1605",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1701",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "G1702",
+   "riasec_majeur": "R",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "G1703",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "G1801",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "G1802",
+   "riasec_majeur": "E",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "G1803",
+   "riasec_majeur": "R",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "G1804",
+   "riasec_majeur": "R",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "H1101",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "H1102",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H1201",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "H1202",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H1203",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H1204",
+   "riasec_majeur": "A",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "H1205",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "H1206",
+   "riasec_majeur": "E",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "H1207",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "H1208",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H1209",
+   "riasec_majeur": "R",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "H1210",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H1301",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "H1302",
+   "riasec_majeur": "E",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "H1303",
+   "riasec_majeur": "R",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "H1401",
+   "riasec_majeur": "E",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "H1402",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H1403",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H1404",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H1501",
+   "riasec_majeur": "E",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "H1502",
+   "riasec_majeur": "I",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "H1503",
+   "riasec_majeur": "I",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "H1504",
+   "riasec_majeur": "I",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "H1505",
+   "riasec_majeur": "I",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "H1506",
+   "riasec_majeur": "I",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "H2101",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2102",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2201",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2202",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2203",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2204",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2205",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2206",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "H2207",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "H2208",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "H2209",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2301",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2401",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "H2402",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "H2403",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2404",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2405",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2406",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2407",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2408",
+   "riasec_majeur": "R",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "H2409",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2410",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2411",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2412",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2413",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2414",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2415",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "H2501",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "H2502",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "H2503",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "H2504",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "H2505",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "H2601",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2602",
+   "riasec_majeur": "R",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "H2603",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2604",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2605",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2701",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2801",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2802",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2803",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2804",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2805",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2901",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2902",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2903",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2904",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2905",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2906",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2907",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2908",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2909",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2910",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2911",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2912",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2913",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H2914",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H3101",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H3102",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H3201",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H3202",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H3203",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H3301",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H3302",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H3303",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H3401",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H3402",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H3403",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "H3404",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1101",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "I1102",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "I1103",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "I1201",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1202",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "I1203",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1301",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1302",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1303",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1304",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1305",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1306",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1307",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1308",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1309",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1310",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1401",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1402",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1501",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1502",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1503",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1601",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1602",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1603",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1604",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1605",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1606",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "I1607",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "J1101",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1102",
+   "riasec_majeur": "I",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "J1103",
+   "riasec_majeur": "I",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "J1104",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1201",
+   "riasec_majeur": "I",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "J1202",
+   "riasec_majeur": "I",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "J1301",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "J1302",
+   "riasec_majeur": "I",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "J1303",
+   "riasec_majeur": "I",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "J1304",
+   "riasec_majeur": "S",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "J1305",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1306",
+   "riasec_majeur": "I",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "J1307",
+   "riasec_majeur": "I",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "J1401",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1402",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1403",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1404",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1405",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1406",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1407",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1408",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1409",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1410",
+   "riasec_majeur": "R",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1411",
+   "riasec_majeur": "R",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1412",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1501",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1502",
+   "riasec_majeur": "E",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "J1503",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1504",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1505",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1506",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "J1507",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "K1101",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "K1102",
+   "riasec_majeur": "S",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K1103",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "K1104",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "K1201",
+   "riasec_majeur": "S",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K1202",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "K1203",
+   "riasec_majeur": "S",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "K1204",
+   "riasec_majeur": "S",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K1205",
+   "riasec_majeur": "S",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K1206",
+   "riasec_majeur": "S",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "K1207",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "K1301",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "K1302",
+   "riasec_majeur": "S",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "K1303",
+   "riasec_majeur": "S",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "K1304",
+   "riasec_majeur": "R",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "K1305",
+   "riasec_majeur": "S",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K1401",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K1402",
+   "riasec_majeur": "I",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K1403",
+   "riasec_majeur": "E",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "K1404",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K1405",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K1501",
+   "riasec_majeur": "C",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "K1502",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "K1503",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "K1504",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "K1505",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "K1601",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "K1602",
+   "riasec_majeur": "A",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K1701",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K1702",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "K1703",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K1704",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K1705",
+   "riasec_majeur": "R",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "K1706",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "K1707",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "K1801",
+   "riasec_majeur": "S",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "K1802",
+   "riasec_majeur": "E",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "K1901",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "K1902",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "K1903",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "K1904",
+   "riasec_majeur": "C",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "K2101",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "K2102",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "K2103",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "K2104",
+   "riasec_majeur": "S",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K2105",
+   "riasec_majeur": "S",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "K2106",
+   "riasec_majeur": "S",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K2107",
+   "riasec_majeur": "S",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K2108",
+   "riasec_majeur": "S",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "K2109",
+   "riasec_majeur": "S",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K2110",
+   "riasec_majeur": "S",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "K2111",
+   "riasec_majeur": "S",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "K2112",
+   "riasec_majeur": "S",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "K2201",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K2202",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K2203",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "K2204",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K2301",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K2302",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "K2303",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K2304",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "K2305",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K2306",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K2401",
+   "riasec_majeur": "I",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "K2402",
+   "riasec_majeur": "I",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K2501",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K2502",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "K2503",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "K2601",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "K2602",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "K2603",
+   "riasec_majeur": "R",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "L1101",
+   "riasec_majeur": "A",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "L1102",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "L1103",
+   "riasec_majeur": "A",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "L1201",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "L1202",
+   "riasec_majeur": "A",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "L1203",
+   "riasec_majeur": "A",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "L1204",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "L1301",
+   "riasec_majeur": "A",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "L1302",
+   "riasec_majeur": "E",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "L1303",
+   "riasec_majeur": "E",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "L1304",
+   "riasec_majeur": "A",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "L1401",
+   "riasec_majeur": "E",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "L1501",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "L1502",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "L1503",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "L1504",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "L1505",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "L1506",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "L1507",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "L1508",
+   "riasec_majeur": "A",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "L1509",
+   "riasec_majeur": "C",
+   "riasec_mineur": "A"
+ },
+ {
+   "code_rome": "L1510",
+   "riasec_majeur": "A",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "M1101",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "M1102",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1201",
+   "riasec_majeur": "E",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "M1202",
+   "riasec_majeur": "C",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "M1203",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "M1204",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1205",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1206",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "M1207",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "M1301",
+   "riasec_majeur": "E",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "M1302",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1401",
+   "riasec_majeur": "I",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1402",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1403",
+   "riasec_majeur": "I",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1404",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "M1501",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "M1502",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1503",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1601",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "M1602",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "M1603",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "M1604",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "M1605",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "M1606",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "M1607",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "M1608",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "M1609",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "M1701",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "M1702",
+   "riasec_majeur": "E",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "M1703",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1704",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1705",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1706",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1707",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1801",
+   "riasec_majeur": "I",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1802",
+   "riasec_majeur": "I",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1803",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1804",
+   "riasec_majeur": "I",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "M1805",
+   "riasec_majeur": "I",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "M1806",
+   "riasec_majeur": "I",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1807",
+   "riasec_majeur": "I",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "M1808",
+   "riasec_majeur": "I",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1809",
+   "riasec_majeur": "I",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "M1810",
+   "riasec_majeur": "I",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N1101",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N1102",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N1103",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N1104",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N1105",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N1201",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "N1202",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "N1301",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "N1302",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N1303",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "N2101",
+   "riasec_majeur": "I",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "N2102",
+   "riasec_majeur": "I",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "N2201",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "N2202",
+   "riasec_majeur": "C",
+   "riasec_mineur": "I"
+ },
+ {
+   "code_rome": "N2203",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N2204",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "N2205",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N3101",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "N3102",
+   "riasec_majeur": "R",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "N3103",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N3201",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "N3202",
+   "riasec_majeur": "C",
+   "riasec_mineur": "E"
+ },
+ {
+   "code_rome": "N3203",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N4101",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N4102",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N4103",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N4104",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N4105",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N4201",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N4202",
+   "riasec_majeur": "E",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N4203",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "N4204",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "N4301",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N4302",
+   "riasec_majeur": "C",
+   "riasec_mineur": "S"
+ },
+ {
+   "code_rome": "N4401",
+   "riasec_majeur": "C",
+   "riasec_mineur": "R"
+ },
+ {
+   "code_rome": "N4402",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ },
+ {
+   "code_rome": "N4403",
+   "riasec_majeur": "R",
+   "riasec_mineur": "C"
+ }
+]

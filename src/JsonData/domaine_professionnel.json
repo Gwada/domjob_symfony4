@@ -1,0 +1,442 @@
+[
+ {
+   "code_domaine_professionnel": "A11",
+   "libelle_domaine_professionnel": "Engins agricoles et forestiers"
+ },
+ {
+   "code_domaine_professionnel": "A12",
+   "libelle_domaine_professionnel": "Espaces naturels et espaces verts"
+ },
+ {
+   "code_domaine_professionnel": "A13",
+   "libelle_domaine_professionnel": "Etudes et assistance technique"
+ },
+ {
+   "code_domaine_professionnel": "A14",
+   "libelle_domaine_professionnel": "Production"
+ },
+ {
+   "code_domaine_professionnel": "A15",
+   "libelle_domaine_professionnel": "Soins aux animaux"
+ },
+ {
+   "code_domaine_professionnel": "B11",
+   "libelle_domaine_professionnel": "Arts plastiques"
+ },
+ {
+   "code_domaine_professionnel": "B12",
+   "libelle_domaine_professionnel": "Céramique"
+ },
+ {
+   "code_domaine_professionnel": "B13",
+   "libelle_domaine_professionnel": "Décoration"
+ },
+ {
+   "code_domaine_professionnel": "B14",
+   "libelle_domaine_professionnel": "Fibres et papier"
+ },
+ {
+   "code_domaine_professionnel": "B15",
+   "libelle_domaine_professionnel": "Instruments de musique"
+ },
+ {
+   "code_domaine_professionnel": "B16",
+   "libelle_domaine_professionnel": "Métal, verre, bijouterie et horlogerie"
+ },
+ {
+   "code_domaine_professionnel": "B17",
+   "libelle_domaine_professionnel": "Taxidermie"
+ },
+ {
+   "code_domaine_professionnel": "B18",
+   "libelle_domaine_professionnel": "Tissu et cuirs"
+ },
+ {
+   "code_domaine_professionnel": "C11",
+   "libelle_domaine_professionnel": "Assurance"
+ },
+ {
+   "code_domaine_professionnel": "C12",
+   "libelle_domaine_professionnel": "Banque"
+ },
+ {
+   "code_domaine_professionnel": "C13",
+   "libelle_domaine_professionnel": "Finance"
+ },
+ {
+   "code_domaine_professionnel": "C14",
+   "libelle_domaine_professionnel": "Gestion administrative banque et assurances"
+ },
+ {
+   "code_domaine_professionnel": "C15",
+   "libelle_domaine_professionnel": "Immobilier"
+ },
+ {
+   "code_domaine_professionnel": "D11",
+   "libelle_domaine_professionnel": "Commerce alimentaire et métiers de bouche"
+ },
+ {
+   "code_domaine_professionnel": "D12",
+   "libelle_domaine_professionnel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_domaine_professionnel": "D13",
+   "libelle_domaine_professionnel": "Direction de magasin de détail"
+ },
+ {
+   "code_domaine_professionnel": "D14",
+   "libelle_domaine_professionnel": "Force de vente"
+ },
+ {
+   "code_domaine_professionnel": "D15",
+   "libelle_domaine_professionnel": "Grande distribution"
+ },
+ {
+   "code_domaine_professionnel": "E11",
+   "libelle_domaine_professionnel": "Edition et communication"
+ },
+ {
+   "code_domaine_professionnel": "E12",
+   "libelle_domaine_professionnel": "Images et sons"
+ },
+ {
+   "code_domaine_professionnel": "E13",
+   "libelle_domaine_professionnel": "Industries graphiques"
+ },
+ {
+   "code_domaine_professionnel": "E14",
+   "libelle_domaine_professionnel": "Publicité"
+ },
+ {
+   "code_domaine_professionnel": "F11",
+   "libelle_domaine_professionnel": "Conception et études"
+ },
+ {
+   "code_domaine_professionnel": "F12",
+   "libelle_domaine_professionnel": "Conduite et encadrement de chantier - travaux"
+ },
+ {
+   "code_domaine_professionnel": "F13",
+   "libelle_domaine_professionnel": "Engins de chantier"
+ },
+ {
+   "code_domaine_professionnel": "F14",
+   "libelle_domaine_professionnel": "Extraction"
+ },
+ {
+   "code_domaine_professionnel": "F15",
+   "libelle_domaine_professionnel": "Montage de structures"
+ },
+ {
+   "code_domaine_professionnel": "F16",
+   "libelle_domaine_professionnel": "Second oeuvre"
+ },
+ {
+   "code_domaine_professionnel": "F17",
+   "libelle_domaine_professionnel": "Travaux et gros oeuvre"
+ },
+ {
+   "code_domaine_professionnel": "N11",
+   "libelle_domaine_professionnel": "Magasinage, manutention des charges et déménagement"
+ },
+ {
+   "code_domaine_professionnel": "N12",
+   "libelle_domaine_professionnel": "Organisation de la circulation des marchandises"
+ },
+ {
+   "code_domaine_professionnel": "N13",
+   "libelle_domaine_professionnel": "Personnel d''encadrement"
+ },
+ {
+   "code_domaine_professionnel": "N21",
+   "libelle_domaine_professionnel": "Personnel navigant du transport aérien"
+ },
+ {
+   "code_domaine_professionnel": "N22",
+   "libelle_domaine_professionnel": "Personnel sédentaire du transport aérien"
+ },
+ {
+   "code_domaine_professionnel": "N41",
+   "libelle_domaine_professionnel": "Personnel de conduite du transport routier"
+ },
+ {
+   "code_domaine_professionnel": "N42",
+   "libelle_domaine_professionnel": "Personnel d''encadrement du transport routier"
+ },
+ {
+   "code_domaine_professionnel": "N43",
+   "libelle_domaine_professionnel": "Personnel navigant du transport terrestre"
+ },
+ {
+   "code_domaine_professionnel": "N44",
+   "libelle_domaine_professionnel": "Personnel sédentaire du transport ferroviaire et réseau filo guidé"
+ },
+ {
+   "code_domaine_professionnel": "N31",
+   "libelle_domaine_professionnel": "Personnel navigant du transport maritime et fluvial"
+ },
+ {
+   "code_domaine_professionnel": "N32",
+   "libelle_domaine_professionnel": "Personnel sédentaire du transport maritime et fluvial"
+ },
+ {
+   "code_domaine_professionnel": "M11",
+   "libelle_domaine_professionnel": "Achats"
+ },
+ {
+   "code_domaine_professionnel": "M12",
+   "libelle_domaine_professionnel": "Comptabilité et gestion"
+ },
+ {
+   "code_domaine_professionnel": "M13",
+   "libelle_domaine_professionnel": "Direction d''entreprise"
+ },
+ {
+   "code_domaine_professionnel": "M14",
+   "libelle_domaine_professionnel": "Organisation et études"
+ },
+ {
+   "code_domaine_professionnel": "M15",
+   "libelle_domaine_professionnel": "Ressources humaines"
+ },
+ {
+   "code_domaine_professionnel": "M16",
+   "libelle_domaine_professionnel": "Secrétariat et assistance"
+ },
+ {
+   "code_domaine_professionnel": "M17",
+   "libelle_domaine_professionnel": "Stratégie commerciale, marketing et supervision des ventes"
+ },
+ {
+   "code_domaine_professionnel": "M18",
+   "libelle_domaine_professionnel": "Systèmes d''information et de télécommunication"
+ },
+ {
+   "code_domaine_professionnel": "L11",
+   "libelle_domaine_professionnel": "Animation de spectacles"
+ },
+ {
+   "code_domaine_professionnel": "L12",
+   "libelle_domaine_professionnel": "Artistes - interprètes du spectacle"
+ },
+ {
+   "code_domaine_professionnel": "L13",
+   "libelle_domaine_professionnel": "Conception et production de spectacles"
+ },
+ {
+   "code_domaine_professionnel": "G11",
+   "libelle_domaine_professionnel": "Accueil et promotion touristique"
+ },
+ {
+   "code_domaine_professionnel": "G12",
+   "libelle_domaine_professionnel": "Animation d''activités de loisirs"
+ },
+ {
+   "code_domaine_professionnel": "G13",
+   "libelle_domaine_professionnel": "Conception, commercialisation et vente de produits touristiques"
+ },
+ {
+   "code_domaine_professionnel": "G14",
+   "libelle_domaine_professionnel": "Gestion et direction"
+ },
+ {
+   "code_domaine_professionnel": "G15",
+   "libelle_domaine_professionnel": "Personnel d''étage en hôtellerie"
+ },
+ {
+   "code_domaine_professionnel": "G16",
+   "libelle_domaine_professionnel": "Production culinaire"
+ },
+ {
+   "code_domaine_professionnel": "L14",
+   "libelle_domaine_professionnel": "Sport professionnel"
+ },
+ {
+   "code_domaine_professionnel": "G17",
+   "libelle_domaine_professionnel": "Accueil en hôtellerie"
+ },
+ {
+   "code_domaine_professionnel": "G18",
+   "libelle_domaine_professionnel": "Service"
+ },
+ {
+   "code_domaine_professionnel": "L15",
+   "libelle_domaine_professionnel": "Techniciens du spectacle"
+ },
+ {
+   "code_domaine_professionnel": "K11",
+   "libelle_domaine_professionnel": "Accompagnement de la personne"
+ },
+ {
+   "code_domaine_professionnel": "K12",
+   "libelle_domaine_professionnel": "Action sociale, socio-éducative et socio-culturelle"
+ },
+ {
+   "code_domaine_professionnel": "K13",
+   "libelle_domaine_professionnel": "Aide à la vie quotidienne"
+ },
+ {
+   "code_domaine_professionnel": "K14",
+   "libelle_domaine_professionnel": "Conception et mise en oeuvre des politiques publiques"
+ },
+ {
+   "code_domaine_professionnel": "K15",
+   "libelle_domaine_professionnel": "Contrôle public"
+ },
+ {
+   "code_domaine_professionnel": "K16",
+   "libelle_domaine_professionnel": "Culture et gestion documentaire"
+ },
+ {
+   "code_domaine_professionnel": "K17",
+   "libelle_domaine_professionnel": "Défense, sécurité publique et secours"
+ },
+ {
+   "code_domaine_professionnel": "K18",
+   "libelle_domaine_professionnel": "Développement territorial et emploi"
+ },
+ {
+   "code_domaine_professionnel": "K19",
+   "libelle_domaine_professionnel": "Droit"
+ },
+ {
+   "code_domaine_professionnel": "K21",
+   "libelle_domaine_professionnel": "Formation initiale et continue"
+ },
+ {
+   "code_domaine_professionnel": "K22",
+   "libelle_domaine_professionnel": "Nettoyage et propreté industriels"
+ },
+ {
+   "code_domaine_professionnel": "K23",
+   "libelle_domaine_professionnel": "Propreté et environnement urbain"
+ },
+ {
+   "code_domaine_professionnel": "K24",
+   "libelle_domaine_professionnel": "Recherche"
+ },
+ {
+   "code_domaine_professionnel": "K25",
+   "libelle_domaine_professionnel": "Sécurité privée"
+ },
+ {
+   "code_domaine_professionnel": "K26",
+   "libelle_domaine_professionnel": "Services funéraires"
+ },
+ {
+   "code_domaine_professionnel": "I11",
+   "libelle_domaine_professionnel": "Encadrement"
+ },
+ {
+   "code_domaine_professionnel": "I12",
+   "libelle_domaine_professionnel": "Entretien technique"
+ },
+ {
+   "code_domaine_professionnel": "I13",
+   "libelle_domaine_professionnel": "Equipements de production, équipements collectifs"
+ },
+ {
+   "code_domaine_professionnel": "I14",
+   "libelle_domaine_professionnel": "Equipements domestiques et informatique"
+ },
+ {
+   "code_domaine_professionnel": "I15",
+   "libelle_domaine_professionnel": "Travaux d''accès difficile"
+ },
+ {
+   "code_domaine_professionnel": "I16",
+   "libelle_domaine_professionnel": "Véhicules, engins, aéronefs"
+ },
+ {
+   "code_domaine_professionnel": "J11",
+   "libelle_domaine_professionnel": "Praticiens médicaux"
+ },
+ {
+   "code_domaine_professionnel": "J12",
+   "libelle_domaine_professionnel": "Praticiens médico-techniques"
+ },
+ {
+   "code_domaine_professionnel": "H11",
+   "libelle_domaine_professionnel": "Affaires et support technique client"
+ },
+ {
+   "code_domaine_professionnel": "H12",
+   "libelle_domaine_professionnel": "Conception, recherche, études et développement"
+ },
+ {
+   "code_domaine_professionnel": "H13",
+   "libelle_domaine_professionnel": "Hygiène Sécurité Environnement -HSE- industriels"
+ },
+ {
+   "code_domaine_professionnel": "J13",
+   "libelle_domaine_professionnel": "Professionnels médico-techniques"
+ },
+ {
+   "code_domaine_professionnel": "H14",
+   "libelle_domaine_professionnel": "Méthodes et gestion industrielles"
+ },
+ {
+   "code_domaine_professionnel": "H15",
+   "libelle_domaine_professionnel": "Qualité et analyses industrielles"
+ },
+ {
+   "code_domaine_professionnel": "J14",
+   "libelle_domaine_professionnel": "Rééducation et appareillage"
+ },
+ {
+   "code_domaine_professionnel": "J15",
+   "libelle_domaine_professionnel": "Soins paramédicaux"
+ },
+ {
+   "code_domaine_professionnel": "H21",
+   "libelle_domaine_professionnel": "Alimentaire"
+ },
+ {
+   "code_domaine_professionnel": "H22",
+   "libelle_domaine_professionnel": "Bois"
+ },
+ {
+   "code_domaine_professionnel": "H23",
+   "libelle_domaine_professionnel": "Chimie et pharmacie"
+ },
+ {
+   "code_domaine_professionnel": "H24",
+   "libelle_domaine_professionnel": "Cuir et textile"
+ },
+ {
+   "code_domaine_professionnel": "H25",
+   "libelle_domaine_professionnel": "Direction, encadrement et pilotage de fabrication et production industrielles"
+ },
+ {
+   "code_domaine_professionnel": "H26",
+   "libelle_domaine_professionnel": "Electronique et électricité"
+ },
+ {
+   "code_domaine_professionnel": "H27",
+   "libelle_domaine_professionnel": "Energie"
+ },
+ {
+   "code_domaine_professionnel": "H28",
+   "libelle_domaine_professionnel": "Matériaux de construction, céramique et verre"
+ },
+ {
+   "code_domaine_professionnel": "H29",
+   "libelle_domaine_professionnel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_domaine_professionnel": "H31",
+   "libelle_domaine_professionnel": "Papier et carton"
+ },
+ {
+   "code_domaine_professionnel": "H32",
+   "libelle_domaine_professionnel": "Plastique, caoutchouc"
+ },
+ {
+   "code_domaine_professionnel": "H33",
+   "libelle_domaine_professionnel": "Préparation et conditionnement"
+ },
+ {
+   "code_domaine_professionnel": "H34",
+   "libelle_domaine_professionnel": "Traitements thermiques et traitements de surfaces"
+ }
+]

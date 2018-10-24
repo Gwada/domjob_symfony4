@@ -1,0 +1,79 @@
+[
+ {
+   "code_ref_rubrique": 1,
+   "code_type_referentiel": 6,
+   "code_compo_bloc": 1,
+   "position_bloc": 1,
+   "libelle_ref_rubrique": "Arborescence"
+ },
+ {
+   "code_ref_rubrique": 2,
+   "code_type_referentiel": 3,
+   "code_compo_bloc": 2,
+   "position_bloc": 1,
+   "libelle_ref_rubrique": "Code ROME"
+ },
+ {
+   "code_ref_rubrique": 3,
+   "code_type_referentiel": 3,
+   "code_compo_bloc": 2,
+   "position_bloc": 1,
+   "libelle_ref_rubrique": "Intitulé"
+ },
+ {
+   "code_ref_rubrique": 4,
+   "code_type_referentiel": 4,
+   "code_compo_bloc": 3,
+   "position_bloc": 1,
+   "libelle_ref_rubrique": "Appellations"
+ },
+ {
+   "code_ref_rubrique": 5,
+   "code_type_referentiel": 5,
+   "code_compo_bloc": 7,
+   "position_bloc": 1,
+   "libelle_ref_rubrique": "Environnements de travail"
+ },
+ {
+   "code_ref_rubrique": 6,
+   "code_type_referentiel": 2,
+   "code_compo_bloc": 8,
+   "position_bloc": 1,
+   "libelle_ref_rubrique": "Activités de base"
+ },
+ {
+   "code_ref_rubrique": 7,
+   "code_type_referentiel": 1,
+   "code_compo_bloc": 8,
+   "position_bloc": 2,
+   "libelle_ref_rubrique": "Savoirs théoriques et procéduraux (AB)"
+ },
+ {
+   "code_ref_rubrique": 8,
+   "code_type_referentiel": 1,
+   "code_compo_bloc": 8,
+   "position_bloc": 3,
+   "libelle_ref_rubrique": "Savoirs de l''action (AB)"
+ },
+ {
+   "code_ref_rubrique": 9,
+   "code_type_referentiel": 2,
+   "code_compo_bloc": 9,
+   "position_bloc": 1,
+   "libelle_ref_rubrique": "Activités spécifiques"
+ },
+ {
+   "code_ref_rubrique": 10,
+   "code_type_referentiel": 1,
+   "code_compo_bloc": 9,
+   "position_bloc": 2,
+   "libelle_ref_rubrique": "Savoirs théoriques et procéduraux (AS)"
+ },
+ {
+   "code_ref_rubrique": 11,
+   "code_type_referentiel": 1,
+   "code_compo_bloc": 9,
+   "position_bloc": 3,
+   "libelle_ref_rubrique": "Savoirs de l''action (AS)"
+ }
+]

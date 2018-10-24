@@ -1,0 +1,72 @@
+[
+ {
+   "code_compo_bloc": 1,
+   "libelle_bloc": "Arborescence",
+   "type_referentiel": "AR"
+ },
+ {
+   "code_compo_bloc": 2,
+   "libelle_bloc": "Code ROME et intitulé",
+   "type_referentiel": "RI"
+ },
+ {
+   "code_compo_bloc": 3,
+   "libelle_bloc": "Appellations",
+   "type_referentiel": "RI"
+ },
+ {
+   "code_compo_bloc": 4,
+   "libelle_bloc": "Définition",
+   "type_referentiel": "RT"
+ },
+ {
+   "code_compo_bloc": 5,
+   "libelle_bloc": "Accès à l''emploi/métier",
+   "type_referentiel": "RT"
+ },
+ {
+   "code_compo_bloc": 6,
+   "libelle_bloc": "Conditions d''exercice de l''activité",
+   "type_referentiel": "RT"
+ },
+ {
+   "code_compo_bloc": 7,
+   "libelle_bloc": "Environnements de travail",
+   "type_referentiel": "RI"
+ },
+ {
+   "code_compo_bloc": 8,
+   "libelle_bloc": "Activités de base",
+   "type_referentiel": "RI"
+ },
+ {
+   "code_compo_bloc": 9,
+   "libelle_bloc": "Activités spécifiques",
+   "type_referentiel": "RI"
+ },
+ {
+   "code_compo_bloc": 10,
+   "libelle_bloc": "Mobilités",
+   "type_referentiel": "MT"
+ },
+ {
+   "code_compo_bloc": 11,
+   "libelle_bloc": "Commentaires",
+   "type_referentiel": "CT"
+ },
+ {
+   "code_compo_bloc": 12,
+   "libelle_bloc": "formations associées",
+   "type_referentiel": "RE"
+ },
+ {
+   "code_compo_bloc": 13,
+   "libelle_bloc": "classement des emplois/métiers",
+   "type_referentiel": "RE"
+ },
+ {
+   "code_compo_bloc": 14,
+   "libelle_bloc": "Rubriques textuelles à venir",
+   "type_referentiel": "RT"
+ }
+]

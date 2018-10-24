@@ -1,0 +1,5343 @@
+[
+ {
+   "code_ogr": 23432,
+   "libelle_env_travail": "Charcuterie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23478,
+   "libelle_env_travail": "Elevage de coquillages et crustacés",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23587,
+   "libelle_env_travail": "Poissonnerie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23623,
+   "libelle_env_travail": "Retoucherie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23634,
+   "libelle_env_travail": "Service de Soins Infirmiers à domicile -SSIAD-",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23678,
+   "libelle_env_travail": "Abattoir",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23679,
+   "libelle_env_travail": "Aciérie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23680,
+   "libelle_env_travail": "Aéroclub",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23681,
+   "libelle_env_travail": "Aérodrome",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23682,
+   "libelle_env_travail": "Aéroport",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23683,
+   "libelle_env_travail": "Agence artistique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23684,
+   "libelle_env_travail": "Agence commerciale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23685,
+   "libelle_env_travail": "Agence de castings",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23686,
+   "libelle_env_travail": "Agence de communication",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23687,
+   "libelle_env_travail": "Agence de design",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23688,
+   "libelle_env_travail": "Agence de l''Eau",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23689,
+   "libelle_env_travail": "Agence de mannequins",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23690,
+   "libelle_env_travail": "Agence de presse",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23691,
+   "libelle_env_travail": "Agence de promotion et de marketing direct",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23692,
+   "libelle_env_travail": "Agence de publicité",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23693,
+   "libelle_env_travail": "Agence de sécurité sanitaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23694,
+   "libelle_env_travail": "Agence de tourisme",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23695,
+   "libelle_env_travail": "Agence de voyages",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23696,
+   "libelle_env_travail": "Agence d''évènementiel",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23697,
+   "libelle_env_travail": "Agence d''illustration (photothèque)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23698,
+   "libelle_env_travail": "Agence et syndic immobilier",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23699,
+   "libelle_env_travail": "Agence littéraire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23700,
+   "libelle_env_travail": "Agence postale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23701,
+   "libelle_env_travail": "Ambassade",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23702,
+   "libelle_env_travail": "Animalerie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23703,
+   "libelle_env_travail": "Annonceur",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23704,
+   "libelle_env_travail": "Armateur",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23705,
+   "libelle_env_travail": "Armurerie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23706,
+   "libelle_env_travail": "Association",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23707,
+   "libelle_env_travail": "Association à caractère social",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23708,
+   "libelle_env_travail": "Association culturelle ou de loisirs",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23709,
+   "libelle_env_travail": "Association de protection de la nature",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23710,
+   "libelle_env_travail": "Association d''insertion",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23711,
+   "libelle_env_travail": "Association familiale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23712,
+   "libelle_env_travail": "Atelier d''artiste",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23713,
+   "libelle_env_travail": "Atelier de confection",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23714,
+   "libelle_env_travail": "Atelier de décors",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23715,
+   "libelle_env_travail": "Atelier de réparation/Service Après-Vente -SAV-",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23716,
+   "libelle_env_travail": "Atelier intégré",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23717,
+   "libelle_env_travail": "Bar à thème",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23718,
+   "libelle_env_travail": "Bateau école",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23719,
+   "libelle_env_travail": "Bibliothèque, centre de documentation",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23720,
+   "libelle_env_travail": "Billetterie spectacle (cinéma, théâtre, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23721,
+   "libelle_env_travail": "Boucherie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23722,
+   "libelle_env_travail": "Boucherie-charcuterie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23723,
+   "libelle_env_travail": "Boulangerie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23724,
+   "libelle_env_travail": "Boutique de luxe",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23725,
+   "libelle_env_travail": "Boutique, commerce de détail",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23726,
+   "libelle_env_travail": "Brasserie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23727,
+   "libelle_env_travail": "Brasserie artisanale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23728,
+   "libelle_env_travail": "Brigade de contrôle et de recherche",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23729,
+   "libelle_env_travail": "Brocante",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23730,
+   "libelle_env_travail": "Bureau de change de devise",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23731,
+   "libelle_env_travail": "Bureau de contrôle technique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23732,
+   "libelle_env_travail": "Bureau de coordonnateurs Sécurité et Protection de la Santé -SPS-",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23733,
+   "libelle_env_travail": "Bureau de design intégré",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23734,
+   "libelle_env_travail": "Bureau de style, de tendance",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23735,
+   "libelle_env_travail": "Bureau d''études et d''ingénierie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23736,
+   "libelle_env_travail": "Cabane à crêpes",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23737,
+   "libelle_env_travail": "Cabaret",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23738,
+   "libelle_env_travail": "Cabinet comptable",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23739,
+   "libelle_env_travail": "Cabinet d''architectes",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23740,
+   "libelle_env_travail": "Cabinet de courtage en assurances",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23741,
+   "libelle_env_travail": "Cabinet de géomètres",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23742,
+   "libelle_env_travail": "Cabinet de métrés",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23743,
+   "libelle_env_travail": "Cabinet de recrutement",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23744,
+   "libelle_env_travail": "Cabinet dentaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23745,
+   "libelle_env_travail": "Cabinet d''expertise maritime",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23746,
+   "libelle_env_travail": "Cabinet d''ophtalmologie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23747,
+   "libelle_env_travail": "Cabinet d''orthophonie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23748,
+   "libelle_env_travail": "Cabinet d''orthoptie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23749,
+   "libelle_env_travail": "Cabinet juridique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23750,
+   "libelle_env_travail": "Cabinet médical",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23751,
+   "libelle_env_travail": "Café, bar",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23752,
+   "libelle_env_travail": "Caisse d''assurance maladie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23753,
+   "libelle_env_travail": "Caisse de retraite et de prévoyance",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23754,
+   "libelle_env_travail": "Casino",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23755,
+   "libelle_env_travail": "Cave d''affinage",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23756,
+   "libelle_env_travail": "Cave vinicole",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23757,
+   "libelle_env_travail": "Cellule conseil de la douane",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23758,
+   "libelle_env_travail": "Centrale d''achat",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23759,
+   "libelle_env_travail": "Centrale de béton prêt à l''emploi",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23760,
+   "libelle_env_travail": "Centrale de réservation",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23761,
+   "libelle_env_travail": "Centrale de traitement d''enrobés",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23762,
+   "libelle_env_travail": "Centrale nucléaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23763,
+   "libelle_env_travail": "Centre auto, service rapide",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23764,
+   "libelle_env_travail": "Centre d''adaptation à la vie active",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23765,
+   "libelle_env_travail": "Etablissement et service d''aide par le travail (ESAT)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23766,
+   "libelle_env_travail": "Centre d''appels",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23767,
+   "libelle_env_travail": "Centre de bilan de compétences",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23768,
+   "libelle_env_travail": "Centre de contrôle régional",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23769,
+   "libelle_env_travail": "Centre de contrôle technique automobile",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23770,
+   "libelle_env_travail": "Centre de formation des apprentis",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23771,
+   "libelle_env_travail": "Centre de formation pour adultes",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23772,
+   "libelle_env_travail": "Accueil de loisirs sans hébergement",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23773,
+   "libelle_env_travail": "Service de santé au travail",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23774,
+   "libelle_env_travail": "Centre de Protection Maternelle et Infantile",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23776,
+   "libelle_env_travail": "Centre de rééducation et de réadaptation fonctionnelle",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23777,
+   "libelle_env_travail": "Centre de remise en forme",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23778,
+   "libelle_env_travail": "Centre de santé",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23779,
+   "libelle_env_travail": "Centre de Surveillance du Commerce Electronique (CSCE)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23780,
+   "libelle_env_travail": "Accueil collectif de mineurs (ACM)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23781,
+   "libelle_env_travail": "Centre d''enseignement à distance",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23782,
+   "libelle_env_travail": "Centre des impôts",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23783,
+   "libelle_env_travail": "Centre d''imagerie médicale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23784,
+   "libelle_env_travail": "Centre d''information et d''orientation",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23785,
+   "libelle_env_travail": "Centre d''insémination",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23786,
+   "libelle_env_travail": "Centre du renseignement, d''orientation et de contrôle",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23787,
+   "libelle_env_travail": "Centre équestre / Club hippique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23788,
+   "libelle_env_travail": "Centre médico-psychologique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23789,
+   "libelle_env_travail": "Centre Régional de la Propriété Forestière",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23790,
+   "libelle_env_travail": "Centre socioculturel",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23791,
+   "libelle_env_travail": "Centre technique agréé",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23792,
+   "libelle_env_travail": "Cercle de jeux",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23793,
+   "libelle_env_travail": "Chaîne de télévision",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23794,
+   "libelle_env_travail": "Champignonnière",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23795,
+   "libelle_env_travail": "Chenil",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23796,
+   "libelle_env_travail": "Chocolaterie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23797,
+   "libelle_env_travail": "Cidrerie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23798,
+   "libelle_env_travail": "Cimenterie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23799,
+   "libelle_env_travail": "Cinéma art et essai",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23800,
+   "libelle_env_travail": "Cinéma en plein air",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23801,
+   "libelle_env_travail": "Cinéma généraliste",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23802,
+   "libelle_env_travail": "Cinéma itinérant",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23803,
+   "libelle_env_travail": "Cinéma multiplexe",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23804,
+   "libelle_env_travail": "Cinémathèque",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23805,
+   "libelle_env_travail": "Cirque",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23806,
+   "libelle_env_travail": "Club du troisième âge",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23807,
+   "libelle_env_travail": "Club sportif",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23808,
+   "libelle_env_travail": "Collectivité territoriale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23809,
+   "libelle_env_travail": "Collège",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23810,
+   "libelle_env_travail": "Comité d''entreprise",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23811,
+   "libelle_env_travail": "Commissionnaire de transport",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23812,
+   "libelle_env_travail": "Communauté d''agglomération",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23813,
+   "libelle_env_travail": "Communauté de communes",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23814,
+   "libelle_env_travail": "Communauté urbaine",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23815,
+   "libelle_env_travail": "Commune de - de 5000 habitants",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23816,
+   "libelle_env_travail": "Commune de + de 20000 habitants",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23817,
+   "libelle_env_travail": "Commune de + de 3500 habitants",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23818,
+   "libelle_env_travail": "Commune de 5000 à 20000 habitants",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23819,
+   "libelle_env_travail": "Compagnie aérienne",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23820,
+   "libelle_env_travail": "Compagnie aérienne avion-taxi",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23821,
+   "libelle_env_travail": "Compagnie artistique (théâtre, danse, arts de la rue, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23822,
+   "libelle_env_travail": "Compagnie d''assurances/mutuelle",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23823,
+   "libelle_env_travail": "Compagnie de transport maritime",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23824,
+   "libelle_env_travail": "Compagnie fluviale de tourisme",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23825,
+   "libelle_env_travail": "Compagnie pétrolière/gazière",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23826,
+   "libelle_env_travail": "Concession automobile",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23827,
+   "libelle_env_travail": "Confiserie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23828,
+   "libelle_env_travail": "Conseil de Prud''hommes",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23829,
+   "libelle_env_travail": "Conseil général",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23830,
+   "libelle_env_travail": "Conseil régional",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23831,
+   "libelle_env_travail": "Constructeur aéronautique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23832,
+   "libelle_env_travail": "Consulat",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23833,
+   "libelle_env_travail": "Coopérative agricole",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23834,
+   "libelle_env_travail": "Coopérative forestière",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23835,
+   "libelle_env_travail": "Cordonnerie multiservices",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23836,
+   "libelle_env_travail": "Cordonnerie traditionnelle",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23837,
+   "libelle_env_travail": "Cour d''appel",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23838,
+   "libelle_env_travail": "Cour d''assises",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23839,
+   "libelle_env_travail": "Cour de cassation",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23840,
+   "libelle_env_travail": "Crèmerie / fromagerie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23841,
+   "libelle_env_travail": "Crêperie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23842,
+   "libelle_env_travail": "Cuisine centrale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23843,
+   "libelle_env_travail": "Débit de tabac",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23844,
+   "libelle_env_travail": "Déchetterie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23845,
+   "libelle_env_travail": "Dépôt-vente",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23847,
+   "libelle_env_travail": "Direction départementale des affaires sanitaires et sociales",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23848,
+   "libelle_env_travail": "Direction générale de la concurrence, de la consommation et de la répression des fraudes",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23849,
+   "libelle_env_travail": "Direction générale de l''aviation civile",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23850,
+   "libelle_env_travail": "Direction générale des impôts",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23852,
+   "libelle_env_travail": "Direction Régionale des Affaires Sanitaires et Sociales",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23853,
+   "libelle_env_travail": "Ecole de conduite",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23854,
+   "libelle_env_travail": "Ecole d''enseignement artistique et conservatoire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23855,
+   "libelle_env_travail": "Ecole maternelle et primaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23856,
+   "libelle_env_travail": "Ecurie de course auto/moto",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23857,
+   "libelle_env_travail": "Elevage de canidés (chiens, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23858,
+   "libelle_env_travail": "Elevage de félidés (chats, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23859,
+   "libelle_env_travail": "Elevage de gastéropodes (escargots, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23860,
+   "libelle_env_travail": "Elevage de gibiers (sangliers, chevreuils, lièvres, faisans, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23861,
+   "libelle_env_travail": "Elevage de mustélidés (visons, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23862,
+   "libelle_env_travail": "Elevage de reptiles (crocodiles, serpents, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23863,
+   "libelle_env_travail": "Elevage de rongeurs (rats, souris, gerbilles, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23864,
+   "libelle_env_travail": "Elevage d''estive",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23865,
+   "libelle_env_travail": "Elevage d''insectes (abeilles, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23866,
+   "libelle_env_travail": "Elevage d''oiseaux (autruches, perroquets, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23867,
+   "libelle_env_travail": "Entreprise",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23868,
+   "libelle_env_travail": "Entreprise alimentaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23869,
+   "libelle_env_travail": "Entreprise aquacole",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23870,
+   "libelle_env_travail": "Entreprise artisanale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23871,
+   "libelle_env_travail": "Entreprise commerciale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23872,
+   "libelle_env_travail": "Entreprise d''activités maritimes/portuaires",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23873,
+   "libelle_env_travail": "Entreprise de déménagement",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23874,
+   "libelle_env_travail": "Entreprise de fabrication d''articles textiles",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23875,
+   "libelle_env_travail": "Entreprise de fabrication d''instruments de musique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23876,
+   "libelle_env_travail": "Entreprise de fabrication/réparation d''articles en cuir",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23877,
+   "libelle_env_travail": "Entreprise de forage/extraction",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23878,
+   "libelle_env_travail": "Entreprise de levage, manutention",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23879,
+   "libelle_env_travail": "Entreprise de location de bateau de plaisance fluviale avec équipage",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23880,
+   "libelle_env_travail": "Entreprise de location de matériels",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23881,
+   "libelle_env_travail": "Entreprise de location de véhicules",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23882,
+   "libelle_env_travail": "Entreprise de maraîchage",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23883,
+   "libelle_env_travail": "Entreprise de mareyage",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23884,
+   "libelle_env_travail": "Entreprise de messagerie/fret express",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23885,
+   "libelle_env_travail": "Entreprise de services funéraires",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23886,
+   "libelle_env_travail": "Entreprise de taille de pierres",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23887,
+   "libelle_env_travail": "Entreprise de transfert industriel",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23888,
+   "libelle_env_travail": "Entreprise de transport",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23889,
+   "libelle_env_travail": "Entreprise de transport de personnes",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23890,
+   "libelle_env_travail": "Entreprise de transport exceptionnel",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23891,
+   "libelle_env_travail": "Entreprise de transport ferroviaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23892,
+   "libelle_env_travail": "Entreprise de transport fluvial",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23893,
+   "libelle_env_travail": "Entreprise de transport fluvial de marchandises",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23894,
+   "libelle_env_travail": "Entreprise de transport fluvial de personnes",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23895,
+   "libelle_env_travail": "Entreprise de transport maritime de marchandises",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23896,
+   "libelle_env_travail": "Entreprise de transport maritime de personnes",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23897,
+   "libelle_env_travail": "Entreprise de transport multi-modal (fret maritime, fluvial, ferroviaire, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23898,
+   "libelle_env_travail": "Entreprise de transport routier",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23899,
+   "libelle_env_travail": "Entreprise de transport sanitaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23900,
+   "libelle_env_travail": "Entreprise de transport/messagerie/groupage",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23901,
+   "libelle_env_travail": "Entreprise de travail temporaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23902,
+   "libelle_env_travail": "Entreprise de travaux agricoles",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23903,
+   "libelle_env_travail": "Entreprise de Travaux Agricoles /parcs et jardins",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23904,
+   "libelle_env_travail": "Entreprise de travaux forestiers",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23905,
+   "libelle_env_travail": "Entreprise d''édition phonographique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23906,
+   "libelle_env_travail": "Entreprise d''insertion",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23907,
+   "libelle_env_travail": "Entreprise du paysage",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23908,
+   "libelle_env_travail": "Entreprise horticole",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23909,
+   "libelle_env_travail": "Entreprise industrielle",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23910,
+   "libelle_env_travail": "Entreprise industrielle de transformation",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23911,
+   "libelle_env_travail": "Entreprise Moyenne",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23912,
+   "libelle_env_travail": "Entreprise publique/établissement public",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23913,
+   "libelle_env_travail": "Equipementier du transport (aéronef, car, train, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23914,
+   "libelle_env_travail": "Etablissement bancaire et financier",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23915,
+   "libelle_env_travail": "Etablissement de jeux",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23916,
+   "libelle_env_travail": "Etablissement de nuit (discothèque, cabaret, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23917,
+   "libelle_env_travail": "Etablissement de restauration mobile (bateau de croisière, train, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23918,
+   "libelle_env_travail": "Etablissement de restauration rapide",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23919,
+   "libelle_env_travail": "Etablissement de soins vétérinaires",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23920,
+   "libelle_env_travail": "Etablissement d''enseignement spécialisé",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23921,
+   "libelle_env_travail": "Etablissement du sang",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23922,
+   "libelle_env_travail": "Etablissement médical (hôpital, clinique, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23923,
+   "libelle_env_travail": "Etablissement pénitentiaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23924,
+   "libelle_env_travail": "Etablissement scolaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23925,
+   "libelle_env_travail": "Etablissement/organisme de recherche",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23926,
+   "libelle_env_travail": "Etude de commissaire-priseur",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23927,
+   "libelle_env_travail": "Etude d''huissier",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23928,
+   "libelle_env_travail": "Etude notariale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23929,
+   "libelle_env_travail": "Exploitation agricole",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23930,
+   "libelle_env_travail": "Exploitation arboricole",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23931,
+   "libelle_env_travail": "Exploitation cidricole",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23932,
+   "libelle_env_travail": "Exploitation forestière",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23933,
+   "libelle_env_travail": "Exploitation viticole / vinicole",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23934,
+   "libelle_env_travail": "Fabricant assembleur",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23935,
+   "libelle_env_travail": "Fabricant d''appareillage auditif",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23936,
+   "libelle_env_travail": "Fabricant de matériel/mobilier médical",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23937,
+   "libelle_env_travail": "Fédération sportive",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23938,
+   "libelle_env_travail": "Ferme d''élevage",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23939,
+   "libelle_env_travail": "Ferme expérimentale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23940,
+   "libelle_env_travail": "Fondation",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23941,
+   "libelle_env_travail": "Force navale et sous-marine",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23942,
+   "libelle_env_travail": "Foyer / centre d''hébergement",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23943,
+   "libelle_env_travail": "Foyer rural",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23944,
+   "libelle_env_travail": "Fromagerie artisanale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23945,
+   "libelle_env_travail": "Fromagerie industrielle",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23946,
+   "libelle_env_travail": "Galerie d''art",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23947,
+   "libelle_env_travail": "Garage automobile",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23948,
+   "libelle_env_travail": "Garde-meuble",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23949,
+   "libelle_env_travail": "Grand magasin",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23950,
+   "libelle_env_travail": "Grande entreprise",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23951,
+   "libelle_env_travail": "Grande et Moyenne Surface -GMS-",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23952,
+   "libelle_env_travail": "Grande Surface Alimentaire -GSA-",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23953,
+   "libelle_env_travail": "Grande Surface de Bricolage -GSB-",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23954,
+   "libelle_env_travail": "Grande Surface Spécialisée -GSS-",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23955,
+   "libelle_env_travail": "Groupement de propriétaires forestiers",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23956,
+   "libelle_env_travail": "Haras",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23957,
+   "libelle_env_travail": "Hôtel",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23958,
+   "libelle_env_travail": "Hôtel 1 étoile",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23959,
+   "libelle_env_travail": "Hôtel 2 étoiles",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23960,
+   "libelle_env_travail": "Hôtel 3 étoiles",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23961,
+   "libelle_env_travail": "Hôtel 4 étoiles",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23962,
+   "libelle_env_travail": "Hôtel 5 étoiles",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23963,
+   "libelle_env_travail": "Hôtel économique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23964,
+   "libelle_env_travail": "Hôtel non homologué ou non classé",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23965,
+   "libelle_env_travail": "Hôtellerie de plein air",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23966,
+   "libelle_env_travail": "Hôtellerie mobile (bateau de croisière, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23967,
+   "libelle_env_travail": "Hypermarché (2500 m2 et +)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23969,
+   "libelle_env_travail": "Industrie manufacturière",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23970,
+   "libelle_env_travail": "Infrastructure sportive",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23971,
+   "libelle_env_travail": "Inspection du Travail et des Transports",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23972,
+   "libelle_env_travail": "Inspection du Travail, de l''Emploi et de la Politique Sociale Agricole",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23973,
+   "libelle_env_travail": "Installateur-intégrateur courants faibles",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23974,
+   "libelle_env_travail": "Institut de beauté",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23975,
+   "libelle_env_travail": "Organisme de formation",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23976,
+   "libelle_env_travail": "Institut de l''élevage",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23977,
+   "libelle_env_travail": "Institut de médecine légale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23978,
+   "libelle_env_travail": "Institution parlementaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23979,
+   "libelle_env_travail": "Jardinerie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23980,
+   "libelle_env_travail": "Juridiction (tribunal de commerce, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23981,
+   "libelle_env_travail": "Kiosque à journaux",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23982,
+   "libelle_env_travail": "Kiosque à pizzas",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23983,
+   "libelle_env_travail": "Laboratoire cinématographique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23984,
+   "libelle_env_travail": "Laboratoire d''analyses",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23985,
+   "libelle_env_travail": "Laboratoire d''analyses médicales",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23986,
+   "libelle_env_travail": "Laboratoire d''audioprothèse",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23987,
+   "libelle_env_travail": "Laboratoire de prothèse dentaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23988,
+   "libelle_env_travail": "Laboratoire de recherche",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23989,
+   "libelle_env_travail": "Laboratoire pharmaceutique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23990,
+   "libelle_env_travail": "Laboratoire photographique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23991,
+   "libelle_env_travail": "Lactarium",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23992,
+   "libelle_env_travail": "Librairie, papeterie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23993,
+   "libelle_env_travail": "Lycée d''enseignement général",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23994,
+   "libelle_env_travail": "Lycée d''enseignement professionnel, technologique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23995,
+   "libelle_env_travail": "Magasin d''antiquités",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23996,
+   "libelle_env_travail": "Magasin d''instruments de musique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23997,
+   "libelle_env_travail": "Magasin d''optique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23998,
+   "libelle_env_travail": "Magasin populaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23999,
+   "libelle_env_travail": "Maison de jeu de commerce",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24000,
+   "libelle_env_travail": "Maison des jeunes",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24001,
+   "libelle_env_travail": "Maison familiale rurale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24002,
+   "libelle_env_travail": "Manade",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24003,
+   "libelle_env_travail": "Manufacture",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24004,
+   "libelle_env_travail": "Marché d''Intérêt National -MIN-",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24005,
+   "libelle_env_travail": "Marché, foire exposition",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24006,
+   "libelle_env_travail": "Mess (Armée)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24007,
+   "libelle_env_travail": "Ministère / Administration centrale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24008,
+   "libelle_env_travail": "Mission locale (PAIO, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24010,
+   "libelle_env_travail": "Office du tourisme",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24011,
+   "libelle_env_travail": "Office National des Forêts",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24012,
+   "libelle_env_travail": "Orchestre",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24013,
+   "libelle_env_travail": "Organe de presse",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24014,
+   "libelle_env_travail": "Organisation humanitaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24015,
+   "libelle_env_travail": "Organisation Non Gouvernementale -ONG-",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24016,
+   "libelle_env_travail": "Organisme culturel, du patrimoine",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24017,
+   "libelle_env_travail": "Organisme de contrôle et de certification",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24018,
+   "libelle_env_travail": "Organisme de crédit",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24019,
+   "libelle_env_travail": "Organisme de logement",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24020,
+   "libelle_env_travail": "Organisme de protection sociale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24021,
+   "libelle_env_travail": "Organisme d''études et de sondage",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24022,
+   "libelle_env_travail": "Organisme d''études techniques",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24023,
+   "libelle_env_travail": "Organisme géographique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24024,
+   "libelle_env_travail": "Organisme patronal/consulaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24025,
+   "libelle_env_travail": "Organisme professionnel",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24026,
+   "libelle_env_travail": "Paquebot de croisière",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24027,
+   "libelle_env_travail": "Parc animalier",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24028,
+   "libelle_env_travail": "Parc d''attractions",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24029,
+   "libelle_env_travail": "Parc de loisirs",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24030,
+   "libelle_env_travail": "Parc de stationnement",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24031,
+   "libelle_env_travail": "Parc naturel",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24032,
+   "libelle_env_travail": "Pâtisserie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24033,
+   "libelle_env_travail": "Pépinière",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24034,
+   "libelle_env_travail": "Pharmacie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24035,
+   "libelle_env_travail": "Pharmacie à Usage Interne d''établissement de soins",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24036,
+   "libelle_env_travail": "Pizzeria",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24037,
+   "libelle_env_travail": "Plantations de tabac, de cannes à sucre",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24038,
+   "libelle_env_travail": "Plateau de tournage (cinéma, télévision)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24039,
+   "libelle_env_travail": "Plate-forme logistique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24040,
+   "libelle_env_travail": "Plate-forme téléphonique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24041,
+   "libelle_env_travail": "Point chaud, terminal de cuisson",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24042,
+   "libelle_env_travail": "Préfecture de département",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24043,
+   "libelle_env_travail": "Préfecture de région",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24044,
+   "libelle_env_travail": "Pressing",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24045,
+   "libelle_env_travail": "Promoteur, constructeur",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24046,
+   "libelle_env_travail": "Recette des finances",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24047,
+   "libelle_env_travail": "Régie de quartier",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24048,
+   "libelle_env_travail": "Répartiteur pharmaceutique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24049,
+   "libelle_env_travail": "Réseau de transport d''énergie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24050,
+   "libelle_env_travail": "Résidence de personnes âgées",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24051,
+   "libelle_env_travail": "Résidence de tourisme",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24052,
+   "libelle_env_travail": "Résidence hôtelière",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24053,
+   "libelle_env_travail": "Restaurant à thème",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24054,
+   "libelle_env_travail": "Restaurant de collectivité",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24055,
+   "libelle_env_travail": "Restaurant gastronomique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24056,
+   "libelle_env_travail": "Restaurant traditionnel",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24057,
+   "libelle_env_travail": "Salle de jeux",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24058,
+   "libelle_env_travail": "Salle de projection privée / salle de vision",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24059,
+   "libelle_env_travail": "Salle de spectacles",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24060,
+   "libelle_env_travail": "Salle polyvalente, salle des fêtes",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24061,
+   "libelle_env_travail": "Salon de coiffure",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24062,
+   "libelle_env_travail": "Salon de thé",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24063,
+   "libelle_env_travail": "Service de conservation des hypothèques",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24064,
+   "libelle_env_travail": "Service de la Protection Judiciaire de la Jeunesse",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24065,
+   "libelle_env_travail": "Service de l''Emploi Pénitentiaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24066,
+   "libelle_env_travail": "Service de téléphonie sociale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24067,
+   "libelle_env_travail": "Service d''incendie et de secours",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24068,
+   "libelle_env_travail": "Service pénitentiaire d''insertion et de probation",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24069,
+   "libelle_env_travail": "Service spécialisé d''urgence médicale",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24071,
+   "libelle_env_travail": "Site de traitement de granulats",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24072,
+   "libelle_env_travail": "Site de transit (gare, zone de fret, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24073,
+   "libelle_env_travail": "Site de transit (port, aéroport, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24074,
+   "libelle_env_travail": "Site de transit (port, aéroport, gare, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24075,
+   "libelle_env_travail": "Site d''entreposage",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24076,
+   "libelle_env_travail": "Site portuaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24077,
+   "libelle_env_travail": "Société d''assistance aéroportuaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24078,
+   "libelle_env_travail": "Société d''autoroute",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24079,
+   "libelle_env_travail": "Société de bourse",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24080,
+   "libelle_env_travail": "Société de collecte et de traitement des déchets",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24081,
+   "libelle_env_travail": "Société de conseil",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24082,
+   "libelle_env_travail": "Société de conseil et gestion de patrimoine",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24083,
+   "libelle_env_travail": "Société de course express",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24084,
+   "libelle_env_travail": "Société de gestion de tutelle",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24085,
+   "libelle_env_travail": "Société de post-production cinématographique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24086,
+   "libelle_env_travail": "Société de production audiovisuelle, cinématographique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24087,
+   "libelle_env_travail": "Société de production de spectacles",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24088,
+   "libelle_env_travail": "Société de réassurance",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24089,
+   "libelle_env_travail": "Société de sécurité",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24091,
+   "libelle_env_travail": "Société de service d''aide à domicile",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24092,
+   "libelle_env_travail": "Société de service logistique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24093,
+   "libelle_env_travail": "Société de services",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24094,
+   "libelle_env_travail": "Société de services d''assainissement",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24095,
+   "libelle_env_travail": "Entreprise de Services Numériques - ESN",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24097,
+   "libelle_env_travail": "Société de taxis",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24098,
+   "libelle_env_travail": "Société de transport international",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24099,
+   "libelle_env_travail": "Société de Travail Aérien",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24100,
+   "libelle_env_travail": "Société d''économie mixte",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24101,
+   "libelle_env_travail": "Société d''exploitation des remontées mécaniques",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24102,
+   "libelle_env_travail": "Société d''investissement",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24103,
+   "libelle_env_travail": "Société gestionnaire de pont à péage",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24104,
+   "libelle_env_travail": "Société immobilière",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24105,
+   "libelle_env_travail": "Sous-préfecture",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24106,
+   "libelle_env_travail": "Station de montagne",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24107,
+   "libelle_env_travail": "Station de radio",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24108,
+   "libelle_env_travail": "Station-service",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24109,
+   "libelle_env_travail": "Structure d''accueil petite enfance",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24110,
+   "libelle_env_travail": "Structure d''éveil et de jeux (bibliothèque, ludothèque, ...)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24111,
+   "libelle_env_travail": "Studio de création graphique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24112,
+   "libelle_env_travail": "Studio de films d''animation",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24113,
+   "libelle_env_travail": "Studio de photographie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24114,
+   "libelle_env_travail": "Studio d''enregistrement radiophonique",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24115,
+   "libelle_env_travail": "Supérette (120 à 400m2)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24116,
+   "libelle_env_travail": "Supermarché (400 à 2500m2)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24117,
+   "libelle_env_travail": "Support/régie publicitaire",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24119,
+   "libelle_env_travail": "Traiteur",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24120,
+   "libelle_env_travail": "Trésorerie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24121,
+   "libelle_env_travail": "Tribunal administratif",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24122,
+   "libelle_env_travail": "Tribunal correctionnel",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24123,
+   "libelle_env_travail": "Tribunal de commerce",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24124,
+   "libelle_env_travail": "Tribunal de grande instance",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24125,
+   "libelle_env_travail": "Tribunal de police",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24126,
+   "libelle_env_travail": "Tribunal d''instance",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24127,
+   "libelle_env_travail": "Université/école d''ingénieurs/grande école",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24128,
+   "libelle_env_travail": "Village vacances",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24129,
+   "libelle_env_travail": "Voyagiste (tour opérateur)",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24166,
+   "libelle_env_travail": "Entreprise salicole",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24167,
+   "libelle_env_travail": "Salon de toilettage",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24840,
+   "libelle_env_travail": "Etablissement thermal",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 38127,
+   "libelle_env_travail": "Particulier employeur",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 38546,
+   "libelle_env_travail": "Ressourcerie",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 38677,
+   "libelle_env_travail": "Drive en grande distribution",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 38678,
+   "libelle_env_travail": "Opérateur de réseaux câblés de communications électroniques",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 38679,
+   "libelle_env_travail": "Studio de développement de jeux vidéo",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 38799,
+   "libelle_env_travail": "Silo",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 38863,
+   "libelle_env_travail": "Centre Véhicules hors d''usage - VHU",
+   "code_type_section_env_trav": 1,
+   "libelle_type_section_env_trav": "STRUCTURES",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23386,
+   "libelle_env_travail": "Accessoires de mode",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23387,
+   "libelle_env_travail": "Activités maritimes spécialisées (recherche, avitaillement off shore,...)",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23388,
+   "libelle_env_travail": "Administration / Services de l''Etat",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23389,
+   "libelle_env_travail": "Administration pénitentiaire",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23390,
+   "libelle_env_travail": "Aérien",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23391,
+   "libelle_env_travail": "Aéronautique, spatial",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23392,
+   "libelle_env_travail": "Aéronavale",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23393,
+   "libelle_env_travail": "Agencement, décoration intérieure",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23394,
+   "libelle_env_travail": "Agriculture",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23395,
+   "libelle_env_travail": "Alimentaire",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23396,
+   "libelle_env_travail": "Alimentation animale",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23397,
+   "libelle_env_travail": "Aménagement d''espaces verts, de parcs et de jardins",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23398,
+   "libelle_env_travail": "Ameublement",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23399,
+   "libelle_env_travail": "Aquaculture",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23400,
+   "libelle_env_travail": "Arme Blindée",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23401,
+   "libelle_env_travail": "Armée",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23402,
+   "libelle_env_travail": "Armée de l''air",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23403,
+   "libelle_env_travail": "Armée de Terre",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23404,
+   "libelle_env_travail": "Armement",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23405,
+   "libelle_env_travail": "Artillerie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23406,
+   "libelle_env_travail": "Arts de la table",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23407,
+   "libelle_env_travail": "Arts plastiques",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23408,
+   "libelle_env_travail": "Assurance",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23409,
+   "libelle_env_travail": "Audiovisuel",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23410,
+   "libelle_env_travail": "Automobile",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23411,
+   "libelle_env_travail": "Balnéothérapie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23412,
+   "libelle_env_travail": "Banque",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23413,
+   "libelle_env_travail": "Banque de réseau",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23414,
+   "libelle_env_travail": "Banque privée",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23415,
+   "libelle_env_travail": "Bâtiment domestique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23416,
+   "libelle_env_travail": "Bâtiment gros oeuvre",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23417,
+   "libelle_env_travail": "Bâtiment industriel",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23418,
+   "libelle_env_travail": "Bâtiment second oeuvre",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23419,
+   "libelle_env_travail": "Bâtiment tertiaire",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23420,
+   "libelle_env_travail": "Bâtiment et Travaux Publics -BTP-",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23421,
+   "libelle_env_travail": "Béton (armé, manufacturé, pré-contraint)",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23422,
+   "libelle_env_travail": "Bijouterie, joaillerie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23423,
+   "libelle_env_travail": "Blanchisserie industrielle",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23424,
+   "libelle_env_travail": "Bois, ameublement",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23425,
+   "libelle_env_travail": "Boissons, alcools",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23426,
+   "libelle_env_travail": "Bonneterie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23427,
+   "libelle_env_travail": "Boulangerie, pâtisserie industrielle",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23428,
+   "libelle_env_travail": "Broderie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23429,
+   "libelle_env_travail": "Bureautique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23430,
+   "libelle_env_travail": "Carrosserie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23431,
+   "libelle_env_travail": "Chapellerie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23433,
+   "libelle_env_travail": "Chaudronnerie, tuyauterie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23434,
+   "libelle_env_travail": "Chauffage",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23435,
+   "libelle_env_travail": "Chaussure",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23436,
+   "libelle_env_travail": "Chimie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23437,
+   "libelle_env_travail": "Chimie fine",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23438,
+   "libelle_env_travail": "Chimie minérale",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23439,
+   "libelle_env_travail": "Chimie organique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23440,
+   "libelle_env_travail": "Chocolat, confiserie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23441,
+   "libelle_env_travail": "Cinéma",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23442,
+   "libelle_env_travail": "Combustibles",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23443,
+   "libelle_env_travail": "Commerce",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23444,
+   "libelle_env_travail": "Commerce de gros",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23445,
+   "libelle_env_travail": "Commerce/grande distribution",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23446,
+   "libelle_env_travail": "Commerce/vente",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23447,
+   "libelle_env_travail": "Commissionnaire en douane",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23448,
+   "libelle_env_travail": "Communication",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23449,
+   "libelle_env_travail": "Conditionnement, emballage",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23450,
+   "libelle_env_travail": "Confection textile",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23451,
+   "libelle_env_travail": "Conserves, surgelés",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23452,
+   "libelle_env_travail": "Constructeur de matériel informatique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23453,
+   "libelle_env_travail": "Construction navale",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23454,
+   "libelle_env_travail": "Corderie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23455,
+   "libelle_env_travail": "Coutellerie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23456,
+   "libelle_env_travail": "Cuisines professionnelles",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23457,
+   "libelle_env_travail": "Cycle, motocycle",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23458,
+   "libelle_env_travail": "Défense nationale",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23459,
+   "libelle_env_travail": "Démolition",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23460,
+   "libelle_env_travail": "Dentelle",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23461,
+   "libelle_env_travail": "Dépannage sur route",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23462,
+   "libelle_env_travail": "Discount",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23463,
+   "libelle_env_travail": "Distribution de journaux et publicité",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23464,
+   "libelle_env_travail": "Distribution d''eau potable",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23465,
+   "libelle_env_travail": "Distribution d''électricité",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23466,
+   "libelle_env_travail": "Douanes",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23467,
+   "libelle_env_travail": "Eau",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23468,
+   "libelle_env_travail": "Eclairage public",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23469,
+   "libelle_env_travail": "Eco-industrie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23470,
+   "libelle_env_travail": "Editeur multimédia",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23471,
+   "libelle_env_travail": "Edition",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23472,
+   "libelle_env_travail": "Edition textile",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23473,
+   "libelle_env_travail": "Education / Enseignement",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23474,
+   "libelle_env_travail": "Electricité",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23475,
+   "libelle_env_travail": "Electromécanique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23476,
+   "libelle_env_travail": "Electroménager",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23477,
+   "libelle_env_travail": "Electronique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23479,
+   "libelle_env_travail": "Emploi",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23480,
+   "libelle_env_travail": "Energie, nucléaire, fluide",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23481,
+   "libelle_env_travail": "Ennoblissement textile",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23482,
+   "libelle_env_travail": "Enseigne/signalétique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23483,
+   "libelle_env_travail": "Enseignement privé hors contrat",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23484,
+   "libelle_env_travail": "Enseignement privé sous contrat",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23485,
+   "libelle_env_travail": "Environnement",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23486,
+   "libelle_env_travail": "Equipement sanitaire",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23487,
+   "libelle_env_travail": "Evènementiel",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23488,
+   "libelle_env_travail": "Fabrication de chalets et de maisons à ossature bois",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23489,
+   "libelle_env_travail": "Fabrication de charpentes",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23490,
+   "libelle_env_travail": "Fabrication de jouets en bois",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23491,
+   "libelle_env_travail": "Fabrication de panneaux bois et dérivés",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23492,
+   "libelle_env_travail": "Fabrication de parquets, lambris, moulures, ...",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23493,
+   "libelle_env_travail": "Fabrication de produits textiles (tricotage, tissage, nontissé)",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23494,
+   "libelle_env_travail": "Fabrication de revêtements de sols (moquette, ....)",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23495,
+   "libelle_env_travail": "Fabrication d''emballages",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23496,
+   "libelle_env_travail": "Fabrication et réparation de systèmes horlogers",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23497,
+   "libelle_env_travail": "Façonnage/routage",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23498,
+   "libelle_env_travail": "Ferroviaire",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23499,
+   "libelle_env_travail": "Filature",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23500,
+   "libelle_env_travail": "Filterie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23501,
+   "libelle_env_travail": "Finance",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23502,
+   "libelle_env_travail": "Fonderie, forge",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23503,
+   "libelle_env_travail": "Froid commercial",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23504,
+   "libelle_env_travail": "Froid et conditionnement d''air",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23505,
+   "libelle_env_travail": "Froid industriel",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23506,
+   "libelle_env_travail": "Fusilier marin / Fusilier commando",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23507,
+   "libelle_env_travail": "Ganterie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23508,
+   "libelle_env_travail": "Gaz",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23509,
+   "libelle_env_travail": "Gendarmerie Nationale",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23510,
+   "libelle_env_travail": "Génie civil",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23511,
+   "libelle_env_travail": "Génie militaire",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23512,
+   "libelle_env_travail": "Grande pêche",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23513,
+   "libelle_env_travail": "Guipage/Passementerie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23514,
+   "libelle_env_travail": "Habillement et accessoires",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23515,
+   "libelle_env_travail": "Habillement, cuir, textile",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23516,
+   "libelle_env_travail": "Haute couture",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23517,
+   "libelle_env_travail": "Horlogerie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23518,
+   "libelle_env_travail": "Horticulture - maraîchage",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23519,
+   "libelle_env_travail": "Hôtellerie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23520,
+   "libelle_env_travail": "Huiles, corps gras, margarines",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23521,
+   "libelle_env_travail": "Hydroélectrique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23522,
+   "libelle_env_travail": "Hydrothérapie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23523,
+   "libelle_env_travail": "Immobilier",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23524,
+   "libelle_env_travail": "Imprimerie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23525,
+   "libelle_env_travail": "Imprimerie de labeur",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23526,
+   "libelle_env_travail": "Imprimerie de presse",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23527,
+   "libelle_env_travail": "Imprimerie d''édition",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23528,
+   "libelle_env_travail": "Industrie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23529,
+   "libelle_env_travail": "Industrie céramique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23530,
+   "libelle_env_travail": "Industrie cosmétique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23531,
+   "libelle_env_travail": "Industrie du papier, carton",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23532,
+   "libelle_env_travail": "Industrie graphique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23533,
+   "libelle_env_travail": "Industrie mécanique du bois",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23534,
+   "libelle_env_travail": "Information et communication",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23535,
+   "libelle_env_travail": "Informatique et télécommunications",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23536,
+   "libelle_env_travail": "Instrumentation médicale",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23537,
+   "libelle_env_travail": "Internet et Multimédia",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23538,
+   "libelle_env_travail": "Jouets",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23539,
+   "libelle_env_travail": "Lait, produits laitiers",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23540,
+   "libelle_env_travail": "Légion étrangère",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23541,
+   "libelle_env_travail": "Levage, manutention",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23542,
+   "libelle_env_travail": "Linge de maison",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23543,
+   "libelle_env_travail": "Loisirs",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23544,
+   "libelle_env_travail": "Machinisme",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23545,
+   "libelle_env_travail": "Maintenance",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23546,
+   "libelle_env_travail": "Maréchalerie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23547,
+   "libelle_env_travail": "Marine marchande",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23548,
+   "libelle_env_travail": "Marine Nationale",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23549,
+   "libelle_env_travail": "Maritime, fluvial",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23550,
+   "libelle_env_travail": "Maroquinerie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23551,
+   "libelle_env_travail": "Matériaux de construction",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23552,
+   "libelle_env_travail": "Mécanique, travail des métaux",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23553,
+   "libelle_env_travail": "Médecine nucléaire",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23554,
+   "libelle_env_travail": "Médical",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23555,
+   "libelle_env_travail": "Médicosocial",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23556,
+   "libelle_env_travail": "Médico-technique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23557,
+   "libelle_env_travail": "Menuiserie industrielle",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23558,
+   "libelle_env_travail": "Métallurgie, sidérurgie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23559,
+   "libelle_env_travail": "Meunerie, café",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23560,
+   "libelle_env_travail": "Microélectronique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23561,
+   "libelle_env_travail": "Micromécanique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23562,
+   "libelle_env_travail": "Mode",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23563,
+   "libelle_env_travail": "Monnaie, titre et poinçon",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23564,
+   "libelle_env_travail": "Motoculture de plaisance",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23565,
+   "libelle_env_travail": "Moulinage",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23566,
+   "libelle_env_travail": "Nanoélectronique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23567,
+   "libelle_env_travail": "Nautisme",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23568,
+   "libelle_env_travail": "Optique, optronique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23569,
+   "libelle_env_travail": "Orfèvrerie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23570,
+   "libelle_env_travail": "Papeterie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23571,
+   "libelle_env_travail": "Papiers à usage graphique (papier journal, papier d''écriture, ...)",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23572,
+   "libelle_env_travail": "Papiers industriels et spéciaux (fiduciaire, papier filtre, papier abrasif, ...)",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23573,
+   "libelle_env_travail": "Parachimie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23574,
+   "libelle_env_travail": "Parapharmacie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23575,
+   "libelle_env_travail": "Parfumerie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23576,
+   "libelle_env_travail": "Patrimoine culturel et historique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23577,
+   "libelle_env_travail": "Pêche",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23578,
+   "libelle_env_travail": "Pêche au large",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23579,
+   "libelle_env_travail": "Pêche côtière",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23580,
+   "libelle_env_travail": "Pelleterie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23581,
+   "libelle_env_travail": "Petite enfance",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23582,
+   "libelle_env_travail": "Pétrochimie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23583,
+   "libelle_env_travail": "Pétrole",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23584,
+   "libelle_env_travail": "Pisciculture",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23585,
+   "libelle_env_travail": "Plasturgie, caoutchouc, composites",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23586,
+   "libelle_env_travail": "Plâtre",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23588,
+   "libelle_env_travail": "Police de l''air et des frontières",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23589,
+   "libelle_env_travail": "Police judiciaire",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23590,
+   "libelle_env_travail": "Police militaire",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23591,
+   "libelle_env_travail": "Police nationale",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23592,
+   "libelle_env_travail": "Police Nationale et Gendarmerie Nationale",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23593,
+   "libelle_env_travail": "Première transformation du bois",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23594,
+   "libelle_env_travail": "Prépresse",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23595,
+   "libelle_env_travail": "Presse",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23596,
+   "libelle_env_travail": "Prêt à porter",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23597,
+   "libelle_env_travail": "Prêt-à-porter",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23598,
+   "libelle_env_travail": "Production et distribution d''électricité, de gaz et d''eau",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23599,
+   "libelle_env_travail": "Produits à base de céréales",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23600,
+   "libelle_env_travail": "Produits culturels (disques, DVD, ...)",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23601,
+   "libelle_env_travail": "Produits de la mer",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23602,
+   "libelle_env_travail": "Propreté, nettoyage",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23603,
+   "libelle_env_travail": "Publicité",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23604,
+   "libelle_env_travail": "Puériculture",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23605,
+   "libelle_env_travail": "Quincaillerie, droguerie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23606,
+   "libelle_env_travail": "Radio",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23607,
+   "libelle_env_travail": "Radiologie conventionnelle",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23608,
+   "libelle_env_travail": "Radiologie vasculaire",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23609,
+   "libelle_env_travail": "Recherche et développement",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23615,
+   "libelle_env_travail": "Renseignement",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23616,
+   "libelle_env_travail": "Réparations automobile et d''articles domestiques",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23617,
+   "libelle_env_travail": "Reprographie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23618,
+   "libelle_env_travail": "Réseau d''assainissement",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23619,
+   "libelle_env_travail": "Réseau ferré",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23620,
+   "libelle_env_travail": "Réseau routier, autoroutier",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23621,
+   "libelle_env_travail": "Résidentiel",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23622,
+   "libelle_env_travail": "Restauration",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23624,
+   "libelle_env_travail": "Revêtements textiles (tapis de sols et moquettes en aiguilleté, ...)",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23625,
+   "libelle_env_travail": "Santé et action sociale",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23626,
+   "libelle_env_travail": "Scientifique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23627,
+   "libelle_env_travail": "Scierie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23628,
+   "libelle_env_travail": "Seconde transformation du bois",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23629,
+   "libelle_env_travail": "Secours et assistance à personnes",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23630,
+   "libelle_env_travail": "Sécurité routière",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23631,
+   "libelle_env_travail": "Sécurité, hygiène, environnement",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23632,
+   "libelle_env_travail": "Sellerie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23633,
+   "libelle_env_travail": "Serrurerie et fermetures extérieures",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23635,
+   "libelle_env_travail": "Service funéraire",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23636,
+   "libelle_env_travail": "Services",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23637,
+   "libelle_env_travail": "Services à la personne",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23638,
+   "libelle_env_travail": "Spectacle",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23639,
+   "libelle_env_travail": "Spectacle vivant",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23640,
+   "libelle_env_travail": "Sport et loisirs",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23641,
+   "libelle_env_travail": "Structures métalliques",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23642,
+   "libelle_env_travail": "Sucre",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23643,
+   "libelle_env_travail": "Surgelés",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23644,
+   "libelle_env_travail": "Surveillance du territoire",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23645,
+   "libelle_env_travail": "Sylviculture",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23646,
+   "libelle_env_travail": "Tannerie, mégisserie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23647,
+   "libelle_env_travail": "Téléphonie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23648,
+   "libelle_env_travail": "Télévision",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23649,
+   "libelle_env_travail": "Thalassothérapie",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23650,
+   "libelle_env_travail": "Thermalisme",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23651,
+   "libelle_env_travail": "Tissage",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23652,
+   "libelle_env_travail": "Tourisme",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23653,
+   "libelle_env_travail": "Tourisme rural",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23654,
+   "libelle_env_travail": "Transformation des matériaux",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23655,
+   "libelle_env_travail": "Transport (aérien, ferroviaire, maritime, ...)",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23656,
+   "libelle_env_travail": "Transport de marchandises",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23657,
+   "libelle_env_travail": "Transport de personnes",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23658,
+   "libelle_env_travail": "Transport d''électricité",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23659,
+   "libelle_env_travail": "Transport/logistique",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23660,
+   "libelle_env_travail": "Travaux publics",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23661,
+   "libelle_env_travail": "Troupes parachutistes",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23662,
+   "libelle_env_travail": "Tuile et brique en terre",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23663,
+   "libelle_env_travail": "Tuiles et briques en béton",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23664,
+   "libelle_env_travail": "Vaisselle",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23665,
+   "libelle_env_travail": "Véhicules industriels",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23666,
+   "libelle_env_travail": "Véhicules particuliers",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23667,
+   "libelle_env_travail": "Vente par correspondance",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23668,
+   "libelle_env_travail": "Verre",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23669,
+   "libelle_env_travail": "Verre creux (emballage, bouteilles, ...)",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23670,
+   "libelle_env_travail": "Verre de silice (verre de manipulation pour laboratoire, ...)",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23671,
+   "libelle_env_travail": "Verre plat (vitrage, bâtiment, automobile, ...)",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23672,
+   "libelle_env_travail": "Verre technique (optique, écrans de télévision, ampoules, vitrocéramique, ...)",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23673,
+   "libelle_env_travail": "Verre, matériaux de construction",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23674,
+   "libelle_env_travail": "Verrerie d''art",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23675,
+   "libelle_env_travail": "Vêtements de protection",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23676,
+   "libelle_env_travail": "Viande",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23677,
+   "libelle_env_travail": "Voiries et Réseaux Divers -VRD-",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24839,
+   "libelle_env_travail": "Education/Enseignement",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 38313,
+   "libelle_env_travail": "Recyclage",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 38748,
+   "libelle_env_travail": "Gravure industrielle",
+   "code_type_section_env_trav": 2,
+   "libelle_type_section_env_trav": "SECTEURS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23374,
+   "libelle_env_travail": "Au domicile de l''intervenant",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23375,
+   "libelle_env_travail": "Au domicile de particulier",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23376,
+   "libelle_env_travail": "Au pied des installations",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23377,
+   "libelle_env_travail": "En environnement climatique difficile",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23378,
+   "libelle_env_travail": "En extérieur",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23379,
+   "libelle_env_travail": "En grande hauteur",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23380,
+   "libelle_env_travail": "En salle blanche",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23381,
+   "libelle_env_travail": "En salle de pilotage, cabine de commande",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23382,
+   "libelle_env_travail": "En sous-sol",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23383,
+   "libelle_env_travail": "En zone à atmosphère contrôlée",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23384,
+   "libelle_env_travail": "En zone à risques chimiques (toxicité, corrosivité, explosibilité, ...)",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 23385,
+   "libelle_env_travail": "En zone frigorifique",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24838,
+   "libelle_env_travail": "Agent commercial",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24844,
+   "libelle_env_travail": "Travail en indépendant",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 24845,
+   "libelle_env_travail": "Vendeur à Domicile Indépendant (VDI)",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 28981,
+   "libelle_env_travail": "VRP exclusif",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 28982,
+   "libelle_env_travail": "VRP multicartes",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 38055,
+   "libelle_env_travail": "Travail de nuit",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 38056,
+   "libelle_env_travail": "Travail en extra",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ },
+ {
+   "code_ogr": 38126,
+   "libelle_env_travail": "Logement assuré par l''employeur",
+   "code_type_section_env_trav": 3,
+   "libelle_type_section_env_trav": "CONDITIONS",
+   "statut": 1
+ }
+]

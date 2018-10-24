@@ -1,0 +1,72 @@
+[
+ {
+   "code_type_referentiel": 1,
+   "code_type_particulier": "RI",
+   "libelle_type_referentiel": "competence",
+   "nom_table_corresp_arbre": "",
+   "nom_table_referentiel": "item_referentiel_competence"
+ },
+ {
+   "code_type_referentiel": 2,
+   "code_type_particulier": "RI",
+   "libelle_type_referentiel": "activite",
+   "nom_table_corresp_arbre": "",
+   "nom_table_referentiel": "item_referentiel_activite"
+ },
+ {
+   "code_type_referentiel": 3,
+   "code_type_particulier": "RI",
+   "libelle_type_referentiel": "code rome",
+   "nom_table_corresp_arbre": "",
+   "nom_table_referentiel": "item_referentiel_code_rome"
+ },
+ {
+   "code_type_referentiel": 4,
+   "code_type_particulier": "RI",
+   "libelle_type_referentiel": "appellation",
+   "nom_table_corresp_arbre": "",
+   "nom_table_referentiel": "item_referentiel_appellation"
+ },
+ {
+   "code_type_referentiel": 5,
+   "code_type_particulier": "RI",
+   "libelle_type_referentiel": "environnement de travail",
+   "nom_table_corresp_arbre": "",
+   "nom_table_referentiel": "item_referentiel_env_travail"
+ },
+ {
+   "code_type_referentiel": 6,
+   "code_type_particulier": "AP",
+   "libelle_type_referentiel": "Arborescence  principale",
+   "nom_table_corresp_arbre": "item_referentiel_code_rome",
+   "nom_table_referentiel": "item_arborescence"
+ },
+ {
+   "code_type_referentiel": 7,
+   "code_type_particulier": "AR",
+   "libelle_type_referentiel": "Arborescence  secondaire - code ROME",
+   "nom_table_corresp_arbre": "item_referentiel_code_rome",
+   "nom_table_referentiel": "item_arborescence"
+ },
+ {
+   "code_type_referentiel": 8,
+   "code_type_particulier": "AA",
+   "libelle_type_referentiel": "Arborescence d''item - activité",
+   "nom_table_corresp_arbre": "item_referentiel_activite",
+   "nom_table_referentiel": "item_arborescence"
+ },
+ {
+   "code_type_referentiel": 9,
+   "code_type_particulier": "AC",
+   "libelle_type_referentiel": "Arborescence d''item - compétence",
+   "nom_table_corresp_arbre": "item_referentiel_competenc",
+   "nom_table_referentiel": "item_arborescence"
+ },
+ {
+   "code_type_referentiel": 10,
+   "code_type_particulier": "AE",
+   "libelle_type_referentiel": "Arborescence d''item - environnement de travail",
+   "nom_table_corresp_arbre": "item_referentiel_env_trava",
+   "nom_table_referentiel": "item_arborescence"
+ }
+]

@@ -1,0 +1,3726 @@
+[
+ {
+   "code_rome": "A1204",
+   "code_fiche_em": 13,
+   "code_ogr": 10,
+   "libelle_rome": "Protection du patrimoine naturel",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1214",
+   "code_fiche_em": 97,
+   "code_ogr": 100,
+   "libelle_rome": "Vente en habillement et accessoires de la personne",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1301",
+   "code_fiche_em": 120,
+   "code_ogr": 101,
+   "libelle_rome": "Management de magasin de détail",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1401",
+   "code_fiche_em": 125,
+   "code_ogr": 102,
+   "libelle_rome": "Assistanat commercial",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1402",
+   "code_fiche_em": 124,
+   "code_ogr": 103,
+   "libelle_rome": "Relation commerciale grands comptes et entreprises",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1403",
+   "code_fiche_em": 127,
+   "code_ogr": 104,
+   "libelle_rome": "Relation commerciale auprès de particuliers",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1404",
+   "code_fiche_em": 129,
+   "code_ogr": 105,
+   "libelle_rome": "Relation commerciale en vente de véhicules",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1405",
+   "code_fiche_em": 131,
+   "code_ogr": 106,
+   "libelle_rome": "Conseil en information médicale",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1406",
+   "code_fiche_em": 135,
+   "code_ogr": 107,
+   "libelle_rome": "Management en force de vente",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1407",
+   "code_fiche_em": 133,
+   "code_ogr": 108,
+   "libelle_rome": "Relation technico-commerciale",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1408",
+   "code_fiche_em": 122,
+   "code_ogr": 109,
+   "libelle_rome": "Téléconseil et télévente",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1205",
+   "code_fiche_em": 18,
+   "code_ogr": 11,
+   "libelle_rome": "Sylviculture",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1501",
+   "code_fiche_em": 146,
+   "code_ogr": 110,
+   "libelle_rome": "Animation de vente",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1502",
+   "code_fiche_em": 141,
+   "code_ogr": 111,
+   "libelle_rome": "Management/gestion de rayon produits alimentaires",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1503",
+   "code_fiche_em": 142,
+   "code_ogr": 112,
+   "libelle_rome": "Management/gestion de rayon produits non alimentaires",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1504",
+   "code_fiche_em": 150,
+   "code_ogr": 113,
+   "libelle_rome": "Direction de magasin de grande distribution",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1505",
+   "code_fiche_em": 139,
+   "code_ogr": 114,
+   "libelle_rome": "Personnel de caisse",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1506",
+   "code_fiche_em": 152,
+   "code_ogr": 115,
+   "libelle_rome": "Marchandisage",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1507",
+   "code_fiche_em": 137,
+   "code_ogr": 116,
+   "libelle_rome": "Mise en rayon libre-service",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1508",
+   "code_fiche_em": 144,
+   "code_ogr": 117,
+   "libelle_rome": "Encadrement du personnel de caisses",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1509",
+   "code_fiche_em": 148,
+   "code_ogr": 118,
+   "libelle_rome": "Management de département en grande distribution",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1101",
+   "code_fiche_em": 112,
+   "code_ogr": 119,
+   "libelle_rome": "Animation de site multimédia",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1301",
+   "code_fiche_em": 27,
+   "code_ogr": 12,
+   "libelle_rome": "Conseil et assistance technique en agriculture",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1102",
+   "code_fiche_em": 110,
+   "code_ogr": 120,
+   "libelle_rome": "Ecriture d''ouvrages, de livres",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1103",
+   "code_fiche_em": 121,
+   "code_ogr": 121,
+   "libelle_rome": "Communication",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1104",
+   "code_fiche_em": 119,
+   "code_ogr": 122,
+   "libelle_rome": "Conception de contenus multimédias",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1105",
+   "code_fiche_em": 123,
+   "code_ogr": 123,
+   "libelle_rome": "Coordination d''édition",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1106",
+   "code_fiche_em": 116,
+   "code_ogr": 124,
+   "libelle_rome": "Journalisme et information média",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1107",
+   "code_fiche_em": 114,
+   "code_ogr": 125,
+   "libelle_rome": "Organisation d''évènementiel",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1108",
+   "code_fiche_em": 126,
+   "code_ogr": 126,
+   "libelle_rome": "Traduction, interprétariat",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1201",
+   "code_fiche_em": 128,
+   "code_ogr": 127,
+   "libelle_rome": "Photographie",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1202",
+   "code_fiche_em": 138,
+   "code_ogr": 128,
+   "libelle_rome": "Production en laboratoire cinématographique",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1203",
+   "code_fiche_em": 136,
+   "code_ogr": 129,
+   "libelle_rome": "Production en laboratoire photographique",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1302",
+   "code_fiche_em": 25,
+   "code_ogr": 13,
+   "libelle_rome": "Contrôle et diagnostic technique en agriculture",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1204",
+   "code_fiche_em": 582,
+   "code_ogr": 130,
+   "libelle_rome": "Projection cinéma",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1205",
+   "code_fiche_em": 134,
+   "code_ogr": 131,
+   "libelle_rome": "Réalisation de contenus multimédias",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1301",
+   "code_fiche_em": 149,
+   "code_ogr": 132,
+   "libelle_rome": "Conduite de machines d''impression",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1302",
+   "code_fiche_em": 140,
+   "code_ogr": 133,
+   "libelle_rome": "Conduite de machines de façonnage routage",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1303",
+   "code_fiche_em": 153,
+   "code_ogr": 134,
+   "libelle_rome": "Encadrement des industries graphiques",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1304",
+   "code_fiche_em": 151,
+   "code_ogr": 135,
+   "libelle_rome": "Façonnage et routage",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1305",
+   "code_fiche_em": 145,
+   "code_ogr": 136,
+   "libelle_rome": "Préparation et correction en édition et presse",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1306",
+   "code_fiche_em": 147,
+   "code_ogr": 137,
+   "libelle_rome": "Prépresse",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1307",
+   "code_fiche_em": 143,
+   "code_ogr": 138,
+   "libelle_rome": "Reprographie",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1308",
+   "code_fiche_em": 154,
+   "code_ogr": 139,
+   "libelle_rome": "Intervention technique en industrie graphique",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1303",
+   "code_fiche_em": 29,
+   "code_ogr": 14,
+   "libelle_rome": "Ingénierie en agriculture et environnement naturel",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1401",
+   "code_fiche_em": 156,
+   "code_ogr": 140,
+   "libelle_rome": "Développement et promotion publicitaire",
+   "statut": 1
+ },
+ {
+   "code_rome": "E1402",
+   "code_fiche_em": 157,
+   "code_ogr": 141,
+   "libelle_rome": "Élaboration de plan média",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1101",
+   "code_fiche_em": 161,
+   "code_ogr": 142,
+   "libelle_rome": "Architecture du BTP et du paysage",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1102",
+   "code_fiche_em": 158,
+   "code_ogr": 143,
+   "libelle_rome": "Conception - aménagement d''espaces intérieurs",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1103",
+   "code_fiche_em": 169,
+   "code_ogr": 144,
+   "libelle_rome": "Contrôle et diagnostic technique du bâtiment",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1104",
+   "code_fiche_em": 163,
+   "code_ogr": 145,
+   "libelle_rome": "Dessin BTP et paysage",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1105",
+   "code_fiche_em": 172,
+   "code_ogr": 146,
+   "libelle_rome": "Études géologiques",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1106",
+   "code_fiche_em": 167,
+   "code_ogr": 147,
+   "libelle_rome": "Ingénierie et études du BTP",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1107",
+   "code_fiche_em": 165,
+   "code_ogr": 148,
+   "libelle_rome": "Mesures topographiques",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1108",
+   "code_fiche_em": 171,
+   "code_ogr": 149,
+   "libelle_rome": "Métré de la construction",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1401",
+   "code_fiche_em": 34,
+   "code_ogr": 15,
+   "libelle_rome": "Aide agricole de production fruitière ou viticole",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1201",
+   "code_fiche_em": 178,
+   "code_ogr": 150,
+   "libelle_rome": "Conduite de travaux du BTP et de travaux paysagers",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1202",
+   "code_fiche_em": 176,
+   "code_ogr": 151,
+   "libelle_rome": "Direction de chantier du BTP",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1203",
+   "code_fiche_em": 180,
+   "code_ogr": 152,
+   "libelle_rome": "Direction et ingénierie d''exploitation de gisements et de carrières",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1204",
+   "code_fiche_em": 174,
+   "code_ogr": 153,
+   "libelle_rome": "Qualité Sécurité Environnement et protection santé du BTP",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1301",
+   "code_fiche_em": 184,
+   "code_ogr": 154,
+   "libelle_rome": "Conduite de grue",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1302",
+   "code_fiche_em": 182,
+   "code_ogr": 155,
+   "libelle_rome": "Conduite d''engins de terrassement et de carrière",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1401",
+   "code_fiche_em": 187,
+   "code_ogr": 156,
+   "libelle_rome": "Extraction liquide et gazeuse",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1402",
+   "code_fiche_em": 185,
+   "code_ogr": 157,
+   "libelle_rome": "Extraction solide",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1501",
+   "code_fiche_em": 190,
+   "code_ogr": 158,
+   "libelle_rome": "Montage de structures et de charpentes bois",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1502",
+   "code_fiche_em": 188,
+   "code_ogr": 159,
+   "libelle_rome": "Montage de structures métalliques",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1402",
+   "code_fiche_em": 32,
+   "code_ogr": 16,
+   "libelle_rome": "Aide agricole de production légumière ou végétale",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1503",
+   "code_fiche_em": 192,
+   "code_ogr": 160,
+   "libelle_rome": "Réalisation - installation d''ossatures bois",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1601",
+   "code_fiche_em": 220,
+   "code_ogr": 161,
+   "libelle_rome": "Application et décoration en plâtre, stuc et staff",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1602",
+   "code_fiche_em": 199,
+   "code_ogr": 162,
+   "libelle_rome": "Électricité bâtiment",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1603",
+   "code_fiche_em": 204,
+   "code_ogr": 163,
+   "libelle_rome": "Installation d''équipements sanitaires et thermiques",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1604",
+   "code_fiche_em": 207,
+   "code_ogr": 164,
+   "libelle_rome": "Montage d''agencements",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1605",
+   "code_fiche_em": 201,
+   "code_ogr": 165,
+   "libelle_rome": "Montage de réseaux électriques et télécoms",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1606",
+   "code_fiche_em": 212,
+   "code_ogr": 166,
+   "libelle_rome": "Peinture en bâtiment",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1607",
+   "code_fiche_em": 206,
+   "code_ogr": 167,
+   "libelle_rome": "Pose de fermetures menuisées",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1608",
+   "code_fiche_em": 209,
+   "code_ogr": 168,
+   "libelle_rome": "Pose de revêtements rigides",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1609",
+   "code_fiche_em": 211,
+   "code_ogr": 169,
+   "libelle_rome": "Pose de revêtements souples",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1403",
+   "code_fiche_em": 31,
+   "code_ogr": 17,
+   "libelle_rome": "Aide d''élevage agricole et aquacole",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1610",
+   "code_fiche_em": 196,
+   "code_ogr": 170,
+   "libelle_rome": "Pose et restauration de couvertures",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1611",
+   "code_fiche_em": 215,
+   "code_ogr": 171,
+   "libelle_rome": "Réalisation et restauration de façades",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1612",
+   "code_fiche_em": 217,
+   "code_ogr": 172,
+   "libelle_rome": "Taille et décoration de pierres",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1613",
+   "code_fiche_em": 197,
+   "code_ogr": 173,
+   "libelle_rome": "Travaux d''étanchéité et d''isolation",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1701",
+   "code_fiche_em": 227,
+   "code_ogr": 174,
+   "libelle_rome": "Construction en béton",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1702",
+   "code_fiche_em": 224,
+   "code_ogr": 175,
+   "libelle_rome": "Construction de routes et voies",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1703",
+   "code_fiche_em": 229,
+   "code_ogr": 176,
+   "libelle_rome": "Maçonnerie",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1704",
+   "code_fiche_em": 222,
+   "code_ogr": 177,
+   "libelle_rome": "Préparation du gros oeuvre et des travaux publics",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1705",
+   "code_fiche_em": 225,
+   "code_ogr": 178,
+   "libelle_rome": "Pose de canalisations",
+   "statut": 1
+ },
+ {
+   "code_rome": "F1706",
+   "code_fiche_em": 231,
+   "code_ogr": 179,
+   "libelle_rome": "Préfabrication en béton industriel",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1404",
+   "code_fiche_em": 52,
+   "code_ogr": 18,
+   "libelle_rome": "Aquaculture",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1101",
+   "code_fiche_em": 160,
+   "code_ogr": 180,
+   "libelle_rome": "Accueil touristique",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1102",
+   "code_fiche_em": 162,
+   "code_ogr": 181,
+   "libelle_rome": "Promotion du tourisme local",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1201",
+   "code_fiche_em": 175,
+   "code_ogr": 182,
+   "libelle_rome": "Accompagnement de voyages, d''activités culturelles ou sportives",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1202",
+   "code_fiche_em": 166,
+   "code_ogr": 183,
+   "libelle_rome": "Animation d''activités culturelles ou ludiques",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1203",
+   "code_fiche_em": 164,
+   "code_ogr": 184,
+   "libelle_rome": "Animation de loisirs auprès d''enfants ou d''adolescents",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1204",
+   "code_fiche_em": 168,
+   "code_ogr": 185,
+   "libelle_rome": "Éducation en activités sportives",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1205",
+   "code_fiche_em": 170,
+   "code_ogr": 186,
+   "libelle_rome": "Personnel d''attractions ou de structures de loisirs",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1206",
+   "code_fiche_em": 173,
+   "code_ogr": 187,
+   "libelle_rome": "Personnel technique des jeux",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1301",
+   "code_fiche_em": 179,
+   "code_ogr": 188,
+   "libelle_rome": "Conception de produits touristiques",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1302",
+   "code_fiche_em": 181,
+   "code_ogr": 189,
+   "libelle_rome": "Optimisation de produits touristiques",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1405",
+   "code_fiche_em": 43,
+   "code_ogr": 19,
+   "libelle_rome": "Arboriculture et viticulture",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1303",
+   "code_fiche_em": 177,
+   "code_ogr": 190,
+   "libelle_rome": "Vente de voyages",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1401",
+   "code_fiche_em": 595,
+   "code_ogr": 191,
+   "libelle_rome": "Assistance de direction d''hôtel-restaurant",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1402",
+   "code_fiche_em": 186,
+   "code_ogr": 192,
+   "libelle_rome": "Management d''hôtel-restaurant",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1403",
+   "code_fiche_em": 191,
+   "code_ogr": 193,
+   "libelle_rome": "Gestion de structure de loisirs ou d''hébergement touristique",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1404",
+   "code_fiche_em": 189,
+   "code_ogr": 194,
+   "libelle_rome": "Management d''établissement de restauration collective",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1501",
+   "code_fiche_em": 195,
+   "code_ogr": 195,
+   "libelle_rome": "Personnel d''étage",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1502",
+   "code_fiche_em": 193,
+   "code_ogr": 196,
+   "libelle_rome": "Personnel polyvalent d''hôtellerie",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1503",
+   "code_fiche_em": 198,
+   "code_ogr": 197,
+   "libelle_rome": "Management du personnel d''étage",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1601",
+   "code_fiche_em": 210,
+   "code_ogr": 198,
+   "libelle_rome": "Management du personnel de cuisine",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1602",
+   "code_fiche_em": 205,
+   "code_ogr": 199,
+   "libelle_rome": "Personnel de cuisine",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1406",
+   "code_fiche_em": 61,
+   "code_ogr": 20,
+   "libelle_rome": "Encadrement équipage de la pêche",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1603",
+   "code_fiche_em": 208,
+   "code_ogr": 200,
+   "libelle_rome": "Personnel polyvalent en restauration",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1604",
+   "code_fiche_em": 200,
+   "code_ogr": 201,
+   "libelle_rome": "Fabrication de crêpes ou pizzas",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1605",
+   "code_fiche_em": 202,
+   "code_ogr": 202,
+   "libelle_rome": "Plonge en restauration",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1701",
+   "code_fiche_em": 218,
+   "code_ogr": 203,
+   "libelle_rome": "Conciergerie en hôtellerie",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1702",
+   "code_fiche_em": 213,
+   "code_ogr": 204,
+   "libelle_rome": "Personnel du hall",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1703",
+   "code_fiche_em": 216,
+   "code_ogr": 205,
+   "libelle_rome": "Réception en hôtellerie",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1801",
+   "code_fiche_em": 223,
+   "code_ogr": 206,
+   "libelle_rome": "Café, bar brasserie",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1802",
+   "code_fiche_em": 228,
+   "code_ogr": 207,
+   "libelle_rome": "Management du service en restauration",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1803",
+   "code_fiche_em": 219,
+   "code_ogr": 208,
+   "libelle_rome": "Service en restauration",
+   "statut": 1
+ },
+ {
+   "code_rome": "G1804",
+   "code_fiche_em": 221,
+   "code_ogr": 209,
+   "libelle_rome": "Sommellerie",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1407",
+   "code_fiche_em": 45,
+   "code_ogr": 21,
+   "libelle_rome": "Élevage bovin ou équin",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1101",
+   "code_fiche_em": 230,
+   "code_ogr": 210,
+   "libelle_rome": "Assistance et support technique client",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1102",
+   "code_fiche_em": 232,
+   "code_ogr": 211,
+   "libelle_rome": "Management et ingénierie d''affaires",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1201",
+   "code_fiche_em": 254,
+   "code_ogr": 212,
+   "libelle_rome": "Expertise technique couleur en industrie",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1202",
+   "code_fiche_em": 242,
+   "code_ogr": 213,
+   "libelle_rome": "Conception et dessin de produits électriques et électroniques",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1203",
+   "code_fiche_em": 237,
+   "code_ogr": 214,
+   "libelle_rome": "Conception et dessin produits mécaniques",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1204",
+   "code_fiche_em": 234,
+   "code_ogr": 215,
+   "libelle_rome": "Design industriel",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1205",
+   "code_fiche_em": 257,
+   "code_ogr": 216,
+   "libelle_rome": "Études - modèles en industrie des matériaux souples",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1206",
+   "code_fiche_em": 252,
+   "code_ogr": 217,
+   "libelle_rome": "Management et ingénierie études, recherche et développement industriel",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1207",
+   "code_fiche_em": 250,
+   "code_ogr": 218,
+   "libelle_rome": "Rédaction technique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1208",
+   "code_fiche_em": 247,
+   "code_ogr": 219,
+   "libelle_rome": "Intervention technique en études et conception en automatisme",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1408",
+   "code_fiche_em": 51,
+   "code_ogr": 22,
+   "libelle_rome": "Élevage d''animaux sauvages ou de compagnie",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1209",
+   "code_fiche_em": 240,
+   "code_ogr": 220,
+   "libelle_rome": "Intervention technique en études et développement électronique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1210",
+   "code_fiche_em": 244,
+   "code_ogr": 221,
+   "libelle_rome": "Intervention technique en études, recherche et développement",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1301",
+   "code_fiche_em": 262,
+   "code_ogr": 222,
+   "libelle_rome": "Inspection de conformité",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1302",
+   "code_fiche_em": 264,
+   "code_ogr": 223,
+   "libelle_rome": "Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1303",
+   "code_fiche_em": 259,
+   "code_ogr": 224,
+   "libelle_rome": "Intervention technique en Hygiène Sécurité Environnement -HSE- industriel",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1401",
+   "code_fiche_em": 274,
+   "code_ogr": 225,
+   "libelle_rome": "Management et ingénierie gestion industrielle et logistique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1402",
+   "code_fiche_em": 270,
+   "code_ogr": 226,
+   "libelle_rome": "Management et ingénierie méthodes et industrialisation",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1403",
+   "code_fiche_em": 268,
+   "code_ogr": 227,
+   "libelle_rome": "Intervention technique en gestion industrielle et logistique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1404",
+   "code_fiche_em": 266,
+   "code_ogr": 228,
+   "libelle_rome": "Intervention technique en méthodes et industrialisation",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1501",
+   "code_fiche_em": 282,
+   "code_ogr": 229,
+   "libelle_rome": "Direction de laboratoire d''analyse industrielle",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1409",
+   "code_fiche_em": 48,
+   "code_ogr": 23,
+   "libelle_rome": "Élevage de lapins et volailles",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1502",
+   "code_fiche_em": 284,
+   "code_ogr": 230,
+   "libelle_rome": "Management et ingénierie qualité industrielle",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1503",
+   "code_fiche_em": 281,
+   "code_ogr": 231,
+   "libelle_rome": "Intervention technique en laboratoire d''analyse industrielle",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1504",
+   "code_fiche_em": 280,
+   "code_ogr": 232,
+   "libelle_rome": "Intervention technique en contrôle essai qualité en électricité et électronique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1505",
+   "code_fiche_em": 276,
+   "code_ogr": 233,
+   "libelle_rome": "Intervention technique en formulation et analyse sensorielle",
+   "statut": 1
+ },
+ {
+   "code_rome": "H1506",
+   "code_fiche_em": 278,
+   "code_ogr": 234,
+   "libelle_rome": "Intervention technique qualité en mécanique et travail des métaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2101",
+   "code_fiche_em": 288,
+   "code_ogr": 235,
+   "libelle_rome": "Abattage et découpe des viandes",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2102",
+   "code_fiche_em": 286,
+   "code_ogr": 236,
+   "libelle_rome": "Conduite d''équipement de production alimentaire",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2201",
+   "code_fiche_em": 294,
+   "code_ogr": 237,
+   "libelle_rome": "Assemblage d''ouvrages en bois",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2202",
+   "code_fiche_em": 293,
+   "code_ogr": 238,
+   "libelle_rome": "Conduite d''équipement de fabrication de l''ameublement et du bois",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2203",
+   "code_fiche_em": 289,
+   "code_ogr": 239,
+   "libelle_rome": "Conduite d''installation de production de panneaux bois",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1410",
+   "code_fiche_em": 46,
+   "code_ogr": 24,
+   "libelle_rome": "Élevage ovin ou caprin",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2204",
+   "code_fiche_em": 300,
+   "code_ogr": 240,
+   "libelle_rome": "Encadrement des industries de l''ameublement et du bois",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2205",
+   "code_fiche_em": 291,
+   "code_ogr": 241,
+   "libelle_rome": "Première transformation de bois d''oeuvre",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2206",
+   "code_fiche_em": 296,
+   "code_ogr": 242,
+   "libelle_rome": "Réalisation de menuiserie bois et tonnellerie",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2207",
+   "code_fiche_em": 298,
+   "code_ogr": 243,
+   "libelle_rome": "Réalisation de meubles en bois",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2208",
+   "code_fiche_em": 299,
+   "code_ogr": 244,
+   "libelle_rome": "Réalisation d''ouvrages décoratifs en bois",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2209",
+   "code_fiche_em": 302,
+   "code_ogr": 245,
+   "libelle_rome": "Intervention technique en ameublement et bois",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2301",
+   "code_fiche_em": 303,
+   "code_ogr": 246,
+   "libelle_rome": "Conduite d''équipement de production chimique ou pharmaceutique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2401",
+   "code_fiche_em": 307,
+   "code_ogr": 247,
+   "libelle_rome": "Assemblage - montage d''articles en cuirs, peaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2402",
+   "code_fiche_em": 308,
+   "code_ogr": 248,
+   "libelle_rome": "Assemblage - montage de vêtements et produits textiles",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2403",
+   "code_fiche_em": 320,
+   "code_ogr": 249,
+   "libelle_rome": "Conduite de machine de fabrication de produits textiles",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1411",
+   "code_fiche_em": 47,
+   "code_ogr": 25,
+   "libelle_rome": "Élevage porcin",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2404",
+   "code_fiche_em": 317,
+   "code_ogr": 250,
+   "libelle_rome": "Conduite de machine de production et transformation des fils",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2405",
+   "code_fiche_em": 322,
+   "code_ogr": 251,
+   "libelle_rome": "Conduite de machine de textiles nontissés",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2406",
+   "code_fiche_em": 326,
+   "code_ogr": 252,
+   "libelle_rome": "Conduite de machine de traitement textile",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2407",
+   "code_fiche_em": 324,
+   "code_ogr": 253,
+   "libelle_rome": "Conduite de machine de transformation et de finition des cuirs et peaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2408",
+   "code_fiche_em": 327,
+   "code_ogr": 254,
+   "libelle_rome": "Conduite de machine d''impression textile",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2409",
+   "code_fiche_em": 315,
+   "code_ogr": 255,
+   "libelle_rome": "Coupe cuir, textile et matériaux souples",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2410",
+   "code_fiche_em": 311,
+   "code_ogr": 256,
+   "libelle_rome": "Mise en forme, repassage et finitions en industrie textile",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2411",
+   "code_fiche_em": 310,
+   "code_ogr": 257,
+   "libelle_rome": "Montage de prototype cuir et matériaux souples",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2412",
+   "code_fiche_em": 305,
+   "code_ogr": 258,
+   "libelle_rome": "Patronnage - gradation",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2413",
+   "code_fiche_em": 318,
+   "code_ogr": 259,
+   "libelle_rome": "Préparation de fils, montage de métiers textiles",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1412",
+   "code_fiche_em": 58,
+   "code_ogr": 26,
+   "libelle_rome": "Fabrication et affinage de fromages",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2414",
+   "code_fiche_em": 312,
+   "code_ogr": 260,
+   "libelle_rome": "Préparation et finition d''articles en cuir et matériaux souples",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2415",
+   "code_fiche_em": 313,
+   "code_ogr": 261,
+   "libelle_rome": "Contrôle en industrie du cuir et du textile",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2501",
+   "code_fiche_em": 330,
+   "code_ogr": 262,
+   "libelle_rome": "Encadrement de production de matériel électrique et électronique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2502",
+   "code_fiche_em": 334,
+   "code_ogr": 263,
+   "libelle_rome": "Management et ingénierie de production",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2503",
+   "code_fiche_em": 329,
+   "code_ogr": 264,
+   "libelle_rome": "Pilotage d''unité élémentaire de production mécanique ou de travail des métaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2504",
+   "code_fiche_em": 332,
+   "code_ogr": 265,
+   "libelle_rome": "Encadrement d''équipe en industrie de transformation",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2505",
+   "code_fiche_em": 336,
+   "code_ogr": 266,
+   "libelle_rome": "Encadrement d''équipe ou d''atelier en matériaux souples",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2601",
+   "code_fiche_em": 358,
+   "code_ogr": 267,
+   "libelle_rome": "Bobinage électrique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2602",
+   "code_fiche_em": 353,
+   "code_ogr": 268,
+   "libelle_rome": "Câblage électrique et électromécanique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2603",
+   "code_fiche_em": 352,
+   "code_ogr": 269,
+   "libelle_rome": "Conduite d''installation automatisée de production électrique, électronique et microélectronique",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1413",
+   "code_fiche_em": 60,
+   "code_ogr": 27,
+   "libelle_rome": "Fermentation de boissons alcoolisées",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2604",
+   "code_fiche_em": 350,
+   "code_ogr": 270,
+   "libelle_rome": "Montage de produits électriques et électroniques",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2605",
+   "code_fiche_em": 356,
+   "code_ogr": 271,
+   "libelle_rome": "Montage et câblage électronique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2701",
+   "code_fiche_em": 359,
+   "code_ogr": 272,
+   "libelle_rome": "Pilotage d''installation énergétique et pétrochimique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2801",
+   "code_fiche_em": 363,
+   "code_ogr": 273,
+   "libelle_rome": "Conduite d''équipement de transformation du verre",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2802",
+   "code_fiche_em": 366,
+   "code_ogr": 274,
+   "libelle_rome": "Conduite d''installation de production de matériaux de construction",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2803",
+   "code_fiche_em": 368,
+   "code_ogr": 275,
+   "libelle_rome": "Façonnage et émaillage en industrie céramique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2804",
+   "code_fiche_em": 364,
+   "code_ogr": 276,
+   "libelle_rome": "Pilotage de centrale à béton prêt à l''emploi, ciment, enrobés et granulats",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2805",
+   "code_fiche_em": 361,
+   "code_ogr": 277,
+   "libelle_rome": "Pilotage d''installation de production verrière",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2901",
+   "code_fiche_em": 385,
+   "code_ogr": 278,
+   "libelle_rome": "Ajustement et montage de fabrication",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2902",
+   "code_fiche_em": 601,
+   "code_ogr": 279,
+   "libelle_rome": "Chaudronnerie - tôlerie",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1414",
+   "code_fiche_em": 37,
+   "code_ogr": 28,
+   "libelle_rome": "Horticulture et maraîchage",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2903",
+   "code_fiche_em": 377,
+   "code_ogr": 280,
+   "libelle_rome": "Conduite d''équipement d''usinage",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2904",
+   "code_fiche_em": 374,
+   "code_ogr": 281,
+   "libelle_rome": "Conduite d''équipement de déformation des métaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2905",
+   "code_fiche_em": 373,
+   "code_ogr": 282,
+   "libelle_rome": "Conduite d''équipement de formage et découpage des matériaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2906",
+   "code_fiche_em": 371,
+   "code_ogr": 283,
+   "libelle_rome": "Conduite d''installation automatisée ou robotisée de fabrication mécanique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2907",
+   "code_fiche_em": 389,
+   "code_ogr": 284,
+   "libelle_rome": "Conduite d''installation de production des métaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2908",
+   "code_fiche_em": 391,
+   "code_ogr": 285,
+   "libelle_rome": "Modelage de matériaux non métalliques",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2909",
+   "code_fiche_em": 378,
+   "code_ogr": 286,
+   "libelle_rome": "Montage-assemblage mécanique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2910",
+   "code_fiche_em": 393,
+   "code_ogr": 287,
+   "libelle_rome": "Moulage sable",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2911",
+   "code_fiche_em": 382,
+   "code_ogr": 288,
+   "libelle_rome": "Réalisation de structures métalliques",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2912",
+   "code_fiche_em": 387,
+   "code_ogr": 289,
+   "libelle_rome": "Réglage d''équipement de production industrielle",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1305",
+   "code_fiche_em": 615,
+   "code_ogr": 28964,
+   "libelle_rome": "Intervention sociale et familiale",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1415",
+   "code_fiche_em": 56,
+   "code_ogr": 29,
+   "libelle_rome": "Equipage de la pêche",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2913",
+   "code_fiche_em": 380,
+   "code_ogr": 290,
+   "libelle_rome": "Soudage manuel",
+   "statut": 1
+ },
+ {
+   "code_rome": "H2914",
+   "code_fiche_em": 384,
+   "code_ogr": 291,
+   "libelle_rome": "Réalisation et montage en tuyauterie",
+   "statut": 1
+ },
+ {
+   "code_rome": "H3101",
+   "code_fiche_em": 396,
+   "code_ogr": 292,
+   "libelle_rome": "Conduite d''équipement de fabrication de papier ou de carton",
+   "statut": 1
+ },
+ {
+   "code_rome": "H3102",
+   "code_fiche_em": 395,
+   "code_ogr": 293,
+   "libelle_rome": "Conduite d''installation de pâte à papier",
+   "statut": 1
+ },
+ {
+   "code_rome": "H3201",
+   "code_fiche_em": 401,
+   "code_ogr": 294,
+   "libelle_rome": "Conduite d''équipement de formage des plastiques et caoutchoucs",
+   "statut": 1
+ },
+ {
+   "code_rome": "H3202",
+   "code_fiche_em": 402,
+   "code_ogr": 295,
+   "libelle_rome": "Réglage d''équipement de formage des plastiques et caoutchoucs",
+   "statut": 1
+ },
+ {
+   "code_rome": "H3203",
+   "code_fiche_em": 398,
+   "code_ogr": 296,
+   "libelle_rome": "Fabrication de pièces en matériaux composites",
+   "statut": 1
+ },
+ {
+   "code_rome": "H3301",
+   "code_fiche_em": 404,
+   "code_ogr": 297,
+   "libelle_rome": "Conduite d''équipement de conditionnement",
+   "statut": 1
+ },
+ {
+   "code_rome": "H3302",
+   "code_fiche_em": 405,
+   "code_ogr": 298,
+   "libelle_rome": "Opérations manuelles d''assemblage, tri ou emballage",
+   "statut": 1
+ },
+ {
+   "code_rome": "H3303",
+   "code_fiche_em": 407,
+   "code_ogr": 299,
+   "libelle_rome": "Préparation de matières et produits industriels (broyage, mélange, ...)",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1416",
+   "code_fiche_em": 36,
+   "code_ogr": 30,
+   "libelle_rome": "Polyculture, élevage",
+   "statut": 1
+ },
+ {
+   "code_rome": "H3401",
+   "code_fiche_em": 414,
+   "code_ogr": 300,
+   "libelle_rome": "Conduite de traitement d''abrasion de surface",
+   "statut": 1
+ },
+ {
+   "code_rome": "H3402",
+   "code_fiche_em": 410,
+   "code_ogr": 301,
+   "libelle_rome": "Conduite de traitement par dépôt de surface",
+   "statut": 1
+ },
+ {
+   "code_rome": "H3403",
+   "code_fiche_em": 409,
+   "code_ogr": 302,
+   "libelle_rome": "Conduite de traitement thermique",
+   "statut": 1
+ },
+ {
+   "code_rome": "H3404",
+   "code_fiche_em": 411,
+   "code_ogr": 303,
+   "libelle_rome": "Peinture industrielle",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1101",
+   "code_fiche_em": 239,
+   "code_ogr": 304,
+   "libelle_rome": "Direction et ingénierie en entretien infrastructure et bâti",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1102",
+   "code_fiche_em": 236,
+   "code_ogr": 305,
+   "libelle_rome": "Management et ingénierie de maintenance industrielle",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1103",
+   "code_fiche_em": 583,
+   "code_ogr": 306,
+   "libelle_rome": "Supervision d''entretien et gestion de véhicules",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1201",
+   "code_fiche_em": 246,
+   "code_ogr": 307,
+   "libelle_rome": "Entretien d''affichage et mobilier urbain",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1202",
+   "code_fiche_em": 243,
+   "code_ogr": 308,
+   "libelle_rome": "Entretien et surveillance du tracé routier",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1203",
+   "code_fiche_em": 241,
+   "code_ogr": 309,
+   "libelle_rome": "Maintenance des bâtiments et des locaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1417",
+   "code_fiche_em": 54,
+   "code_ogr": 31,
+   "libelle_rome": "Saliculture",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1301",
+   "code_fiche_em": 260,
+   "code_ogr": 310,
+   "libelle_rome": "Installation et maintenance d''ascenseurs",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1302",
+   "code_fiche_em": 258,
+   "code_ogr": 311,
+   "libelle_rome": "Installation et maintenance d''automatismes",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1303",
+   "code_fiche_em": 248,
+   "code_ogr": 312,
+   "libelle_rome": "Installation et maintenance de distributeurs automatiques",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1304",
+   "code_fiche_em": 256,
+   "code_ogr": 313,
+   "libelle_rome": "Installation et maintenance d''équipements industriels et d''exploitation",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1305",
+   "code_fiche_em": 265,
+   "code_ogr": 314,
+   "libelle_rome": "Installation et maintenance électronique",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1306",
+   "code_fiche_em": 263,
+   "code_ogr": 315,
+   "libelle_rome": "Installation et maintenance en froid, conditionnement d''air",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1307",
+   "code_fiche_em": 253,
+   "code_ogr": 316,
+   "libelle_rome": "Installation et maintenance télécoms et courants faibles",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1308",
+   "code_fiche_em": 261,
+   "code_ogr": 317,
+   "libelle_rome": "Maintenance d''installation de chauffage",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1309",
+   "code_fiche_em": 251,
+   "code_ogr": 318,
+   "libelle_rome": "Maintenance électrique",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1310",
+   "code_fiche_em": 249,
+   "code_ogr": 319,
+   "libelle_rome": "Maintenance mécanique industrielle",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1501",
+   "code_fiche_em": 66,
+   "code_ogr": 32,
+   "libelle_rome": "Aide aux soins animaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1401",
+   "code_fiche_em": 267,
+   "code_ogr": 320,
+   "libelle_rome": "Maintenance informatique et bureautique",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1402",
+   "code_fiche_em": 271,
+   "code_ogr": 321,
+   "libelle_rome": "Réparation de biens électrodomestiques et multimédia",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1501",
+   "code_fiche_em": 275,
+   "code_ogr": 322,
+   "libelle_rome": "Intervention en grande hauteur",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1502",
+   "code_fiche_em": 277,
+   "code_ogr": 323,
+   "libelle_rome": "Intervention en milieu subaquatique",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1503",
+   "code_fiche_em": 273,
+   "code_ogr": 324,
+   "libelle_rome": "Intervention en milieux et produits nocifs",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1601",
+   "code_fiche_em": 279,
+   "code_ogr": 325,
+   "libelle_rome": "Installation et maintenance en nautisme",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1602",
+   "code_fiche_em": 292,
+   "code_ogr": 326,
+   "libelle_rome": "Maintenance d''aéronefs",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1603",
+   "code_fiche_em": 584,
+   "code_ogr": 327,
+   "libelle_rome": "Maintenance d''engins de chantier, levage, manutention et de machines agricoles",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1604",
+   "code_fiche_em": 285,
+   "code_ogr": 328,
+   "libelle_rome": "Mécanique automobile et entretien de véhicules",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1605",
+   "code_fiche_em": 283,
+   "code_ogr": 329,
+   "libelle_rome": "Mécanique de marine",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1502",
+   "code_fiche_em": 69,
+   "code_ogr": 33,
+   "libelle_rome": "Podologie animale",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1606",
+   "code_fiche_em": 290,
+   "code_ogr": 330,
+   "libelle_rome": "Réparation de carrosserie",
+   "statut": 1
+ },
+ {
+   "code_rome": "I1607",
+   "code_fiche_em": 287,
+   "code_ogr": 331,
+   "libelle_rome": "Réparation de cycles, motocycles et motoculteurs de loisirs",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1101",
+   "code_fiche_em": 295,
+   "code_ogr": 332,
+   "libelle_rome": "Médecine de prévention",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1102",
+   "code_fiche_em": 297,
+   "code_ogr": 333,
+   "libelle_rome": "Médecine généraliste et spécialisée",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1103",
+   "code_fiche_em": 301,
+   "code_ogr": 334,
+   "libelle_rome": "Médecine dentaire",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1104",
+   "code_fiche_em": 304,
+   "code_ogr": 335,
+   "libelle_rome": "Suivi de la grossesse et de l''accouchement",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1201",
+   "code_fiche_em": 306,
+   "code_ogr": 336,
+   "libelle_rome": "Biologie médicale",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1202",
+   "code_fiche_em": 309,
+   "code_ogr": 337,
+   "libelle_rome": "Pharmacie",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1301",
+   "code_fiche_em": 316,
+   "code_ogr": 338,
+   "libelle_rome": "Personnel polyvalent des services hospitaliers",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1302",
+   "code_fiche_em": 325,
+   "code_ogr": 339,
+   "libelle_rome": "Analyses médicales",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1503",
+   "code_fiche_em": 68,
+   "code_ogr": 34,
+   "libelle_rome": "Toilettage des animaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1303",
+   "code_fiche_em": 319,
+   "code_ogr": 340,
+   "libelle_rome": "Assistance médico-technique",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1304",
+   "code_fiche_em": 314,
+   "code_ogr": 341,
+   "libelle_rome": "Aide en puériculture",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1305",
+   "code_fiche_em": 321,
+   "code_ogr": 342,
+   "libelle_rome": "Conduite de véhicules sanitaires",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1306",
+   "code_fiche_em": 328,
+   "code_ogr": 343,
+   "libelle_rome": "Imagerie médicale",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1307",
+   "code_fiche_em": 323,
+   "code_ogr": 344,
+   "libelle_rome": "Préparation en pharmacie",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1401",
+   "code_fiche_em": 335,
+   "code_ogr": 345,
+   "libelle_rome": "Audioprothèses",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1402",
+   "code_fiche_em": 338,
+   "code_ogr": 346,
+   "libelle_rome": "Diététique",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1403",
+   "code_fiche_em": 340,
+   "code_ogr": 347,
+   "libelle_rome": "Ergothérapie",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1404",
+   "code_fiche_em": 331,
+   "code_ogr": 348,
+   "libelle_rome": "Kinésithérapie",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1405",
+   "code_fiche_em": 341,
+   "code_ogr": 349,
+   "libelle_rome": "Optique - lunetterie",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1504",
+   "code_fiche_em": 72,
+   "code_ogr": 35,
+   "libelle_rome": "Santé animale",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1406",
+   "code_fiche_em": 342,
+   "code_ogr": 350,
+   "libelle_rome": "Orthophonie",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1407",
+   "code_fiche_em": 343,
+   "code_ogr": 351,
+   "libelle_rome": "Orthoptique",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1408",
+   "code_fiche_em": 333,
+   "code_ogr": 352,
+   "libelle_rome": "Ostéopathie et chiropraxie",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1409",
+   "code_fiche_em": 344,
+   "code_ogr": 353,
+   "libelle_rome": "Pédicurie et podologie",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1410",
+   "code_fiche_em": 345,
+   "code_ogr": 354,
+   "libelle_rome": "Prothèses dentaires",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1411",
+   "code_fiche_em": 346,
+   "code_ogr": 355,
+   "libelle_rome": "Prothèses et orthèses",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1412",
+   "code_fiche_em": 347,
+   "code_ogr": 356,
+   "libelle_rome": "Rééducation en psychomotricité",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1501",
+   "code_fiche_em": 349,
+   "code_ogr": 357,
+   "libelle_rome": "Soins d''hygiène, de confort du patient",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1502",
+   "code_fiche_em": 357,
+   "code_ogr": 358,
+   "libelle_rome": "Coordination de services médicaux ou paramédicaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1503",
+   "code_fiche_em": 351,
+   "code_ogr": 359,
+   "libelle_rome": "Soins infirmiers spécialisés en anesthésie",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1101",
+   "code_fiche_em": 8,
+   "code_ogr": 36,
+   "libelle_rome": "Création en arts plastiques",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1504",
+   "code_fiche_em": 360,
+   "code_ogr": 360,
+   "libelle_rome": "Soins infirmiers spécialisés en bloc opératoire",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1505",
+   "code_fiche_em": 354,
+   "code_ogr": 361,
+   "libelle_rome": "Soins infirmiers spécialisés en prévention",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1506",
+   "code_fiche_em": 355,
+   "code_ogr": 362,
+   "libelle_rome": "Soins infirmiers généralistes",
+   "statut": 1
+ },
+ {
+   "code_rome": "J1507",
+   "code_fiche_em": 362,
+   "code_ogr": 363,
+   "libelle_rome": "Soins infirmiers spécialisés en puériculture",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1101",
+   "code_fiche_em": 365,
+   "code_ogr": 364,
+   "libelle_rome": "Accompagnement et médiation familiale",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1102",
+   "code_fiche_em": 367,
+   "code_ogr": 365,
+   "libelle_rome": "Aide aux bénéficiaires d''une mesure de protection juridique",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1103",
+   "code_fiche_em": 370,
+   "code_ogr": 366,
+   "libelle_rome": "Développement personnel et bien-être de la personne",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1104",
+   "code_fiche_em": 372,
+   "code_ogr": 367,
+   "libelle_rome": "Psychologie",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1201",
+   "code_fiche_em": 590,
+   "code_ogr": 368,
+   "libelle_rome": "Action sociale",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1202",
+   "code_fiche_em": 381,
+   "code_ogr": 369,
+   "libelle_rome": "Éducation de jeunes enfants",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1201",
+   "code_fiche_em": 9,
+   "code_ogr": 37,
+   "libelle_rome": "Réalisation d''objets décoratifs et utilitaires en céramique et matériaux de synthèse",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1203",
+   "code_fiche_em": 386,
+   "code_ogr": 370,
+   "libelle_rome": "Encadrement technique en insertion professionnelle",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1204",
+   "code_fiche_em": 589,
+   "code_ogr": 371,
+   "libelle_rome": "Médiation sociale et facilitation de la vie en société",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1205",
+   "code_fiche_em": 602,
+   "code_ogr": 372,
+   "libelle_rome": "Information sociale",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1206",
+   "code_fiche_em": 379,
+   "code_ogr": 373,
+   "libelle_rome": "Intervention socioculturelle",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1207",
+   "code_fiche_em": 383,
+   "code_ogr": 374,
+   "libelle_rome": "Intervention socioéducative",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1301",
+   "code_fiche_em": 388,
+   "code_ogr": 375,
+   "libelle_rome": "Accompagnement médicosocial",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1302",
+   "code_fiche_em": 392,
+   "code_ogr": 376,
+   "libelle_rome": "Assistance auprès d''adultes",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1303",
+   "code_fiche_em": 394,
+   "code_ogr": 377,
+   "libelle_rome": "Assistance auprès d''enfants",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1304",
+   "code_fiche_em": 390,
+   "code_ogr": 378,
+   "libelle_rome": "Services domestiques",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1401",
+   "code_fiche_em": 397,
+   "code_ogr": 379,
+   "libelle_rome": "Conception et pilotage de la politique des pouvoirs publics",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1301",
+   "code_fiche_em": 12,
+   "code_ogr": 38,
+   "libelle_rome": "Décoration d''espaces de vente et d''exposition",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1402",
+   "code_fiche_em": 406,
+   "code_ogr": 380,
+   "libelle_rome": "Conseil en Santé Publique",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1403",
+   "code_fiche_em": 592,
+   "code_ogr": 381,
+   "libelle_rome": "Management de structure de santé, sociale ou pénitentiaire",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1404",
+   "code_fiche_em": 400,
+   "code_ogr": 382,
+   "libelle_rome": "Mise en oeuvre et pilotage de la politique des pouvoirs publics",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1405",
+   "code_fiche_em": 403,
+   "code_ogr": 383,
+   "libelle_rome": "Représentation de l''Etat sur le territoire national ou international",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1501",
+   "code_fiche_em": 419,
+   "code_ogr": 384,
+   "libelle_rome": "Application des règles financières publiques",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1502",
+   "code_fiche_em": 428,
+   "code_ogr": 385,
+   "libelle_rome": "Contrôle et inspection des Affaires Sociales",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1503",
+   "code_fiche_em": 421,
+   "code_ogr": 386,
+   "libelle_rome": "Contrôle et inspection des impôts",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1504",
+   "code_fiche_em": 426,
+   "code_ogr": 387,
+   "libelle_rome": "Contrôle et inspection du Trésor Public",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1505",
+   "code_fiche_em": 423,
+   "code_ogr": 388,
+   "libelle_rome": "Protection des consommateurs et contrôle des échanges commerciaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1601",
+   "code_fiche_em": 430,
+   "code_ogr": 389,
+   "libelle_rome": "Gestion de l''information et de la documentation",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1302",
+   "code_fiche_em": 17,
+   "code_ogr": 39,
+   "libelle_rome": "Décoration d''objets d''art et artisanaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1602",
+   "code_fiche_em": 432,
+   "code_ogr": 390,
+   "libelle_rome": "Gestion de patrimoine culturel",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1510",
+   "code_fiche_em": 17377,
+   "code_ogr": 39022,
+   "libelle_rome": "Films d''animation et effets spéciaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1701",
+   "code_fiche_em": 440,
+   "code_ogr": 391,
+   "libelle_rome": "Personnel de la Défense",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1702",
+   "code_fiche_em": 449,
+   "code_ogr": 392,
+   "libelle_rome": "Direction de la sécurité civile et des secours",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1703",
+   "code_fiche_em": 438,
+   "code_ogr": 393,
+   "libelle_rome": "Direction opérationnelle de la défense",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1704",
+   "code_fiche_em": 451,
+   "code_ogr": 394,
+   "libelle_rome": "Management de la sécurité publique",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1705",
+   "code_fiche_em": 448,
+   "code_ogr": 395,
+   "libelle_rome": "Sécurité civile et secours",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1706",
+   "code_fiche_em": 435,
+   "code_ogr": 396,
+   "libelle_rome": "Sécurité publique",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1707",
+   "code_fiche_em": 442,
+   "code_ogr": 397,
+   "libelle_rome": "Surveillance municipale",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1801",
+   "code_fiche_em": 452,
+   "code_ogr": 398,
+   "libelle_rome": "Conseil en emploi et insertion socioprofessionnelle",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1802",
+   "code_fiche_em": 454,
+   "code_ogr": 399,
+   "libelle_rome": "Développement local",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1303",
+   "code_fiche_em": 14,
+   "code_ogr": 40,
+   "libelle_rome": "Gravure - ciselure",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1901",
+   "code_fiche_em": 458,
+   "code_ogr": 400,
+   "libelle_rome": "Aide et médiation judiciaire",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1902",
+   "code_fiche_em": 459,
+   "code_ogr": 401,
+   "libelle_rome": "Collaboration juridique",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1903",
+   "code_fiche_em": 457,
+   "code_ogr": 402,
+   "libelle_rome": "Défense et conseil juridique",
+   "statut": 1
+ },
+ {
+   "code_rome": "K1904",
+   "code_fiche_em": 461,
+   "code_ogr": 403,
+   "libelle_rome": "Magistrature",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2101",
+   "code_fiche_em": 465,
+   "code_ogr": 404,
+   "libelle_rome": "Conseil en formation",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2102",
+   "code_fiche_em": 466,
+   "code_ogr": 405,
+   "libelle_rome": "Coordination pédagogique",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2103",
+   "code_fiche_em": 480,
+   "code_ogr": 406,
+   "libelle_rome": "Direction d''établissement et d''enseignement",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2104",
+   "code_fiche_em": 478,
+   "code_ogr": 407,
+   "libelle_rome": "Éducation et surveillance au sein d''établissements d''enseignement",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2105",
+   "code_fiche_em": 468,
+   "code_ogr": 408,
+   "libelle_rome": "Enseignement artistique",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2106",
+   "code_fiche_em": 470,
+   "code_ogr": 409,
+   "libelle_rome": "Enseignement des écoles",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1401",
+   "code_fiche_em": 20,
+   "code_ogr": 41,
+   "libelle_rome": "Réalisation d''objets en lianes, fibres et brins végétaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2107",
+   "code_fiche_em": 472,
+   "code_ogr": 410,
+   "libelle_rome": "Enseignement général du second degré",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2108",
+   "code_fiche_em": 476,
+   "code_ogr": 411,
+   "libelle_rome": "Enseignement supérieur",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2109",
+   "code_fiche_em": 474,
+   "code_ogr": 412,
+   "libelle_rome": "Enseignement technique et professionnel",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2110",
+   "code_fiche_em": 483,
+   "code_ogr": 413,
+   "libelle_rome": "Formation en conduite de véhicules",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2111",
+   "code_fiche_em": 464,
+   "code_ogr": 414,
+   "libelle_rome": "Formation professionnelle",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2112",
+   "code_fiche_em": 482,
+   "code_ogr": 415,
+   "libelle_rome": "Orientation scolaire et professionnelle",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2201",
+   "code_fiche_em": 489,
+   "code_ogr": 416,
+   "libelle_rome": "Blanchisserie industrielle",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2202",
+   "code_fiche_em": 488,
+   "code_ogr": 417,
+   "libelle_rome": "Lavage de vitres",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2203",
+   "code_fiche_em": 487,
+   "code_ogr": 418,
+   "libelle_rome": "Management et inspection en propreté de locaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2204",
+   "code_fiche_em": 591,
+   "code_ogr": 419,
+   "libelle_rome": "Nettoyage de locaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1402",
+   "code_fiche_em": 21,
+   "code_ogr": 42,
+   "libelle_rome": "Reliure et restauration de livres et archives",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2301",
+   "code_fiche_em": 491,
+   "code_ogr": 420,
+   "libelle_rome": "Distribution et assainissement d''eau",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2302",
+   "code_fiche_em": 494,
+   "code_ogr": 421,
+   "libelle_rome": "Management et inspection en environnement urbain",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2303",
+   "code_fiche_em": 490,
+   "code_ogr": 422,
+   "libelle_rome": "Nettoyage des espaces urbains",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2304",
+   "code_fiche_em": 497,
+   "code_ogr": 423,
+   "libelle_rome": "Revalorisation de produits industriels",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2305",
+   "code_fiche_em": 493,
+   "code_ogr": 424,
+   "libelle_rome": "Salubrité et traitement de nuisibles",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2306",
+   "code_fiche_em": 516,
+   "code_ogr": 425,
+   "libelle_rome": "Supervision d''exploitation éco-industrielle",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2401",
+   "code_fiche_em": 498,
+   "code_ogr": 426,
+   "libelle_rome": "Recherche en sciences de l''homme et de la société",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2402",
+   "code_fiche_em": 500,
+   "code_ogr": 427,
+   "libelle_rome": "Recherche en sciences de l''univers, de la matière et du vivant",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2501",
+   "code_fiche_em": 503,
+   "code_ogr": 428,
+   "libelle_rome": "Gardiennage de locaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2502",
+   "code_fiche_em": 507,
+   "code_ogr": 429,
+   "libelle_rome": "Management de sécurité privée",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1501",
+   "code_fiche_em": 22,
+   "code_ogr": 43,
+   "libelle_rome": "Fabrication et réparation d''instruments de musique",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2503",
+   "code_fiche_em": 505,
+   "code_ogr": 430,
+   "libelle_rome": "Sécurité et surveillance privées",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2601",
+   "code_fiche_em": 509,
+   "code_ogr": 431,
+   "libelle_rome": "Conduite d''opérations funéraires",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2602",
+   "code_fiche_em": 511,
+   "code_ogr": 432,
+   "libelle_rome": "Conseil en services funéraires",
+   "statut": 1
+ },
+ {
+   "code_rome": "K2603",
+   "code_fiche_em": 513,
+   "code_ogr": 433,
+   "libelle_rome": "Thanatopraxie",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1101",
+   "code_fiche_em": 417,
+   "code_ogr": 435,
+   "libelle_rome": "Animation musicale et scénique",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1102",
+   "code_fiche_em": 418,
+   "code_ogr": 436,
+   "libelle_rome": "Mannequinat et pose artistique",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1103",
+   "code_fiche_em": 415,
+   "code_ogr": 437,
+   "libelle_rome": "Présentation de spectacles ou d''émissions",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1201",
+   "code_fiche_em": 424,
+   "code_ogr": 438,
+   "libelle_rome": "Danse",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1202",
+   "code_fiche_em": 422,
+   "code_ogr": 439,
+   "libelle_rome": "Musique et chant",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1601",
+   "code_fiche_em": 24,
+   "code_ogr": 44,
+   "libelle_rome": "Métallerie d''art",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1203",
+   "code_fiche_em": 420,
+   "code_ogr": 440,
+   "libelle_rome": "Art dramatique",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1204",
+   "code_fiche_em": 425,
+   "code_ogr": 441,
+   "libelle_rome": "Arts du cirque et arts visuels",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1301",
+   "code_fiche_em": 429,
+   "code_ogr": 442,
+   "libelle_rome": "Mise en scène de spectacles vivants",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1302",
+   "code_fiche_em": 431,
+   "code_ogr": 443,
+   "libelle_rome": "Production et administration spectacle, cinéma et audiovisuel",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1303",
+   "code_fiche_em": 433,
+   "code_ogr": 444,
+   "libelle_rome": "Promotion d''artistes et de spectacles",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1304",
+   "code_fiche_em": 427,
+   "code_ogr": 445,
+   "libelle_rome": "Réalisation cinématographique et audiovisuelle",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1401",
+   "code_fiche_em": 436,
+   "code_ogr": 446,
+   "libelle_rome": "Sportif professionnel",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1501",
+   "code_fiche_em": 453,
+   "code_ogr": 447,
+   "libelle_rome": "Coiffure et maquillage spectacle",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1502",
+   "code_fiche_em": 450,
+   "code_ogr": 448,
+   "libelle_rome": "Costume et habillage spectacle",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1503",
+   "code_fiche_em": 446,
+   "code_ogr": 449,
+   "libelle_rome": "Décor et accessoires spectacle",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1602",
+   "code_fiche_em": 30,
+   "code_ogr": 45,
+   "libelle_rome": "Réalisation d''objets artistiques et fonctionnels en verre",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1504",
+   "code_fiche_em": 443,
+   "code_ogr": 450,
+   "libelle_rome": "Éclairage spectacle",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1505",
+   "code_fiche_em": 441,
+   "code_ogr": 451,
+   "libelle_rome": "Image cinématographique et télévisuelle",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1506",
+   "code_fiche_em": 447,
+   "code_ogr": 452,
+   "libelle_rome": "Machinerie spectacle",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1507",
+   "code_fiche_em": 455,
+   "code_ogr": 453,
+   "libelle_rome": "Montage audiovisuel et post-production",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1508",
+   "code_fiche_em": 439,
+   "code_ogr": 454,
+   "libelle_rome": "Prise de son et sonorisation",
+   "statut": 1
+ },
+ {
+   "code_rome": "L1509",
+   "code_fiche_em": 456,
+   "code_ogr": 455,
+   "libelle_rome": "Régie générale",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1101",
+   "code_fiche_em": 460,
+   "code_ogr": 456,
+   "libelle_rome": "Achats",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1102",
+   "code_fiche_em": 463,
+   "code_ogr": 457,
+   "libelle_rome": "Direction des achats",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1201",
+   "code_fiche_em": 477,
+   "code_ogr": 458,
+   "libelle_rome": "Analyse et ingénierie financière",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1202",
+   "code_fiche_em": 471,
+   "code_ogr": 459,
+   "libelle_rome": "Audit et contrôle comptables et financiers",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1603",
+   "code_fiche_em": 26,
+   "code_ogr": 46,
+   "libelle_rome": "Réalisation d''ouvrages en bijouterie, joaillerie et orfèvrerie",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1203",
+   "code_fiche_em": 467,
+   "code_ogr": 460,
+   "libelle_rome": "Comptabilité",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1204",
+   "code_fiche_em": 479,
+   "code_ogr": 461,
+   "libelle_rome": "Contrôle de gestion",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1205",
+   "code_fiche_em": 473,
+   "code_ogr": 462,
+   "libelle_rome": "Direction administrative et financière",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1206",
+   "code_fiche_em": 469,
+   "code_ogr": 463,
+   "libelle_rome": "Management de groupe ou de service comptable",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1207",
+   "code_fiche_em": 475,
+   "code_ogr": 464,
+   "libelle_rome": "Trésorerie et financement",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1301",
+   "code_fiche_em": 484,
+   "code_ogr": 465,
+   "libelle_rome": "Direction de grande entreprise ou d''établissement public",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1302",
+   "code_fiche_em": 481,
+   "code_ogr": 466,
+   "libelle_rome": "Direction de petite ou moyenne entreprise",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1401",
+   "code_fiche_em": 486,
+   "code_ogr": 467,
+   "libelle_rome": "Conduite d''enquêtes",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1402",
+   "code_fiche_em": 496,
+   "code_ogr": 468,
+   "libelle_rome": "Conseil en organisation et management d''entreprise",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1403",
+   "code_fiche_em": 499,
+   "code_ogr": 469,
+   "libelle_rome": "Études et prospectives socio-économiques",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1604",
+   "code_fiche_em": 23,
+   "code_ogr": 47,
+   "libelle_rome": "Réparation - montage en systèmes horlogers",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1404",
+   "code_fiche_em": 492,
+   "code_ogr": 470,
+   "libelle_rome": "Management et gestion d''enquêtes",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1501",
+   "code_fiche_em": 501,
+   "code_ogr": 471,
+   "libelle_rome": "Assistanat en ressources humaines",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1502",
+   "code_fiche_em": 504,
+   "code_ogr": 472,
+   "libelle_rome": "Développement des ressources humaines",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1503",
+   "code_fiche_em": 502,
+   "code_ogr": 473,
+   "libelle_rome": "Management des ressources humaines",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1601",
+   "code_fiche_em": 508,
+   "code_ogr": 474,
+   "libelle_rome": "Accueil et renseignements",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1602",
+   "code_fiche_em": 512,
+   "code_ogr": 475,
+   "libelle_rome": "Opérations administratives",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1603",
+   "code_fiche_em": 506,
+   "code_ogr": 476,
+   "libelle_rome": "Distribution de documents",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1604",
+   "code_fiche_em": 524,
+   "code_ogr": 477,
+   "libelle_rome": "Assistanat de direction",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1605",
+   "code_fiche_em": 522,
+   "code_ogr": 478,
+   "libelle_rome": "Assistanat technique et administratif",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1606",
+   "code_fiche_em": 510,
+   "code_ogr": 479,
+   "libelle_rome": "Saisie de données",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1701",
+   "code_fiche_em": 33,
+   "code_ogr": 48,
+   "libelle_rome": "Conservation et reconstitution d''espèces animales",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1607",
+   "code_fiche_em": 514,
+   "code_ogr": 480,
+   "libelle_rome": "Secrétariat",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1608",
+   "code_fiche_em": 519,
+   "code_ogr": 481,
+   "libelle_rome": "Secrétariat comptable",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1609",
+   "code_fiche_em": 517,
+   "code_ogr": 482,
+   "libelle_rome": "Secrétariat et assistanat médical ou médico-social",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1701",
+   "code_fiche_em": 538,
+   "code_ogr": 483,
+   "libelle_rome": "Administration des ventes",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1702",
+   "code_fiche_em": 526,
+   "code_ogr": 484,
+   "libelle_rome": "Analyse de tendance",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1703",
+   "code_fiche_em": 532,
+   "code_ogr": 485,
+   "libelle_rome": "Management et gestion de produit",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1704",
+   "code_fiche_em": 537,
+   "code_ogr": 486,
+   "libelle_rome": "Management relation clientèle",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1705",
+   "code_fiche_em": 529,
+   "code_ogr": 487,
+   "libelle_rome": "Marketing",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1706",
+   "code_fiche_em": 534,
+   "code_ogr": 488,
+   "libelle_rome": "Promotion des ventes",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1707",
+   "code_fiche_em": 541,
+   "code_ogr": 489,
+   "libelle_rome": "Stratégie commerciale",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1801",
+   "code_fiche_em": 39,
+   "code_ogr": 49,
+   "libelle_rome": "Réalisation d''articles de chapellerie",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1801",
+   "code_fiche_em": 551,
+   "code_ogr": 490,
+   "libelle_rome": "Administration de systèmes d''information",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1802",
+   "code_fiche_em": 571,
+   "code_ogr": 491,
+   "libelle_rome": "Expertise et support en systèmes d''information",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1803",
+   "code_fiche_em": 574,
+   "code_ogr": 492,
+   "libelle_rome": "Direction des systèmes d''information",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1804",
+   "code_fiche_em": 569,
+   "code_ogr": 493,
+   "libelle_rome": "Études et développement de réseaux de télécoms",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1805",
+   "code_fiche_em": 567,
+   "code_ogr": 494,
+   "libelle_rome": "Études et développement informatique",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1806",
+   "code_fiche_em": 545,
+   "code_ogr": 495,
+   "libelle_rome": "Conseil et maîtrise d''ouvrage en systèmes d''information",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1807",
+   "code_fiche_em": 575,
+   "code_ogr": 496,
+   "libelle_rome": "Exploitation de systèmes de communication et de commandement",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1808",
+   "code_fiche_em": 577,
+   "code_ogr": 497,
+   "libelle_rome": "Information géographique",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1809",
+   "code_fiche_em": 576,
+   "code_ogr": 498,
+   "libelle_rome": "Information météorologique",
+   "statut": 1
+ },
+ {
+   "code_rome": "M1810",
+   "code_fiche_em": 565,
+   "code_ogr": 499,
+   "libelle_rome": "Production et exploitation de systèmes d''information",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1802",
+   "code_fiche_em": 42,
+   "code_ogr": 50,
+   "libelle_rome": "Réalisation d''articles en cuir et matériaux souples (hors vêtement)",
+   "statut": 1
+ },
+ {
+   "code_rome": "N1101",
+   "code_fiche_em": 521,
+   "code_ogr": 500,
+   "libelle_rome": "Conduite d''engins de déplacement des charges",
+   "statut": 1
+ },
+ {
+   "code_rome": "N1102",
+   "code_fiche_em": 525,
+   "code_ogr": 501,
+   "libelle_rome": "Déménagement",
+   "statut": 1
+ },
+ {
+   "code_rome": "N1103",
+   "code_fiche_em": 520,
+   "code_ogr": 502,
+   "libelle_rome": "Magasinage et préparation de commandes",
+   "statut": 1
+ },
+ {
+   "code_rome": "N1104",
+   "code_fiche_em": 518,
+   "code_ogr": 503,
+   "libelle_rome": "Manoeuvre et conduite d''engins lourds de manutention",
+   "statut": 1
+ },
+ {
+   "code_rome": "N1105",
+   "code_fiche_em": 523,
+   "code_ogr": 504,
+   "libelle_rome": "Manutention manuelle de charges",
+   "statut": 1
+ },
+ {
+   "code_rome": "N1201",
+   "code_fiche_em": 527,
+   "code_ogr": 505,
+   "libelle_rome": "Affrètement transport",
+   "statut": 1
+ },
+ {
+   "code_rome": "N1202",
+   "code_fiche_em": 528,
+   "code_ogr": 506,
+   "libelle_rome": "Gestion des opérations de circulation internationale des marchandises",
+   "statut": 1
+ },
+ {
+   "code_rome": "N1301",
+   "code_fiche_em": 535,
+   "code_ogr": 507,
+   "libelle_rome": "Conception et organisation de la chaîne logistique",
+   "statut": 1
+ },
+ {
+   "code_rome": "N1302",
+   "code_fiche_em": 536,
+   "code_ogr": 508,
+   "libelle_rome": "Direction de site logistique",
+   "statut": 1
+ },
+ {
+   "code_rome": "N1303",
+   "code_fiche_em": 533,
+   "code_ogr": 509,
+   "libelle_rome": "Intervention technique d''exploitation logistique",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1803",
+   "code_fiche_em": 41,
+   "code_ogr": 51,
+   "libelle_rome": "Réalisation de vêtements sur mesure ou en petite série",
+   "statut": 1
+ },
+ {
+   "code_rome": "N2101",
+   "code_fiche_em": 540,
+   "code_ogr": 510,
+   "libelle_rome": "Navigation commerciale aérienne",
+   "statut": 1
+ },
+ {
+   "code_rome": "N2102",
+   "code_fiche_em": 542,
+   "code_ogr": 511,
+   "libelle_rome": "Pilotage et navigation technique aérienne",
+   "statut": 1
+ },
+ {
+   "code_rome": "N2201",
+   "code_fiche_em": 544,
+   "code_ogr": 512,
+   "libelle_rome": "Personnel d''escale aéroportuaire",
+   "statut": 1
+ },
+ {
+   "code_rome": "N2202",
+   "code_fiche_em": 547,
+   "code_ogr": 513,
+   "libelle_rome": "Contrôle de la navigation aérienne",
+   "statut": 1
+ },
+ {
+   "code_rome": "N2203",
+   "code_fiche_em": 543,
+   "code_ogr": 514,
+   "libelle_rome": "Exploitation des pistes aéroportuaires",
+   "statut": 1
+ },
+ {
+   "code_rome": "N2204",
+   "code_fiche_em": 546,
+   "code_ogr": 515,
+   "libelle_rome": "Préparation des vols",
+   "statut": 1
+ },
+ {
+   "code_rome": "N2205",
+   "code_fiche_em": 548,
+   "code_ogr": 516,
+   "libelle_rome": "Direction d''escale et exploitation aéroportuaire",
+   "statut": 1
+ },
+ {
+   "code_rome": "N3101",
+   "code_fiche_em": 552,
+   "code_ogr": 517,
+   "libelle_rome": "Encadrement de la navigation maritime",
+   "statut": 1
+ },
+ {
+   "code_rome": "N3102",
+   "code_fiche_em": 549,
+   "code_ogr": 518,
+   "libelle_rome": "Equipage de la navigation maritime",
+   "statut": 1
+ },
+ {
+   "code_rome": "N3103",
+   "code_fiche_em": 550,
+   "code_ogr": 519,
+   "libelle_rome": "Navigation fluviale",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1804",
+   "code_fiche_em": 44,
+   "code_ogr": 52,
+   "libelle_rome": "Réalisation d''ouvrages d''art en fils",
+   "statut": 1
+ },
+ {
+   "code_rome": "N3201",
+   "code_fiche_em": 554,
+   "code_ogr": 520,
+   "libelle_rome": "Exploitation des opérations portuaires et du transport maritime",
+   "statut": 1
+ },
+ {
+   "code_rome": "N3202",
+   "code_fiche_em": 593,
+   "code_ogr": 521,
+   "libelle_rome": "Exploitation du transport fluvial",
+   "statut": 1
+ },
+ {
+   "code_rome": "N3203",
+   "code_fiche_em": 553,
+   "code_ogr": 522,
+   "libelle_rome": "Manutention portuaire",
+   "statut": 1
+ },
+ {
+   "code_rome": "N4101",
+   "code_fiche_em": 573,
+   "code_ogr": 523,
+   "libelle_rome": "Conduite de transport de marchandises sur longue distance",
+   "statut": 1
+ },
+ {
+   "code_rome": "N4102",
+   "code_fiche_em": 566,
+   "code_ogr": 524,
+   "libelle_rome": "Conduite de transport de particuliers",
+   "statut": 1
+ },
+ {
+   "code_rome": "N4103",
+   "code_fiche_em": 568,
+   "code_ogr": 525,
+   "libelle_rome": "Conduite de transport en commun sur route",
+   "statut": 1
+ },
+ {
+   "code_rome": "N4104",
+   "code_fiche_em": 572,
+   "code_ogr": 526,
+   "libelle_rome": "Courses et livraisons express",
+   "statut": 1
+ },
+ {
+   "code_rome": "N4105",
+   "code_fiche_em": 570,
+   "code_ogr": 527,
+   "libelle_rome": "Conduite et livraison par tournées sur courte distance",
+   "statut": 1
+ },
+ {
+   "code_rome": "N4201",
+   "code_fiche_em": 564,
+   "code_ogr": 528,
+   "libelle_rome": "Direction d''exploitation des transports routiers de marchandises",
+   "statut": 1
+ },
+ {
+   "code_rome": "N4202",
+   "code_fiche_em": 562,
+   "code_ogr": 529,
+   "libelle_rome": "Direction d''exploitation des transports routiers de personnes",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1805",
+   "code_fiche_em": 35,
+   "code_ogr": 53,
+   "libelle_rome": "Stylisme",
+   "statut": 1
+ },
+ {
+   "code_rome": "N4203",
+   "code_fiche_em": 563,
+   "code_ogr": 530,
+   "libelle_rome": "Intervention technique d''exploitation des transports routiers de marchandises",
+   "statut": 1
+ },
+ {
+   "code_rome": "N4204",
+   "code_fiche_em": 561,
+   "code_ogr": 531,
+   "libelle_rome": "Intervention technique d''exploitation des transports routiers de personnes",
+   "statut": 1
+ },
+ {
+   "code_rome": "N4301",
+   "code_fiche_em": 559,
+   "code_ogr": 532,
+   "libelle_rome": "Conduite sur rails",
+   "statut": 1
+ },
+ {
+   "code_rome": "N4302",
+   "code_fiche_em": 558,
+   "code_ogr": 533,
+   "libelle_rome": "Contrôle des transports en commun",
+   "statut": 1
+ },
+ {
+   "code_rome": "N4401",
+   "code_fiche_em": 555,
+   "code_ogr": 534,
+   "libelle_rome": "Circulation du réseau ferré",
+   "statut": 1
+ },
+ {
+   "code_rome": "N4402",
+   "code_fiche_em": 556,
+   "code_ogr": 535,
+   "libelle_rome": "Exploitation et manoeuvre des remontées mécaniques",
+   "statut": 1
+ },
+ {
+   "code_rome": "N4403",
+   "code_fiche_em": 557,
+   "code_ogr": 536,
+   "libelle_rome": "Manoeuvre du réseau ferré",
+   "statut": 1
+ },
+ {
+   "code_rome": "B1806",
+   "code_fiche_em": 38,
+   "code_ogr": 54,
+   "libelle_rome": "Tapisserie - décoration en ameublement",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1101",
+   "code_fiche_em": 65,
+   "code_ogr": 55,
+   "libelle_rome": "Conception - développement produits d''assurances",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1102",
+   "code_fiche_em": 50,
+   "code_ogr": 56,
+   "libelle_rome": "Conseil clientèle en assurances",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1103",
+   "code_fiche_em": 59,
+   "code_ogr": 57,
+   "libelle_rome": "Courtage en assurances",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1104",
+   "code_fiche_em": 55,
+   "code_ogr": 58,
+   "libelle_rome": "Direction d''exploitation en assurances",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1105",
+   "code_fiche_em": 77,
+   "code_ogr": 59,
+   "libelle_rome": "Études actuarielles en assurances",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1101",
+   "code_fiche_em": 11,
+   "code_ogr": 6,
+   "libelle_rome": "Conduite d''engins agricoles et forestiers",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1106",
+   "code_fiche_em": 74,
+   "code_ogr": 60,
+   "libelle_rome": "Expertise risques en assurances",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1107",
+   "code_fiche_em": 75,
+   "code_ogr": 61,
+   "libelle_rome": "Indemnisations en assurances",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1108",
+   "code_fiche_em": 57,
+   "code_ogr": 62,
+   "libelle_rome": "Management de groupe et de service en assurances",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1109",
+   "code_fiche_em": 49,
+   "code_ogr": 63,
+   "libelle_rome": "Rédaction et gestion en assurances",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1110",
+   "code_fiche_em": 53,
+   "code_ogr": 64,
+   "libelle_rome": "Souscription d''assurances",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1201",
+   "code_fiche_em": 79,
+   "code_ogr": 65,
+   "libelle_rome": "Accueil et services bancaires",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1202",
+   "code_fiche_em": 93,
+   "code_ogr": 66,
+   "libelle_rome": "Analyse de crédits et risques bancaires",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1203",
+   "code_fiche_em": 88,
+   "code_ogr": 67,
+   "libelle_rome": "Relation clients banque/finance",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1204",
+   "code_fiche_em": 91,
+   "code_ogr": 68,
+   "libelle_rome": "Conception et expertise produits bancaires et financiers",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1205",
+   "code_fiche_em": 86,
+   "code_ogr": 69,
+   "libelle_rome": "Conseil en gestion de patrimoine financier",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1201",
+   "code_fiche_em": 19,
+   "code_ogr": 7,
+   "libelle_rome": "Bûcheronnage et élagage",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1206",
+   "code_fiche_em": 84,
+   "code_ogr": 70,
+   "libelle_rome": "Gestion de clientèle bancaire",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1207",
+   "code_fiche_em": 90,
+   "code_ogr": 71,
+   "libelle_rome": "Management en exploitation bancaire",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1301",
+   "code_fiche_em": 96,
+   "code_ogr": 72,
+   "libelle_rome": "Front office marchés financiers",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1302",
+   "code_fiche_em": 98,
+   "code_ogr": 73,
+   "libelle_rome": "Gestion back et middle-office marchés financiers",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1303",
+   "code_fiche_em": 95,
+   "code_ogr": 74,
+   "libelle_rome": "Gestion de portefeuilles sur les marchés financiers",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1401",
+   "code_fiche_em": 100,
+   "code_ogr": 75,
+   "libelle_rome": "Gestion en banque et assurance",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1501",
+   "code_fiche_em": 104,
+   "code_ogr": 76,
+   "libelle_rome": "Gérance immobilière",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1502",
+   "code_fiche_em": 102,
+   "code_ogr": 77,
+   "libelle_rome": "Gestion locative immobilière",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1503",
+   "code_fiche_em": 108,
+   "code_ogr": 78,
+   "libelle_rome": "Management de projet immobilier",
+   "statut": 1
+ },
+ {
+   "code_rome": "C1504",
+   "code_fiche_em": 106,
+   "code_ogr": 79,
+   "libelle_rome": "Transaction immobilière",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1202",
+   "code_fiche_em": 15,
+   "code_ogr": 8,
+   "libelle_rome": "Entretien des espaces naturels",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1101",
+   "code_fiche_em": 82,
+   "code_ogr": 80,
+   "libelle_rome": "Boucherie",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1102",
+   "code_fiche_em": 78,
+   "code_ogr": 81,
+   "libelle_rome": "Boulangerie - viennoiserie",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1103",
+   "code_fiche_em": 85,
+   "code_ogr": 82,
+   "libelle_rome": "Charcuterie - traiteur",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1104",
+   "code_fiche_em": 80,
+   "code_ogr": 83,
+   "libelle_rome": "Pâtisserie, confiserie, chocolaterie et glacerie",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1105",
+   "code_fiche_em": 87,
+   "code_ogr": 84,
+   "libelle_rome": "Poissonnerie",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1106",
+   "code_fiche_em": 76,
+   "code_ogr": 85,
+   "libelle_rome": "Vente en alimentation",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1107",
+   "code_fiche_em": 73,
+   "code_ogr": 86,
+   "libelle_rome": "Vente en gros de produits frais",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1201",
+   "code_fiche_em": 101,
+   "code_ogr": 87,
+   "libelle_rome": "Achat vente d''objets d''art, anciens ou d''occasion",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1202",
+   "code_fiche_em": 109,
+   "code_ogr": 88,
+   "libelle_rome": "Coiffure",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1203",
+   "code_fiche_em": 113,
+   "code_ogr": 89,
+   "libelle_rome": "Hydrothérapie",
+   "statut": 1
+ },
+ {
+   "code_rome": "A1203",
+   "code_fiche_em": 16,
+   "code_ogr": 9,
+   "libelle_rome": "Aménagement et entretien des espaces verts",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1204",
+   "code_fiche_em": 117,
+   "code_ogr": 90,
+   "libelle_rome": "Location de véhicules ou de matériel de loisirs",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1205",
+   "code_fiche_em": 115,
+   "code_ogr": 91,
+   "libelle_rome": "Nettoyage d''articles textiles ou cuirs",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1206",
+   "code_fiche_em": 105,
+   "code_ogr": 92,
+   "libelle_rome": "Réparation d''articles en cuir et matériaux souples",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1207",
+   "code_fiche_em": 103,
+   "code_ogr": 93,
+   "libelle_rome": "Retouches en habillement",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1208",
+   "code_fiche_em": 111,
+   "code_ogr": 94,
+   "libelle_rome": "Soins esthétiques et corporels",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1209",
+   "code_fiche_em": 99,
+   "code_ogr": 95,
+   "libelle_rome": "Vente de végétaux",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1210",
+   "code_fiche_em": 89,
+   "code_ogr": 96,
+   "libelle_rome": "Vente en animalerie",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1211",
+   "code_fiche_em": 107,
+   "code_ogr": 97,
+   "libelle_rome": "Vente en articles de sport et loisirs",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1212",
+   "code_fiche_em": 94,
+   "code_ogr": 98,
+   "libelle_rome": "Vente en décoration et équipement du foyer",
+   "statut": 1
+ },
+ {
+   "code_rome": "D1213",
+   "code_fiche_em": 92,
+   "code_ogr": 99,
+   "libelle_rome": "Vente en gros de matériel et équipement",
+   "statut": 1
+ }
+]

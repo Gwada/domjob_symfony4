@@ -5,6 +5,7 @@ namespace App\Controller;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
+use App\Entity\GrandDomaine;
 
 class DomJobController extends AbstractController
 {
@@ -13,6 +14,11 @@ class DomJobController extends AbstractController
      */
     public function index()
     {
+        $repo = $this->getDoctrine()->getRepository(GrandDomaine::class);
+        $grandDomaine = $repo->findOneByCodeGrandDomaine('A');
+        dump($grandDomaine);
+        $list = $grandDomaine->getDomainesProfessionnel();
+        dump($list->count());
         return $this->render('dom_job/index.html.twig', [
             'controller_name' => 'DomJobController',
         ]);

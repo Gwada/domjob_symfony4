@@ -1,0 +1,2426 @@
+[
+ {
+   "code_tete_rgpmt": 0,
+   "libelle_en_tete_regroupement": "Accueillir des passagers lors de :"
+ },
+ {
+   "code_tete_rgpmt": 1,
+   "libelle_en_tete_regroupement": "Actionner et manoeuvrer des équipements :"
+ },
+ {
+   "code_tete_rgpmt": 2,
+   "libelle_en_tete_regroupement": "Adapter ou fabriquer des accessoires de costumes :"
+ },
+ {
+   "code_tete_rgpmt": 3,
+   "libelle_en_tete_regroupement": "Adapter un écrit :"
+ },
+ {
+   "code_tete_rgpmt": 4,
+   "libelle_en_tete_regroupement": "Administrer un système :"
+ },
+ {
+   "code_tete_rgpmt": 7,
+   "libelle_en_tete_regroupement": "Animer des :"
+ },
+ {
+   "code_tete_rgpmt": 5,
+   "libelle_en_tete_regroupement": "Animer des formations nécessitant un brevet ou une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 6,
+   "libelle_en_tete_regroupement": "Animer des séances de préparation à l''accouchement ou à la parentalité :"
+ },
+ {
+   "code_tete_rgpmt": 8,
+   "libelle_en_tete_regroupement": "Animer des ventes en :"
+ },
+ {
+   "code_tete_rgpmt": 9,
+   "libelle_en_tete_regroupement": "Appliquer à la main (couteau, pinceau, tampon, ...) un produit spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 10,
+   "libelle_en_tete_regroupement": "Appliquer des motifs, des revêtements de surface sur du :"
+ },
+ {
+   "code_tete_rgpmt": 11,
+   "libelle_en_tete_regroupement": "Appliquer et régler des couches de revêtement de :"
+ },
+ {
+   "code_tete_rgpmt": 12,
+   "libelle_en_tete_regroupement": "Appliquer un revêtement ou une protection par :"
+ },
+ {
+   "code_tete_rgpmt": 13,
+   "libelle_en_tete_regroupement": "Appliquer une couche de métal par pulvérisation ou trempage :"
+ },
+ {
+   "code_tete_rgpmt": 14,
+   "libelle_en_tete_regroupement": "Apporter un appui technique pour l''élaboration de dossiers :"
+ },
+ {
+   "code_tete_rgpmt": 15,
+   "libelle_en_tete_regroupement": "Assembler les différentes pièces d''un ouvrage (chaise, meuble, ...) par :"
+ },
+ {
+   "code_tete_rgpmt": 16,
+   "libelle_en_tete_regroupement": "Assurer la représentation du Gouvernement sur un territoire :"
+ },
+ {
+   "code_tete_rgpmt": 17,
+   "libelle_en_tete_regroupement": "Broder des étoffes/articles sur :"
+ },
+ {
+   "code_tete_rgpmt": 18,
+   "libelle_en_tete_regroupement": "Charger/décharger le matériel au moyen d''engins :"
+ },
+ {
+   "code_tete_rgpmt": 19,
+   "libelle_en_tete_regroupement": "Commander un navire :"
+ },
+ {
+   "code_tete_rgpmt": 20,
+   "libelle_en_tete_regroupement": "Commander un navire nécessitant une qualification ou une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 21,
+   "libelle_en_tete_regroupement": "Commander un navire sur une zone géographique :"
+ },
+ {
+   "code_tete_rgpmt": 22,
+   "libelle_en_tete_regroupement": "Concevoir des édifices en :"
+ },
+ {
+   "code_tete_rgpmt": 23,
+   "libelle_en_tete_regroupement": "Concevoir des éléments de décoration ou d''identité visuelle :"
+ },
+ {
+   "code_tete_rgpmt": 24,
+   "libelle_en_tete_regroupement": "Concevoir des éléments prothétiques/orthétiques :"
+ },
+ {
+   "code_tete_rgpmt": 32,
+   "libelle_en_tete_regroupement": "Concevoir des :"
+ },
+ {
+   "code_tete_rgpmt": 25,
+   "libelle_en_tete_regroupement": "Concevoir des modèles pour de nouvelles collections ou des évènements :"
+ },
+ {
+   "code_tete_rgpmt": 26,
+   "libelle_en_tete_regroupement": "Concevoir des projets à l''aide de :"
+ },
+ {
+   "code_tete_rgpmt": 27,
+   "libelle_en_tete_regroupement": "Concevoir des projets hors média :"
+ },
+ {
+   "code_tete_rgpmt": 28,
+   "libelle_en_tete_regroupement": "Concevoir des projets pour un support média :"
+ },
+ {
+   "code_tete_rgpmt": 29,
+   "libelle_en_tete_regroupement": "Concevoir et fabriquer un :"
+ },
+ {
+   "code_tete_rgpmt": 30,
+   "libelle_en_tete_regroupement": "Concevoir l''aménagement d''espaces :"
+ },
+ {
+   "code_tete_rgpmt": 31,
+   "libelle_en_tete_regroupement": "Concevoir ou réaliser des supports de communication :"
+ },
+ {
+   "code_tete_rgpmt": 34,
+   "libelle_en_tete_regroupement": "Concevoir une montre, une horloge et intervenir dans la ou le :"
+ },
+ {
+   "code_tete_rgpmt": 35,
+   "libelle_en_tete_regroupement": "Conduire et suivre des fonctions :"
+ },
+ {
+   "code_tete_rgpmt": 36,
+   "libelle_en_tete_regroupement": "Conduire un bateau nécessitant une qualification ou une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 37,
+   "libelle_en_tete_regroupement": "Conduire un engin ferroviaire spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 38,
+   "libelle_en_tete_regroupement": "Conduire un véhicule nécessitant une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 39,
+   "libelle_en_tete_regroupement": "Conduire un véhicule spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 40,
+   "libelle_en_tete_regroupement": "Confectionner des produits alimentaires :"
+ },
+ {
+   "code_tete_rgpmt": 41,
+   "libelle_en_tete_regroupement": "Conseiller un artiste, un mannequin, un sportif, ... sur :"
+ },
+ {
+   "code_tete_rgpmt": 42,
+   "libelle_en_tete_regroupement": "Contrôler des canalisations par :"
+ },
+ {
+   "code_tete_rgpmt": 44,
+   "libelle_en_tete_regroupement": "Contrôler la conformité d''éléments :"
+ },
+ {
+   "code_tete_rgpmt": 43,
+   "libelle_en_tete_regroupement": "Contrôler la conformité de composition ou de résistance d''un produit par :"
+ },
+ {
+   "code_tete_rgpmt": 45,
+   "libelle_en_tete_regroupement": "Contrôler le trafic aérien d''un site aéroportuaire de :"
+ },
+ {
+   "code_tete_rgpmt": 46,
+   "libelle_en_tete_regroupement": "Contrôler les connaissances de pilotes par des examens nécessitant une qualification :"
+ },
+ {
+   "code_tete_rgpmt": 47,
+   "libelle_en_tete_regroupement": "Contrôler les titres de transport sur :"
+ },
+ {
+   "code_tete_rgpmt": 48,
+   "libelle_en_tete_regroupement": "Contrôler ou réaliser des opérations de gestion des ressources humaines :"
+ },
+ {
+   "code_tete_rgpmt": 49,
+   "libelle_en_tete_regroupement": "Convoyer sur les pistes ou installer aux abords des aéronefs du matériel nécessitant une autorisation/habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 50,
+   "libelle_en_tete_regroupement": "Coordonner des actions de promotion du patrimoine :"
+ },
+ {
+   "code_tete_rgpmt": 51,
+   "libelle_en_tete_regroupement": "Coordonner des opérations de transport/logistique :"
+ },
+ {
+   "code_tete_rgpmt": 52,
+   "libelle_en_tete_regroupement": "Coordonner des projets de :"
+ },
+ {
+   "code_tete_rgpmt": 53,
+   "libelle_en_tete_regroupement": "Coordonner et animer des actions spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 54,
+   "libelle_en_tete_regroupement": "Coordonner la sécurité de chantiers nécessitant une attestation :"
+ },
+ {
+   "code_tete_rgpmt": 55,
+   "libelle_en_tete_regroupement": "Coordonner les actions d''un groupe lors d''un projet/chantier :"
+ },
+ {
+   "code_tete_rgpmt": 56,
+   "libelle_en_tete_regroupement": "Coordonner les activités d''un site aéroportuaire de :"
+ },
+ {
+   "code_tete_rgpmt": 57,
+   "libelle_en_tete_regroupement": "Coordonner les activités d''une exploitation :"
+ },
+ {
+   "code_tete_rgpmt": 58,
+   "libelle_en_tete_regroupement": "Coordonner une entreprise de transport spécialisée en :"
+ },
+ {
+   "code_tete_rgpmt": 59,
+   "libelle_en_tete_regroupement": "Couper des produits imprimés avec un :"
+ },
+ {
+   "code_tete_rgpmt": 60,
+   "libelle_en_tete_regroupement": "Créer des illustrations visuelles ou sonores :"
+ },
+ {
+   "code_tete_rgpmt": 61,
+   "libelle_en_tete_regroupement": "Créer des oeuvres en :"
+ },
+ {
+   "code_tete_rgpmt": 62,
+   "libelle_en_tete_regroupement": "Créer des oeuvres par divers moyens d''expression :"
+ },
+ {
+   "code_tete_rgpmt": 65,
+   "libelle_en_tete_regroupement": "Créer des oeuvres pour des :"
+ },
+ {
+   "code_tete_rgpmt": 63,
+   "libelle_en_tete_regroupement": "Créer des oeuvres pour des sujets/thèmes :"
+ },
+ {
+   "code_tete_rgpmt": 66,
+   "libelle_en_tete_regroupement": "Créer des vitrines et mettre en scène un type de produit :"
+ },
+ {
+   "code_tete_rgpmt": 67,
+   "libelle_en_tete_regroupement": "Créer une ambiance autour d''un produit, d''une gamme de produits :"
+ },
+ {
+   "code_tete_rgpmt": 68,
+   "libelle_en_tete_regroupement": "Cuisiner des plats pour un type de public :"
+ },
+ {
+   "code_tete_rgpmt": 69,
+   "libelle_en_tete_regroupement": "Déclencher et coordonner des interventions nécessitant une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 70,
+   "libelle_en_tete_regroupement": "Décorer des ouvrages par :"
+ },
+ {
+   "code_tete_rgpmt": 71,
+   "libelle_en_tete_regroupement": "Décorer du verre par :"
+ },
+ {
+   "code_tete_rgpmt": 72,
+   "libelle_en_tete_regroupement": "Découper et assembler des éléments en :"
+ },
+ {
+   "code_tete_rgpmt": 73,
+   "libelle_en_tete_regroupement": "Découper, désosser, parer des viandes :"
+ },
+ {
+   "code_tete_rgpmt": 74,
+   "libelle_en_tete_regroupement": "Définir des programmes d''action des pouvoirs publics dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 75,
+   "libelle_en_tete_regroupement": "Définir et concevoir des :"
+ },
+ {
+   "code_tete_rgpmt": 76,
+   "libelle_en_tete_regroupement": "Définir les données de programmation ou intervenir sur un processus spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 77,
+   "libelle_en_tete_regroupement": "Définir un style de produits pour un type de public :"
+ },
+ {
+   "code_tete_rgpmt": 78,
+   "libelle_en_tete_regroupement": "Définir un style pour un type de produit :"
+ },
+ {
+   "code_tete_rgpmt": 79,
+   "libelle_en_tete_regroupement": "Déménager un type de produit :"
+ },
+ {
+   "code_tete_rgpmt": 80,
+   "libelle_en_tete_regroupement": "Déplacer des charges au moyen d''un engin :"
+ },
+ {
+   "code_tete_rgpmt": 81,
+   "libelle_en_tete_regroupement": "Déposer un revêtement :"
+ },
+ {
+   "code_tete_rgpmt": 82,
+   "libelle_en_tete_regroupement": "Détecter des défauts sur des :"
+ },
+ {
+   "code_tete_rgpmt": 83,
+   "libelle_en_tete_regroupement": "Déterminer les doses, recettes de produits pour un traitement :"
+ },
+ {
+   "code_tete_rgpmt": 84,
+   "libelle_en_tete_regroupement": "Développer des produits bancaires pour un type de clientèle :"
+ },
+ {
+   "code_tete_rgpmt": 85,
+   "libelle_en_tete_regroupement": "Développer des produits/services bancaires :"
+ },
+ {
+   "code_tete_rgpmt": 86,
+   "libelle_en_tete_regroupement": "Développer un portefeuille de clients pour un type de couverture de risques :"
+ },
+ {
+   "code_tete_rgpmt": 87,
+   "libelle_en_tete_regroupement": "Développer une stratégie de communication en :"
+ },
+ {
+   "code_tete_rgpmt": 88,
+   "libelle_en_tete_regroupement": "Développer/adapter des produits d''assurances :"
+ },
+ {
+   "code_tete_rgpmt": 89,
+   "libelle_en_tete_regroupement": "Développer/adapter des produits d''assurances pour un type de clientèle :"
+ },
+ {
+   "code_tete_rgpmt": 90,
+   "libelle_en_tete_regroupement": "Diffuser des morceaux de musique à partir de supports :"
+ },
+ {
+   "code_tete_rgpmt": 91,
+   "libelle_en_tete_regroupement": "Diriger des interventions :"
+ },
+ {
+   "code_tete_rgpmt": 92,
+   "libelle_en_tete_regroupement": "Diriger un établissement public :"
+ },
+ {
+   "code_tete_rgpmt": 93,
+   "libelle_en_tete_regroupement": "Diriger une entreprise de transport nécessitant une attestation de capacité :"
+ },
+ {
+   "code_tete_rgpmt": 94,
+   "libelle_en_tete_regroupement": "Dispenser une formation en :"
+ },
+ {
+   "code_tete_rgpmt": 95,
+   "libelle_en_tete_regroupement": "Distribuer des documents :"
+ },
+ {
+   "code_tete_rgpmt": 96,
+   "libelle_en_tete_regroupement": "Donner un avis ou rendre une décision sur une demande de :"
+ },
+ {
+   "code_tete_rgpmt": 97,
+   "libelle_en_tete_regroupement": "Ecrire des :"
+ },
+ {
+   "code_tete_rgpmt": 98,
+   "libelle_en_tete_regroupement": "Effectuer chez un client la pose de :"
+ },
+ {
+   "code_tete_rgpmt": 99,
+   "libelle_en_tete_regroupement": "Effectuer des agencements de :"
+ },
+ {
+   "code_tete_rgpmt": 100,
+   "libelle_en_tete_regroupement": "Effectuer des analyses biologiques sur des prélèvements de :"
+ },
+ {
+   "code_tete_rgpmt": 101,
+   "libelle_en_tete_regroupement": "Effectuer des assemblages-montages ou fixations par :"
+ },
+ {
+   "code_tete_rgpmt": 102,
+   "libelle_en_tete_regroupement": "Effectuer des cascades :"
+ },
+ {
+   "code_tete_rgpmt": 103,
+   "libelle_en_tete_regroupement": "Effectuer des diagnostics nécessitant une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 104,
+   "libelle_en_tete_regroupement": "Effectuer des essais géotechniques par :"
+ },
+ {
+   "code_tete_rgpmt": 105,
+   "libelle_en_tete_regroupement": "Effectuer des forages d''extraction :"
+ },
+ {
+   "code_tete_rgpmt": 106,
+   "libelle_en_tete_regroupement": "Effectuer des forages d''extraction de :"
+ },
+ {
+   "code_tete_rgpmt": 107,
+   "libelle_en_tete_regroupement": "Effectuer des interventions auprès d''élèves :"
+ },
+ {
+   "code_tete_rgpmt": 108,
+   "libelle_en_tete_regroupement": "Effectuer des manoeuvres nécessitant une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 109,
+   "libelle_en_tete_regroupement": "Effectuer des opérations d''abattage ou de découpe :"
+ },
+ {
+   "code_tete_rgpmt": 119,
+   "libelle_en_tete_regroupement": "Effectuer des opérations d''entretien :"
+ },
+ {
+   "code_tete_rgpmt": 110,
+   "libelle_en_tete_regroupement": "Effectuer des opérations de :"
+ },
+ {
+   "code_tete_rgpmt": 111,
+   "libelle_en_tete_regroupement": "Effectuer des opérations de :"
+ },
+ {
+   "code_tete_rgpmt": 112,
+   "libelle_en_tete_regroupement": "Effectuer des opérations de dépannage sur :"
+ },
+ {
+   "code_tete_rgpmt": 114,
+   "libelle_en_tete_regroupement": "Effectuer des opérations de façonnage au moyen d''une machine spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 603,
+   "libelle_en_tete_regroupement": "Effectuer des opérations de façonnage au moyen de machines à fonctionnement continu spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 115,
+   "libelle_en_tete_regroupement": "Effectuer des opérations de manutention ou de conditionnement à l''aide de :"
+ },
+ {
+   "code_tete_rgpmt": 116,
+   "libelle_en_tete_regroupement": "Effectuer des opérations de préparation ou montage de :"
+ },
+ {
+   "code_tete_rgpmt": 118,
+   "libelle_en_tete_regroupement": "Effectuer des opérations de routage sur :"
+ },
+ {
+   "code_tete_rgpmt": 120,
+   "libelle_en_tete_regroupement": "Effectuer des opérations funéraires :"
+ },
+ {
+   "code_tete_rgpmt": 121,
+   "libelle_en_tete_regroupement": "Effectuer des opérations liées au domaine de l''enseigne et de la signalétique :"
+ },
+ {
+   "code_tete_rgpmt": 122,
+   "libelle_en_tete_regroupement": "Effectuer des opérations manuelles de façonnage/routage :"
+ },
+ {
+   "code_tete_rgpmt": 123,
+   "libelle_en_tete_regroupement": "Effectuer des opérations sur les fils :"
+ },
+ {
+   "code_tete_rgpmt": 124,
+   "libelle_en_tete_regroupement": "Effectuer des opérations sur matériau vivant :"
+ },
+ {
+   "code_tete_rgpmt": 125,
+   "libelle_en_tete_regroupement": "Effectuer des prestations :"
+ },
+ {
+   "code_tete_rgpmt": 127,
+   "libelle_en_tete_regroupement": "Effectuer des réparations ou des finitions sur :"
+ },
+ {
+   "code_tete_rgpmt": 126,
+   "libelle_en_tete_regroupement": "Effectuer des raccordements nécessitant une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 128,
+   "libelle_en_tete_regroupement": "Effectuer des reprises, des finitions ou des assemblages par :"
+ },
+ {
+   "code_tete_rgpmt": 129,
+   "libelle_en_tete_regroupement": "Effectuer des restaurations sur des :"
+ },
+ {
+   "code_tete_rgpmt": 169,
+   "libelle_en_tete_regroupement": "Effectuer des soins diététiques auprès de :"
+ },
+ {
+   "code_tete_rgpmt": 130,
+   "libelle_en_tete_regroupement": "Effectuer des transactions immobilières de :"
+ },
+ {
+   "code_tete_rgpmt": 131,
+   "libelle_en_tete_regroupement": "Effectuer des travaux de couture ou de remise en état :"
+ },
+ {
+   "code_tete_rgpmt": 132,
+   "libelle_en_tete_regroupement": "Effectuer des travaux de reprographie à partir de :"
+ },
+ {
+   "code_tete_rgpmt": 133,
+   "libelle_en_tete_regroupement": "Effectuer des tris par :"
+ },
+ {
+   "code_tete_rgpmt": 134,
+   "libelle_en_tete_regroupement": "Effectuer des visites ou conférences nécessitant une carte professionnelle :"
+ },
+ {
+   "code_tete_rgpmt": 135,
+   "libelle_en_tete_regroupement": "Effectuer des vols aériens :"
+ },
+ {
+   "code_tete_rgpmt": 150,
+   "libelle_en_tete_regroupement": "Effectuer l''abattage ou la découpe de :"
+ },
+ {
+   "code_tete_rgpmt": 151,
+   "libelle_en_tete_regroupement": "Effectuer l''approvisionnement ou la maintenance de :"
+ },
+ {
+   "code_tete_rgpmt": 155,
+   "libelle_en_tete_regroupement": "Effectuer l''entretien de :"
+ },
+ {
+   "code_tete_rgpmt": 157,
+   "libelle_en_tete_regroupement": "Effectuer l''impression de motifs par :"
+ },
+ {
+   "code_tete_rgpmt": 158,
+   "libelle_en_tete_regroupement": "Effectuer l''impression de motifs sur du ou des :"
+ },
+ {
+   "code_tete_rgpmt": 136,
+   "libelle_en_tete_regroupement": "Effectuer la location de véhicules ou matériels :"
+ },
+ {
+   "code_tete_rgpmt": 137,
+   "libelle_en_tete_regroupement": "Effectuer la maintenance de premier niveau de matériel :"
+ },
+ {
+   "code_tete_rgpmt": 138,
+   "libelle_en_tete_regroupement": "Effectuer la naturalisation, la reconstitution d''espèces animales ou végétales :"
+ },
+ {
+   "code_tete_rgpmt": 139,
+   "libelle_en_tete_regroupement": "Effectuer la plonge, l''entretien de vaisselle/matériel :"
+ },
+ {
+   "code_tete_rgpmt": 140,
+   "libelle_en_tete_regroupement": "Effectuer la préparation, l''assemblage de plats simples :"
+ },
+ {
+   "code_tete_rgpmt": 117,
+   "libelle_en_tete_regroupement": "Effectuer la réservation de location de :"
+ },
+ {
+   "code_tete_rgpmt": 141,
+   "libelle_en_tete_regroupement": "Effectuer la transformation de matières (plastique, caoutchouc, ...) sur :"
+ },
+ {
+   "code_tete_rgpmt": 142,
+   "libelle_en_tete_regroupement": "Effectuer la vente d''animaux :"
+ },
+ {
+   "code_tete_rgpmt": 143,
+   "libelle_en_tete_regroupement": "Effectuer la vente d''articles de sport :"
+ },
+ {
+   "code_tete_rgpmt": 147,
+   "libelle_en_tete_regroupement": "Effectuer la vente d''instruments de musique :"
+ },
+ {
+   "code_tete_rgpmt": 148,
+   "libelle_en_tete_regroupement": "Effectuer la vente d''objets d''art, d''objets anciens ou d''articles d''occasion :"
+ },
+ {
+   "code_tete_rgpmt": 144,
+   "libelle_en_tete_regroupement": "Effectuer la vente de :"
+ },
+ {
+   "code_tete_rgpmt": 145,
+   "libelle_en_tete_regroupement": "Effectuer la vente de produits :"
+ },
+ {
+   "code_tete_rgpmt": 146,
+   "libelle_en_tete_regroupement": "Effectuer la vente de produits alimentaires :"
+ },
+ {
+   "code_tete_rgpmt": 149,
+   "libelle_en_tete_regroupement": "Effectuer la vente en gros de produits frais :"
+ },
+ {
+   "code_tete_rgpmt": 152,
+   "libelle_en_tete_regroupement": "Effectuer le repassage de :"
+ },
+ {
+   "code_tete_rgpmt": 153,
+   "libelle_en_tete_regroupement": "Effectuer le suivi administratif d''opérations de gestion des ressources humaines :"
+ },
+ {
+   "code_tete_rgpmt": 154,
+   "libelle_en_tete_regroupement": "Effectuer le transport de :"
+ },
+ {
+   "code_tete_rgpmt": 156,
+   "libelle_en_tete_regroupement": "Effectuer les réglages ou la maintenance de premier niveau de matériel :"
+ },
+ {
+   "code_tete_rgpmt": 160,
+   "libelle_en_tete_regroupement": "Effectuer manuellement des opérations d''expédition :"
+ },
+ {
+   "code_tete_rgpmt": 159,
+   "libelle_en_tete_regroupement": "Effectuer manuellement des opérations de préparation ou de finition :"
+ },
+ {
+   "code_tete_rgpmt": 161,
+   "libelle_en_tete_regroupement": "Effectuer ou ajuster une programmation de :"
+ },
+ {
+   "code_tete_rgpmt": 162,
+   "libelle_en_tete_regroupement": "Effectuer sur les installations des manoeuvres spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 163,
+   "libelle_en_tete_regroupement": "Effectuer un convoyage de :"
+ },
+ {
+   "code_tete_rgpmt": 164,
+   "libelle_en_tete_regroupement": "Effectuer un service de plats :"
+ },
+ {
+   "code_tete_rgpmt": 165,
+   "libelle_en_tete_regroupement": "Effectuer un soudage nécessitant une qualification :"
+ },
+ {
+   "code_tete_rgpmt": 166,
+   "libelle_en_tete_regroupement": "Effectuer un suivi particulier :"
+ },
+ {
+   "code_tete_rgpmt": 167,
+   "libelle_en_tete_regroupement": "Effectuer un transport fluvial :"
+ },
+ {
+   "code_tete_rgpmt": 168,
+   "libelle_en_tete_regroupement": "Effectuer une application de produit :"
+ },
+ {
+   "code_tete_rgpmt": 170,
+   "libelle_en_tete_regroupement": "Effectuer une intervention :"
+ },
+ {
+   "code_tete_rgpmt": 171,
+   "libelle_en_tete_regroupement": "Effectuer une navigation fluviale sur un bateau :"
+ },
+ {
+   "code_tete_rgpmt": 172,
+   "libelle_en_tete_regroupement": "Effectuer une navigation nécessitant une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 173,
+   "libelle_en_tete_regroupement": "Effectuer une opération de préparation ou de finition de surface par :"
+ },
+ {
+   "code_tete_rgpmt": 174,
+   "libelle_en_tete_regroupement": "Effectuer une pose :"
+ },
+ {
+   "code_tete_rgpmt": 175,
+   "libelle_en_tete_regroupement": "Effectuer une réécriture du contenu ou du style de textes :"
+ },
+ {
+   "code_tete_rgpmt": 176,
+   "libelle_en_tete_regroupement": "Effectuer, en ligne et/ou en escale, des opérations de :"
+ },
+ {
+   "code_tete_rgpmt": 177,
+   "libelle_en_tete_regroupement": "Elaborer des référentiels :"
+ },
+ {
+   "code_tete_rgpmt": 178,
+   "libelle_en_tete_regroupement": "Elaborer un forfait touristique pour un type de clientèle :"
+ },
+ {
+   "code_tete_rgpmt": 179,
+   "libelle_en_tete_regroupement": "Elaborer une gamme, une collection de matières premières, des motifs en :"
+ },
+ {
+   "code_tete_rgpmt": 180,
+   "libelle_en_tete_regroupement": "Emailler des produits par :"
+ },
+ {
+   "code_tete_rgpmt": 181,
+   "libelle_en_tete_regroupement": "Enseigner un art du cirque ou un art dramatique :"
+ },
+ {
+   "code_tete_rgpmt": 182,
+   "libelle_en_tete_regroupement": "Enseigner une discipline :"
+ },
+ {
+   "code_tete_rgpmt": 183,
+   "libelle_en_tete_regroupement": "Enseigner une discipline chorégraphique :"
+ },
+ {
+   "code_tete_rgpmt": 184,
+   "libelle_en_tete_regroupement": "Enseigner une discipline musicale :"
+ },
+ {
+   "code_tete_rgpmt": 33,
+   "libelle_en_tete_regroupement": "Entête de regroupement libre 1 :"
+ },
+ {
+   "code_tete_rgpmt": 565,
+   "libelle_en_tete_regroupement": "Entête de regroupement libre 2 :"
+ },
+ {
+   "code_tete_rgpmt": 64,
+   "libelle_en_tete_regroupement": "Entête de regroupement libre 3 :"
+ },
+ {
+   "code_tete_rgpmt": 113,
+   "libelle_en_tete_regroupement": "Entête de regroupement libre 4 :"
+ },
+ {
+   "code_tete_rgpmt": 377,
+   "libelle_en_tete_regroupement": "Entête de regroupement libre 5 :"
+ },
+ {
+   "code_tete_rgpmt": 391,
+   "libelle_en_tete_regroupement": "Entête de regroupement libre 7 :"
+ },
+ {
+   "code_tete_rgpmt": 520,
+   "libelle_en_tete_regroupement": "Entête de regroupement libre 8 :"
+ },
+ {
+   "code_tete_rgpmt": 545,
+   "libelle_en_tete_regroupement": "Entête de regroupement libre 9 :"
+ },
+ {
+   "code_tete_rgpmt": 185,
+   "libelle_en_tete_regroupement": "Etablir des documents commerciaux :"
+ },
+ {
+   "code_tete_rgpmt": 186,
+   "libelle_en_tete_regroupement": "Etablir des titres de transport pour des déplacements en :"
+ },
+ {
+   "code_tete_rgpmt": 187,
+   "libelle_en_tete_regroupement": "Exercer en tant que :"
+ },
+ {
+   "code_tete_rgpmt": 188,
+   "libelle_en_tete_regroupement": "Exercer une activité dans :"
+ },
+ {
+   "code_tete_rgpmt": 197,
+   "libelle_en_tete_regroupement": "Façonner des articles à l''aide de matériaux souples (cuirs, PVC, velours, ...) :"
+ },
+ {
+   "code_tete_rgpmt": 198,
+   "libelle_en_tete_regroupement": "Façonner des ouvrages selon des techniques spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 199,
+   "libelle_en_tete_regroupement": "Façonner des ouvrages/articles :"
+ },
+ {
+   "code_tete_rgpmt": 200,
+   "libelle_en_tete_regroupement": "Façonner des parties d''ouvrages (manche de couteau, ...) en :"
+ },
+ {
+   "code_tete_rgpmt": 201,
+   "libelle_en_tete_regroupement": "Façonner des produits selon des techniques :"
+ },
+ {
+   "code_tete_rgpmt": 202,
+   "libelle_en_tete_regroupement": "Façonner et mettre en forme des matériaux :"
+ },
+ {
+   "code_tete_rgpmt": 203,
+   "libelle_en_tete_regroupement": "Façonner/Réaliser des articles :"
+ },
+ {
+   "code_tete_rgpmt": 189,
+   "libelle_en_tete_regroupement": "Fabriquer de la maille au mètre, en panneau ou en forme (pull-over, ...) sur :"
+ },
+ {
+   "code_tete_rgpmt": 190,
+   "libelle_en_tete_regroupement": "Fabriquer de la maille ou de la dentelle au mètre (fils fins et continus) sur :"
+ },
+ {
+   "code_tete_rgpmt": 192,
+   "libelle_en_tete_regroupement": "Fabriquer des éléments :"
+ },
+ {
+   "code_tete_rgpmt": 193,
+   "libelle_en_tete_regroupement": "Fabriquer des étoffes tissées sur :"
+ },
+ {
+   "code_tete_rgpmt": 194,
+   "libelle_en_tete_regroupement": "Fabriquer des étoffes tressées (passementeries, ...) sur :"
+ },
+ {
+   "code_tete_rgpmt": 191,
+   "libelle_en_tete_regroupement": "Fabriquer des articles à partir d''un patron, d''un modèle :"
+ },
+ {
+   "code_tete_rgpmt": 195,
+   "libelle_en_tete_regroupement": "Fabriquer et affiner des fromages :"
+ },
+ {
+   "code_tete_rgpmt": 196,
+   "libelle_en_tete_regroupement": "Fabriquer ou réparer une bobine électrique pour intégration dans une :"
+ },
+ {
+   "code_tete_rgpmt": 204,
+   "libelle_en_tete_regroupement": "Ferrer ou réaliser le parage de :"
+ },
+ {
+   "code_tete_rgpmt": 205,
+   "libelle_en_tete_regroupement": "Former à la conduite de véhicules un type de public :"
+ },
+ {
+   "code_tete_rgpmt": 206,
+   "libelle_en_tete_regroupement": "Former des ouvrages en bois par :"
+ },
+ {
+   "code_tete_rgpmt": 207,
+   "libelle_en_tete_regroupement": "Former des personnes pour l''obtention d''un permis ou d''une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 208,
+   "libelle_en_tete_regroupement": "Former le verre par :"
+ },
+ {
+   "code_tete_rgpmt": 209,
+   "libelle_en_tete_regroupement": "Former un matériau spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 210,
+   "libelle_en_tete_regroupement": "Former/découper un matériau spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 211,
+   "libelle_en_tete_regroupement": "Gérer des portefeuilles sur des marchés financiers :"
+ },
+ {
+   "code_tete_rgpmt": 212,
+   "libelle_en_tete_regroupement": "Gérer un service/groupe/département intervenant en :"
+ },
+ {
+   "code_tete_rgpmt": 213,
+   "libelle_en_tete_regroupement": "Informer et conseiller des femmes en situations spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 215,
+   "libelle_en_tete_regroupement": "Installer des éléments ou aménagements :"
+ },
+ {
+   "code_tete_rgpmt": 216,
+   "libelle_en_tete_regroupement": "Installer des équipements pour le ravitaillement/vidange nécessitant une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 214,
+   "libelle_en_tete_regroupement": "Installer des bobines sur un dispositif de déroulement :"
+ },
+ {
+   "code_tete_rgpmt": 217,
+   "libelle_en_tete_regroupement": "Installer ou configurer des équipements informatiques, bureautiques  :"
+ },
+ {
+   "code_tete_rgpmt": 218,
+   "libelle_en_tete_regroupement": "Interpréter un morceau de musique ou une chanson d''un répertoire :"
+ },
+ {
+   "code_tete_rgpmt": 219,
+   "libelle_en_tete_regroupement": "Interpréter une oeuvre au sein d''un ensemble instrumental :"
+ },
+ {
+   "code_tete_rgpmt": 220,
+   "libelle_en_tete_regroupement": "Interpréter une oeuvre avec un instrument de musique :"
+ },
+ {
+   "code_tete_rgpmt": 221,
+   "libelle_en_tete_regroupement": "Interpréter une oeuvre chorégraphique :"
+ },
+ {
+   "code_tete_rgpmt": 222,
+   "libelle_en_tete_regroupement": "Intervenir à bord d''un véhicule sanitaire :"
+ },
+ {
+   "code_tete_rgpmt": 223,
+   "libelle_en_tete_regroupement": "Intervenir auprès d''animaux :"
+ },
+ {
+   "code_tete_rgpmt": 225,
+   "libelle_en_tete_regroupement": "Intervenir auprès d''enfants :"
+ },
+ {
+   "code_tete_rgpmt": 226,
+   "libelle_en_tete_regroupement": "Intervenir auprès d''un type de public :"
+ },
+ {
+   "code_tete_rgpmt": 227,
+   "libelle_en_tete_regroupement": "Intervenir auprès d''une clientèle de :"
+ },
+ {
+   "code_tete_rgpmt": 224,
+   "libelle_en_tete_regroupement": "Intervenir auprès de publics ayant des difficultés :"
+ },
+ {
+   "code_tete_rgpmt": 228,
+   "libelle_en_tete_regroupement": "Intervenir dans le cadre d''actions/missions des armées :"
+ },
+ {
+   "code_tete_rgpmt": 230,
+   "libelle_en_tete_regroupement": "Intervenir dans le cadre d''un environnement d''exploitation :"
+ },
+ {
+   "code_tete_rgpmt": 231,
+   "libelle_en_tete_regroupement": "Intervenir dans le cadre d''une organisation :"
+ },
+ {
+   "code_tete_rgpmt": 229,
+   "libelle_en_tete_regroupement": "Intervenir dans le cadre de mesures de protection juridique :"
+ },
+ {
+   "code_tete_rgpmt": 232,
+   "libelle_en_tete_regroupement": "Intervenir dans un cadre de formation :"
+ },
+ {
+   "code_tete_rgpmt": 233,
+   "libelle_en_tete_regroupement": "Intervenir dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 234,
+   "libelle_en_tete_regroupement": "Intervenir dans un domaine culturel :"
+ },
+ {
+   "code_tete_rgpmt": 237,
+   "libelle_en_tete_regroupement": "Intervenir dans un domaine d''édition :"
+ },
+ {
+   "code_tete_rgpmt": 235,
+   "libelle_en_tete_regroupement": "Intervenir dans un domaine de risques :"
+ },
+ {
+   "code_tete_rgpmt": 238,
+   "libelle_en_tete_regroupement": "Intervenir dans un domaine informatique :"
+ },
+ {
+   "code_tete_rgpmt": 239,
+   "libelle_en_tete_regroupement": "Intervenir dans un domaine média :"
+ },
+ {
+   "code_tete_rgpmt": 240,
+   "libelle_en_tete_regroupement": "Intervenir dans un domaine spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 241,
+   "libelle_en_tete_regroupement": "Intervenir dans un milieu :"
+ },
+ {
+   "code_tete_rgpmt": 242,
+   "libelle_en_tete_regroupement": "Intervenir dans un milieu polluant et nocif :"
+ },
+ {
+   "code_tete_rgpmt": 243,
+   "libelle_en_tete_regroupement": "Intervenir dans un service :"
+ },
+ {
+   "code_tete_rgpmt": 249,
+   "libelle_en_tete_regroupement": "Intervenir dans une étape d''horlogerie :"
+ },
+ {
+   "code_tete_rgpmt": 246,
+   "libelle_en_tete_regroupement": "Intervenir dans une étape de fabrication :"
+ },
+ {
+   "code_tete_rgpmt": 247,
+   "libelle_en_tete_regroupement": "Intervenir dans une étape de préparation :"
+ },
+ {
+   "code_tete_rgpmt": 248,
+   "libelle_en_tete_regroupement": "Intervenir dans une étape de transformation du métal :"
+ },
+ {
+   "code_tete_rgpmt": 250,
+   "libelle_en_tete_regroupement": "Intervenir dans une étape du processus de transformation de verre (à chaud, à froid) :"
+ },
+ {
+   "code_tete_rgpmt": 244,
+   "libelle_en_tete_regroupement": "Intervenir dans une branche d''activité :"
+ },
+ {
+   "code_tete_rgpmt": 245,
+   "libelle_en_tete_regroupement": "Intervenir dans une discipline :"
+ },
+ {
+   "code_tete_rgpmt": 251,
+   "libelle_en_tete_regroupement": "Intervenir dans une relation clientèle :"
+ },
+ {
+   "code_tete_rgpmt": 252,
+   "libelle_en_tete_regroupement": "Intervenir dans une spécialité médicale :"
+ },
+ {
+   "code_tete_rgpmt": 253,
+   "libelle_en_tete_regroupement": "Intervenir dans une spécialité sportive :"
+ },
+ {
+   "code_tete_rgpmt": 254,
+   "libelle_en_tete_regroupement": "Intervenir dans une structure équipée de machines et /ou d''équipements d''impression :"
+ },
+ {
+   "code_tete_rgpmt": 236,
+   "libelle_en_tete_regroupement": "Intervenir en :"
+ },
+ {
+   "code_tete_rgpmt": 255,
+   "libelle_en_tete_regroupement": "Intervenir en :"
+ },
+ {
+   "code_tete_rgpmt": 257,
+   "libelle_en_tete_regroupement": "Intervenir lors d''une phase de fabrication en industrie du bois :"
+ },
+ {
+   "code_tete_rgpmt": 256,
+   "libelle_en_tete_regroupement": "Intervenir lors de vente :"
+ },
+ {
+   "code_tete_rgpmt": 258,
+   "libelle_en_tete_regroupement": "Intervenir pour des :"
+ },
+ {
+   "code_tete_rgpmt": 259,
+   "libelle_en_tete_regroupement": "Intervenir pour des projets/missions de :"
+ },
+ {
+   "code_tete_rgpmt": 260,
+   "libelle_en_tete_regroupement": "Intervenir suite à des dommages :"
+ },
+ {
+   "code_tete_rgpmt": 265,
+   "libelle_en_tete_regroupement": "Intervenir sur des épaisseurs de tôle :"
+ },
+ {
+   "code_tete_rgpmt": 266,
+   "libelle_en_tete_regroupement": "Intervenir sur des équipements :"
+ },
+ {
+   "code_tete_rgpmt": 267,
+   "libelle_en_tete_regroupement": "Intervenir sur des équipements ou installations :"
+ },
+ {
+   "code_tete_rgpmt": 268,
+   "libelle_en_tete_regroupement": "Intervenir sur des équipements/systèmes électroniques dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 270,
+   "libelle_en_tete_regroupement": "Intervenir sur des étapes de conception :"
+ },
+ {
+   "code_tete_rgpmt": 285,
+   "libelle_en_tete_regroupement": "Intervenir sur des :"
+ },
+ {
+   "code_tete_rgpmt": 261,
+   "libelle_en_tete_regroupement": "Intervenir sur des architectures, ingénieries de réseaux :"
+ },
+ {
+   "code_tete_rgpmt": 262,
+   "libelle_en_tete_regroupement": "Intervenir sur des attractions :"
+ },
+ {
+   "code_tete_rgpmt": 263,
+   "libelle_en_tete_regroupement": "Intervenir sur des chantiers d''extraction de roches :"
+ },
+ {
+   "code_tete_rgpmt": 264,
+   "libelle_en_tete_regroupement": "Intervenir sur des dossiers de :"
+ },
+ {
+   "code_tete_rgpmt": 269,
+   "libelle_en_tete_regroupement": "Intervenir sur des espaces jeux :"
+ },
+ {
+   "code_tete_rgpmt": 271,
+   "libelle_en_tete_regroupement": "Intervenir sur des installations :"
+ },
+ {
+   "code_tete_rgpmt": 272,
+   "libelle_en_tete_regroupement": "Intervenir sur des machines ou équipements d''impression :"
+ },
+ {
+   "code_tete_rgpmt": 273,
+   "libelle_en_tete_regroupement": "Intervenir sur des matériaux :"
+ },
+ {
+   "code_tete_rgpmt": 274,
+   "libelle_en_tete_regroupement": "Intervenir sur des matériaux de forme :"
+ },
+ {
+   "code_tete_rgpmt": 275,
+   "libelle_en_tete_regroupement": "Intervenir sur des matériels :"
+ },
+ {
+   "code_tete_rgpmt": 276,
+   "libelle_en_tete_regroupement": "Intervenir sur des moteurs :"
+ },
+ {
+   "code_tete_rgpmt": 277,
+   "libelle_en_tete_regroupement": "Intervenir sur des oeuvres/ouvrages spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 278,
+   "libelle_en_tete_regroupement": "Intervenir sur des produits en :"
+ },
+ {
+   "code_tete_rgpmt": 279,
+   "libelle_en_tete_regroupement": "Intervenir sur des produits et matériaux :"
+ },
+ {
+   "code_tete_rgpmt": 280,
+   "libelle_en_tete_regroupement": "Intervenir sur des réseaux :"
+ },
+ {
+   "code_tete_rgpmt": 281,
+   "libelle_en_tete_regroupement": "Intervenir sur des supports documentaires :"
+ },
+ {
+   "code_tete_rgpmt": 282,
+   "libelle_en_tete_regroupement": "Intervenir sur des systèmes de propulsion et de production d''énergie :"
+ },
+ {
+   "code_tete_rgpmt": 283,
+   "libelle_en_tete_regroupement": "Intervenir sur des systèmes horlogers :"
+ },
+ {
+   "code_tete_rgpmt": 284,
+   "libelle_en_tete_regroupement": "Intervenir sur des tuyauteries :"
+ },
+ {
+   "code_tete_rgpmt": 286,
+   "libelle_en_tete_regroupement": "Intervenir sur du matériel de motoculture :"
+ },
+ {
+   "code_tete_rgpmt": 287,
+   "libelle_en_tete_regroupement": "Intervenir sur du matériel de type :"
+ },
+ {
+   "code_tete_rgpmt": 288,
+   "libelle_en_tete_regroupement": "Intervenir sur la fabrication de :"
+ },
+ {
+   "code_tete_rgpmt": 289,
+   "libelle_en_tete_regroupement": "Intervenir sur un chantier :"
+ },
+ {
+   "code_tete_rgpmt": 290,
+   "libelle_en_tete_regroupement": "Intervenir sur un marché :"
+ },
+ {
+   "code_tete_rgpmt": 291,
+   "libelle_en_tete_regroupement": "Intervenir sur un moteur à énergie ou carburant :"
+ },
+ {
+   "code_tete_rgpmt": 292,
+   "libelle_en_tete_regroupement": "Intervenir sur un produit :"
+ },
+ {
+   "code_tete_rgpmt": 293,
+   "libelle_en_tete_regroupement": "Intervenir sur un système de propulsion :"
+ },
+ {
+   "code_tete_rgpmt": 294,
+   "libelle_en_tete_regroupement": "Intervenir sur un type d''aéronefs :"
+ },
+ {
+   "code_tete_rgpmt": 299,
+   "libelle_en_tete_regroupement": "Intervenir sur un type d''installation :"
+ },
+ {
+   "code_tete_rgpmt": 295,
+   "libelle_en_tete_regroupement": "Intervenir sur un type de fabrication :"
+ },
+ {
+   "code_tete_rgpmt": 296,
+   "libelle_en_tete_regroupement": "Intervenir sur un type de produits d''assurances :"
+ },
+ {
+   "code_tete_rgpmt": 297,
+   "libelle_en_tete_regroupement": "Intervenir sur un type de support :"
+ },
+ {
+   "code_tete_rgpmt": 298,
+   "libelle_en_tete_regroupement": "Intervenir sur un type de véhicule :"
+ },
+ {
+   "code_tete_rgpmt": 300,
+   "libelle_en_tete_regroupement": "Intervenir sur une installation de traitement :"
+ },
+ {
+   "code_tete_rgpmt": 301,
+   "libelle_en_tete_regroupement": "Intervenir sur une ligne aérienne :"
+ },
+ {
+   "code_tete_rgpmt": 302,
+   "libelle_en_tete_regroupement": "Intervenir sur une opération automatisée :"
+ },
+ {
+   "code_tete_rgpmt": 303,
+   "libelle_en_tete_regroupement": "Intervenir sur une zone :"
+ },
+ {
+   "code_tete_rgpmt": 304,
+   "libelle_en_tete_regroupement": "Jouer et interpréter un rôle pour une oeuvre spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 305,
+   "libelle_en_tete_regroupement": "Lever des charges nécessitant une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 306,
+   "libelle_en_tete_regroupement": "Lever des masses :"
+ },
+ {
+   "code_tete_rgpmt": 307,
+   "libelle_en_tete_regroupement": "Mener des actions :"
+ },
+ {
+   "code_tete_rgpmt": 311,
+   "libelle_en_tete_regroupement": "Mener des actions :"
+ },
+ {
+   "code_tete_rgpmt": 312,
+   "libelle_en_tete_regroupement": "Mener des actions :"
+ },
+ {
+   "code_tete_rgpmt": 308,
+   "libelle_en_tete_regroupement": "Mener des actions auprès d''un type de clientèle :"
+ },
+ {
+   "code_tete_rgpmt": 309,
+   "libelle_en_tete_regroupement": "Mener des actions commerciales dans le cadre d''un statut :"
+ },
+ {
+   "code_tete_rgpmt": 310,
+   "libelle_en_tete_regroupement": "Mener des actions dans le cadre de :"
+ },
+ {
+   "code_tete_rgpmt": 313,
+   "libelle_en_tete_regroupement": "Mener des actions de coaching auprès d''un type de public :"
+ },
+ {
+   "code_tete_rgpmt": 314,
+   "libelle_en_tete_regroupement": "Mener des actions de conseil et d''information en :"
+ },
+ {
+   "code_tete_rgpmt": 315,
+   "libelle_en_tete_regroupement": "Mener des actions de rééducation d''ergothérapie en :"
+ },
+ {
+   "code_tete_rgpmt": 316,
+   "libelle_en_tete_regroupement": "Mener des actions de rééducation selon des médiations thérapeutiques :"
+ },
+ {
+   "code_tete_rgpmt": 318,
+   "libelle_en_tete_regroupement": "Mener des projets pour des chantiers :"
+ },
+ {
+   "code_tete_rgpmt": 319,
+   "libelle_en_tete_regroupement": "Mettre en forme des :"
+ },
+ {
+   "code_tete_rgpmt": 320,
+   "libelle_en_tete_regroupement": "Mettre en oeuvre des soins d''hydrothérapie par :"
+ },
+ {
+   "code_tete_rgpmt": 321,
+   "libelle_en_tete_regroupement": "Mettre en oeuvre des soins esthétiques et cosmétiques :"
+ },
+ {
+   "code_tete_rgpmt": 322,
+   "libelle_en_tete_regroupement": "Mettre en oeuvre une technique spécifique sur un produit imprimé :"
+ },
+ {
+   "code_tete_rgpmt": 323,
+   "libelle_en_tete_regroupement": "Mettre en place des actions :"
+ },
+ {
+   "code_tete_rgpmt": 324,
+   "libelle_en_tete_regroupement": "Mettre en place des séances de kinésithérapie :"
+ },
+ {
+   "code_tete_rgpmt": 325,
+   "libelle_en_tete_regroupement": "Mettre en place et animer des activités dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 326,
+   "libelle_en_tete_regroupement": "Mettre en place ou surveiller une ou plusieurs phases de fabrication :"
+ },
+ {
+   "code_tete_rgpmt": 327,
+   "libelle_en_tete_regroupement": "Mettre en place un système de gestion des flux logistiques dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 328,
+   "libelle_en_tete_regroupement": "Mettre en place un traitement par :"
+ },
+ {
+   "code_tete_rgpmt": 329,
+   "libelle_en_tete_regroupement": "Mettre en place une démarche de soin diététique lors de :"
+ },
+ {
+   "code_tete_rgpmt": 330,
+   "libelle_en_tete_regroupement": "Mettre en place une prestation de transport dans le domaine :"
+ },
+ {
+   "code_tete_rgpmt": 331,
+   "libelle_en_tete_regroupement": "Mettre en place une rééducation orthophonique :"
+ },
+ {
+   "code_tete_rgpmt": 332,
+   "libelle_en_tete_regroupement": "Mettre en scène des spectacles :"
+ },
+ {
+   "code_tete_rgpmt": 333,
+   "libelle_en_tete_regroupement": "Modifier ou fabriquer un accessoire pour les besoins d''un scénario selon des techniques de :"
+ },
+ {
+   "code_tete_rgpmt": 334,
+   "libelle_en_tete_regroupement": "Monter des accessoires :"
+ },
+ {
+   "code_tete_rgpmt": 335,
+   "libelle_en_tete_regroupement": "Monter et poser des éléments :"
+ },
+ {
+   "code_tete_rgpmt": 336,
+   "libelle_en_tete_regroupement": "Monter/assembler à chaud ou à froid les pièces par :"
+ },
+ {
+   "code_tete_rgpmt": 337,
+   "libelle_en_tete_regroupement": "Naviguer sur un navire spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 338,
+   "libelle_en_tete_regroupement": "Nettoyer des surfaces avec une :"
+ },
+ {
+   "code_tete_rgpmt": 339,
+   "libelle_en_tete_regroupement": "Nettoyer et rénover des surfaces/sols par :"
+ },
+ {
+   "code_tete_rgpmt": 340,
+   "libelle_en_tete_regroupement": "Organiser des évènementiels pour un type de public :"
+ },
+ {
+   "code_tete_rgpmt": 341,
+   "libelle_en_tete_regroupement": "Organiser des opérations :"
+ },
+ {
+   "code_tete_rgpmt": 342,
+   "libelle_en_tete_regroupement": "Organiser des opérations dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 343,
+   "libelle_en_tete_regroupement": "Organiser des opérations de transport fluvial de :"
+ },
+ {
+   "code_tete_rgpmt": 344,
+   "libelle_en_tete_regroupement": "Organiser des opérations logistiques dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 346,
+   "libelle_en_tete_regroupement": "Organiser l''activité d''un rayon :"
+ },
+ {
+   "code_tete_rgpmt": 345,
+   "libelle_en_tete_regroupement": "Organiser la stratégie commerciale sur une zone géographique :"
+ },
+ {
+   "code_tete_rgpmt": 347,
+   "libelle_en_tete_regroupement": "Organiser les activités logistiques relatives à des produits :"
+ },
+ {
+   "code_tete_rgpmt": 348,
+   "libelle_en_tete_regroupement": "Piloter des actions de Ressources Humaines :"
+ },
+ {
+   "code_tete_rgpmt": 351,
+   "libelle_en_tete_regroupement": "Piloter un :"
+ },
+ {
+   "code_tete_rgpmt": 349,
+   "libelle_en_tete_regroupement": "Piloter un avion nécessitant une qualification homologuée Flight Crew Licencing -FCL- :"
+ },
+ {
+   "code_tete_rgpmt": 350,
+   "libelle_en_tete_regroupement": "Piloter un hélicoptère nécessitant une qualification homologuée Flight Crew Licencing -FCL- :"
+ },
+ {
+   "code_tete_rgpmt": 352,
+   "libelle_en_tete_regroupement": "Planifier une ou plusieurs activités :"
+ },
+ {
+   "code_tete_rgpmt": 353,
+   "libelle_en_tete_regroupement": "Poser des éléments de couverture :"
+ },
+ {
+   "code_tete_rgpmt": 354,
+   "libelle_en_tete_regroupement": "Poser des revêtements de matériaux en :"
+ },
+ {
+   "code_tete_rgpmt": 355,
+   "libelle_en_tete_regroupement": "Poser/fixer des éléments :"
+ },
+ {
+   "code_tete_rgpmt": 357,
+   "libelle_en_tete_regroupement": "Préparer des documents pour un type d''impression ou de marquage :"
+ },
+ {
+   "code_tete_rgpmt": 358,
+   "libelle_en_tete_regroupement": "Préparer des interventions sur chantiers :"
+ },
+ {
+   "code_tete_rgpmt": 359,
+   "libelle_en_tete_regroupement": "Préparer des produits culinaires :"
+ },
+ {
+   "code_tete_rgpmt": 360,
+   "libelle_en_tete_regroupement": "Préparer et appliquer une protection :"
+ },
+ {
+   "code_tete_rgpmt": 361,
+   "libelle_en_tete_regroupement": "Préparer et corriger un type de publication :"
+ },
+ {
+   "code_tete_rgpmt": 362,
+   "libelle_en_tete_regroupement": "Préparer et lancer des artifices :"
+ },
+ {
+   "code_tete_rgpmt": 363,
+   "libelle_en_tete_regroupement": "Préparer et/ou réchauffer des :"
+ },
+ {
+   "code_tete_rgpmt": 364,
+   "libelle_en_tete_regroupement": "Préparer les matériaux de garnissage (laine, mousse, ...) par des opérations de :"
+ },
+ {
+   "code_tete_rgpmt": 365,
+   "libelle_en_tete_regroupement": "Préparer ou assembler des ouvrages :"
+ },
+ {
+   "code_tete_rgpmt": 366,
+   "libelle_en_tete_regroupement": "Préparer ou corriger des documents traitant de :"
+ },
+ {
+   "code_tete_rgpmt": 367,
+   "libelle_en_tete_regroupement": "Préparer ou corriger un support à enduire ou à crépir par :"
+ },
+ {
+   "code_tete_rgpmt": 368,
+   "libelle_en_tete_regroupement": "Préparer un moule selon un procédé :"
+ },
+ {
+   "code_tete_rgpmt": 369,
+   "libelle_en_tete_regroupement": "Préparer/cuisiner un type de produits :"
+ },
+ {
+   "code_tete_rgpmt": 370,
+   "libelle_en_tete_regroupement": "Présenter et mettre en oeuvre des actions d''amélioration dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 371,
+   "libelle_en_tete_regroupement": "Présenter ou animer une émission ou un spectacle :"
+ },
+ {
+   "code_tete_rgpmt": 372,
+   "libelle_en_tete_regroupement": "Présenter, mettre en oeuvre et évaluer des plans d''action dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 356,
+   "libelle_en_tete_regroupement": "Prendre en charge des dossiers :"
+ },
+ {
+   "code_tete_rgpmt": 376,
+   "libelle_en_tete_regroupement": "Procéder à des études/expérimentations en :"
+ },
+ {
+   "code_tete_rgpmt": 373,
+   "libelle_en_tete_regroupement": "Procéder à des actions correctives ou des réparations :"
+ },
+ {
+   "code_tete_rgpmt": 374,
+   "libelle_en_tete_regroupement": "Procéder à des activités de nettoyage :"
+ },
+ {
+   "code_tete_rgpmt": 375,
+   "libelle_en_tete_regroupement": "Procéder à des contrôles nécessitant des habilitations/certifications :"
+ },
+ {
+   "code_tete_rgpmt": 378,
+   "libelle_en_tete_regroupement": "Procéder à des examens selon des techniques radiographiques :"
+ },
+ {
+   "code_tete_rgpmt": 379,
+   "libelle_en_tete_regroupement": "Procéder à des examens visuels :"
+ },
+ {
+   "code_tete_rgpmt": 380,
+   "libelle_en_tete_regroupement": "Procéder à des interventions dentaires :"
+ },
+ {
+   "code_tete_rgpmt": 381,
+   "libelle_en_tete_regroupement": "Procéder à des opérations techniques :"
+ },
+ {
+   "code_tete_rgpmt": 382,
+   "libelle_en_tete_regroupement": "Procéder à l''avitaillement en carburant de véhicule :"
+ },
+ {
+   "code_tete_rgpmt": 383,
+   "libelle_en_tete_regroupement": "Procéder à un cérémonial funéraire :"
+ },
+ {
+   "code_tete_rgpmt": 384,
+   "libelle_en_tete_regroupement": "Procéder à un diagnostic :"
+ },
+ {
+   "code_tete_rgpmt": 385,
+   "libelle_en_tete_regroupement": "Procéder au lancement, au contrôle de la maintenance d''appareils :"
+ },
+ {
+   "code_tete_rgpmt": 386,
+   "libelle_en_tete_regroupement": "Proposer un traitement selon une orientation thérapeutique :"
+ },
+ {
+   "code_tete_rgpmt": 414,
+   "libelle_en_tete_regroupement": "Réaliser des  :"
+ },
+ {
+   "code_tete_rgpmt": 413,
+   "libelle_en_tete_regroupement": "Réaliser des études en :"
+ },
+ {
+   "code_tete_rgpmt": 388,
+   "libelle_en_tete_regroupement": "Réaliser des activités :"
+ },
+ {
+   "code_tete_rgpmt": 387,
+   "libelle_en_tete_regroupement": "Réaliser des activités dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 390,
+   "libelle_en_tete_regroupement": "Réaliser des analyses de biologie en :"
+ },
+ {
+   "code_tete_rgpmt": 389,
+   "libelle_en_tete_regroupement": "Réaliser des analyses en  :"
+ },
+ {
+   "code_tete_rgpmt": 392,
+   "libelle_en_tete_regroupement": "Réaliser des applications de peintures :"
+ },
+ {
+   "code_tete_rgpmt": 393,
+   "libelle_en_tete_regroupement": "Réaliser des articles de chapellerie :"
+ },
+ {
+   "code_tete_rgpmt": 394,
+   "libelle_en_tete_regroupement": "Réaliser des articles de menuiserie et d''agencement en :"
+ },
+ {
+   "code_tete_rgpmt": 395,
+   "libelle_en_tete_regroupement": "Réaliser des articles et garnitures :"
+ },
+ {
+   "code_tete_rgpmt": 396,
+   "libelle_en_tete_regroupement": "Réaliser des ciselures selon une technique spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 397,
+   "libelle_en_tete_regroupement": "Réaliser des colorations du verre (en surface, en profondeur, ...) selon un procédé :"
+ },
+ {
+   "code_tete_rgpmt": 398,
+   "libelle_en_tete_regroupement": "Réaliser des compositions florales :"
+ },
+ {
+   "code_tete_rgpmt": 400,
+   "libelle_en_tete_regroupement": "Réaliser des contrôles ou des tests sur des fabrications de type :"
+ },
+ {
+   "code_tete_rgpmt": 399,
+   "libelle_en_tete_regroupement": "Réaliser des contrôles par :"
+ },
+ {
+   "code_tete_rgpmt": 401,
+   "libelle_en_tete_regroupement": "Réaliser des contrôles spécifiques de tuyauterie :"
+ },
+ {
+   "code_tete_rgpmt": 402,
+   "libelle_en_tete_regroupement": "Réaliser des coupes et des poses :"
+ },
+ {
+   "code_tete_rgpmt": 403,
+   "libelle_en_tete_regroupement": "Réaliser des décors:"
+ },
+ {
+   "code_tete_rgpmt": 404,
+   "libelle_en_tete_regroupement": "Réaliser des déplacements :"
+ },
+ {
+   "code_tete_rgpmt": 405,
+   "libelle_en_tete_regroupement": "Réaliser des déplacements de produits dangereux nécessitant une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 406,
+   "libelle_en_tete_regroupement": "Réaliser des déplacements ferroviaires en zone :"
+ },
+ {
+   "code_tete_rgpmt": 407,
+   "libelle_en_tete_regroupement": "Réaliser des déplacements nécessitant une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 408,
+   "libelle_en_tete_regroupement": "Réaliser des documents de ressources humaines :"
+ },
+ {
+   "code_tete_rgpmt": 409,
+   "libelle_en_tete_regroupement": "Réaliser des dorures et des décorations en :"
+ },
+ {
+   "code_tete_rgpmt": 410,
+   "libelle_en_tete_regroupement": "Réaliser des effets spéciaux de maquillage :"
+ },
+ {
+   "code_tete_rgpmt": 411,
+   "libelle_en_tete_regroupement": "Réaliser des enduits :"
+ },
+ {
+   "code_tete_rgpmt": 412,
+   "libelle_en_tete_regroupement": "Réaliser des enquêtes par :"
+ },
+ {
+   "code_tete_rgpmt": 415,
+   "libelle_en_tete_regroupement": "Réaliser des examens médicaux :"
+ },
+ {
+   "code_tete_rgpmt": 416,
+   "libelle_en_tete_regroupement": "Réaliser des finitions ou des décorations spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 417,
+   "libelle_en_tete_regroupement": "Réaliser des gravures en creux (gravure acier) pour des matrices ou des outillages de :"
+ },
+ {
+   "code_tete_rgpmt": 418,
+   "libelle_en_tete_regroupement": "Réaliser des gravures ou des ciselures sur :"
+ },
+ {
+   "code_tete_rgpmt": 419,
+   "libelle_en_tete_regroupement": "Réaliser des inerventions nécessitant une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 420,
+   "libelle_en_tete_regroupement": "Réaliser des inspections ou des opérations d''entretien d''aéronef selon un protocole de visite :"
+ },
+ {
+   "code_tete_rgpmt": 424,
+   "libelle_en_tete_regroupement": "Réaliser des interventions :"
+ },
+ {
+   "code_tete_rgpmt": 421,
+   "libelle_en_tete_regroupement": "Réaliser des interventions dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 422,
+   "libelle_en_tete_regroupement": "Réaliser des interventions en :"
+ },
+ {
+   "code_tete_rgpmt": 423,
+   "libelle_en_tete_regroupement": "Réaliser des interventions nécessitant une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 425,
+   "libelle_en_tete_regroupement": "Réaliser des livraisons en :"
+ },
+ {
+   "code_tete_rgpmt": 426,
+   "libelle_en_tete_regroupement": "Réaliser des oeuvres cinématographiques ou audiovisuelles :"
+ },
+ {
+   "code_tete_rgpmt": 427,
+   "libelle_en_tete_regroupement": "Réaliser des opérations d''assemblage-montage avec des matériaux :"
+ },
+ {
+   "code_tete_rgpmt": 428,
+   "libelle_en_tete_regroupement": "Réaliser des opérations d''assemblage-montage sur des articles :"
+ },
+ {
+   "code_tete_rgpmt": 464,
+   "libelle_en_tete_regroupement": "Réaliser des opérations d''ennoblissement sur :"
+ },
+ {
+   "code_tete_rgpmt": 465,
+   "libelle_en_tete_regroupement": "Réaliser des opérations d''extraction maritime (off-shore) à partir de :"
+ },
+ {
+   "code_tete_rgpmt": 466,
+   "libelle_en_tete_regroupement": "Réaliser des opérations d''identification ou de conditionnement de produits :"
+ },
+ {
+   "code_tete_rgpmt": 467,
+   "libelle_en_tete_regroupement": "Réaliser des opérations d''usinage/finition sur des ouvrages en bois :"
+ },
+ {
+   "code_tete_rgpmt": 429,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de « Travail Aérien » nécessitant une qualification :"
+ },
+ {
+   "code_tete_rgpmt": 521,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de :"
+ },
+ {
+   "code_tete_rgpmt": 430,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de conseil et gestion de compte auprès d''un type de clients :"
+ },
+ {
+   "code_tete_rgpmt": 431,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de décoration par :"
+ },
+ {
+   "code_tete_rgpmt": 432,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de découpage ou de formage :"
+ },
+ {
+   "code_tete_rgpmt": 433,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de fabrication/d''usinage sur des :"
+ },
+ {
+   "code_tete_rgpmt": 434,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de finition :"
+ },
+ {
+   "code_tete_rgpmt": 435,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de finition dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 436,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de finition sur des :"
+ },
+ {
+   "code_tete_rgpmt": 438,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de finition, impression ou décoration :"
+ },
+ {
+   "code_tete_rgpmt": 439,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de gestion patrimoniale :"
+ },
+ {
+   "code_tete_rgpmt": 440,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de micromécanique sur des pièces d''horlogerie par :"
+ },
+ {
+   "code_tete_rgpmt": 441,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de mise en forme par :"
+ },
+ {
+   "code_tete_rgpmt": 442,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de montage :"
+ },
+ {
+   "code_tete_rgpmt": 443,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de montage ou de pose :"
+ },
+ {
+   "code_tete_rgpmt": 444,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de montage-assemblage par :"
+ },
+ {
+   "code_tete_rgpmt": 445,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de moulage :"
+ },
+ {
+   "code_tete_rgpmt": 446,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de parachèvement ou de finition :"
+ },
+ {
+   "code_tete_rgpmt": 447,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de pose ou d''incrustations :"
+ },
+ {
+   "code_tete_rgpmt": 448,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de préparation :"
+ },
+ {
+   "code_tete_rgpmt": 449,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de préparation de produits :"
+ },
+ {
+   "code_tete_rgpmt": 450,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de restauration/conservation sur des ouvrages :"
+ },
+ {
+   "code_tete_rgpmt": 451,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de restauration/conservation sur des ouvrages spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 453,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de souscription en :"
+ },
+ {
+   "code_tete_rgpmt": 456,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de traitement :"
+ },
+ {
+   "code_tete_rgpmt": 455,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de traitement de surface par :"
+ },
+ {
+   "code_tete_rgpmt": 457,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de traitement sur un produit :"
+ },
+ {
+   "code_tete_rgpmt": 458,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de transformation :"
+ },
+ {
+   "code_tete_rgpmt": 459,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de transformation de produits par :"
+ },
+ {
+   "code_tete_rgpmt": 460,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de transformation de produits pour :"
+ },
+ {
+   "code_tete_rgpmt": 461,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de transformation ou de finition sur des peaux, des cuirs :"
+ },
+ {
+   "code_tete_rgpmt": 462,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de transformation sur des peaux/espèces spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 463,
+   "libelle_en_tete_regroupement": "Réaliser des opérations de transport aérien :"
+ },
+ {
+   "code_tete_rgpmt": 468,
+   "libelle_en_tete_regroupement": "Réaliser des opérations logistiques spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 469,
+   "libelle_en_tete_regroupement": "Réaliser des opérations relatives au placage :"
+ },
+ {
+   "code_tete_rgpmt": 470,
+   "libelle_en_tete_regroupement": "Réaliser des opérations spécifiques sur le linge :"
+ },
+ {
+   "code_tete_rgpmt": 471,
+   "libelle_en_tete_regroupement": "Réaliser des opérations spécifiques sur un article :"
+ },
+ {
+   "code_tete_rgpmt": 473,
+   "libelle_en_tete_regroupement": "Réaliser des opérations sur des articles textiles :"
+ },
+ {
+   "code_tete_rgpmt": 474,
+   "libelle_en_tete_regroupement": "Réaliser des opérations sur des marchés financiers :"
+ },
+ {
+   "code_tete_rgpmt": 475,
+   "libelle_en_tete_regroupement": "Réaliser des opérations sur des pièces en cuir, peau :"
+ },
+ {
+   "code_tete_rgpmt": 472,
+   "libelle_en_tete_regroupement": "Réaliser des opérations sur les bateaux :"
+ },
+ {
+   "code_tete_rgpmt": 476,
+   "libelle_en_tete_regroupement": "Réaliser des opérations sur un équipement spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 477,
+   "libelle_en_tete_regroupement": "Réaliser des ornementations ou des décorations spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 478,
+   "libelle_en_tete_regroupement": "Réaliser des outillages en vue du façonnage, de la gravure ou de l''assemblage du verre :"
+ },
+ {
+   "code_tete_rgpmt": 481,
+   "libelle_en_tete_regroupement": "Réaliser des ouvrages :"
+ },
+ {
+   "code_tete_rgpmt": 479,
+   "libelle_en_tete_regroupement": "Réaliser des ouvrages en :"
+ },
+ {
+   "code_tete_rgpmt": 480,
+   "libelle_en_tete_regroupement": "Réaliser des ouvrages ou revêtements d''ouvrages en :"
+ },
+ {
+   "code_tete_rgpmt": 482,
+   "libelle_en_tete_regroupement": "Réaliser des ouvrages, ossatures bois :"
+ },
+ {
+   "code_tete_rgpmt": 483,
+   "libelle_en_tete_regroupement": "Réaliser des pièces (gabarits, charpentes, coques, ...) en :"
+ },
+ {
+   "code_tete_rgpmt": 484,
+   "libelle_en_tete_regroupement": "Réaliser des pièces de précontrainte au moyen de :"
+ },
+ {
+   "code_tete_rgpmt": 485,
+   "libelle_en_tete_regroupement": "Réaliser des plongées :"
+ },
+ {
+   "code_tete_rgpmt": 487,
+   "libelle_en_tete_regroupement": "Réaliser des préparations culinaires à partir de :"
+ },
+ {
+   "code_tete_rgpmt": 486,
+   "libelle_en_tete_regroupement": "Réaliser des préparations culinaires :"
+ },
+ {
+   "code_tete_rgpmt": 488,
+   "libelle_en_tete_regroupement": "Réaliser des préparations pharmaceutiques de :"
+ },
+ {
+   "code_tete_rgpmt": 489,
+   "libelle_en_tete_regroupement": "Réaliser des prestations de service :"
+ },
+ {
+   "code_tete_rgpmt": 490,
+   "libelle_en_tete_regroupement": "Réaliser des prises de vue ou traitements photographiques selon un procédé :"
+ },
+ {
+   "code_tete_rgpmt": 491,
+   "libelle_en_tete_regroupement": "Réaliser des prises de vues (scènes, séquences, génériques, ...) avec un équipement spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 492,
+   "libelle_en_tete_regroupement": "Réaliser des prises de vues sur un thème spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 493,
+   "libelle_en_tete_regroupement": "Réaliser des prototypes en matériaux :"
+ },
+ {
+   "code_tete_rgpmt": 494,
+   "libelle_en_tete_regroupement": "Réaliser des réparations ou des modifications :"
+ },
+ {
+   "code_tete_rgpmt": 495,
+   "libelle_en_tete_regroupement": "Réaliser des retouches ou des modifications sur :"
+ },
+ {
+   "code_tete_rgpmt": 452,
+   "libelle_en_tete_regroupement": "Réaliser des retouches ou modifications sur des :"
+ },
+ {
+   "code_tete_rgpmt": 496,
+   "libelle_en_tete_regroupement": "Réaliser des soins selon des orientations spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 497,
+   "libelle_en_tete_regroupement": "Réaliser des supports de communication écrits :"
+ },
+ {
+   "code_tete_rgpmt": 498,
+   "libelle_en_tete_regroupement": "Réaliser des traitements thermiques de :"
+ },
+ {
+   "code_tete_rgpmt": 499,
+   "libelle_en_tete_regroupement": "Réaliser des travaux :"
+ },
+ {
+   "code_tete_rgpmt": 500,
+   "libelle_en_tete_regroupement": "Réaliser des travaux d''aménagement sur :"
+ },
+ {
+   "code_tete_rgpmt": 501,
+   "libelle_en_tete_regroupement": "Réaliser des vêtements à l''unité ou en petite série :"
+ },
+ {
+   "code_tete_rgpmt": 502,
+   "libelle_en_tete_regroupement": "Réaliser des vêtements en matériaux spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 503,
+   "libelle_en_tete_regroupement": "Réaliser et/ou orner des :"
+ },
+ {
+   "code_tete_rgpmt": 504,
+   "libelle_en_tete_regroupement": "Réaliser et/ou poser une ferrure :"
+ },
+ {
+   "code_tete_rgpmt": 510,
+   "libelle_en_tete_regroupement": "Réaliser l''administration des ventes :"
+ },
+ {
+   "code_tete_rgpmt": 513,
+   "libelle_en_tete_regroupement": "Réaliser l''enregistrement de données par :"
+ },
+ {
+   "code_tete_rgpmt": 505,
+   "libelle_en_tete_regroupement": "Réaliser la maintenance d''un équipement de production au :"
+ },
+ {
+   "code_tete_rgpmt": 506,
+   "libelle_en_tete_regroupement": "Réaliser la pose d''éléments d''étanchéité :"
+ },
+ {
+   "code_tete_rgpmt": 507,
+   "libelle_en_tete_regroupement": "Réaliser la pose d''éléments/composants sur des ouvrages en bois :"
+ },
+ {
+   "code_tete_rgpmt": 508,
+   "libelle_en_tete_regroupement": "Réaliser la préparation de pièces par :"
+ },
+ {
+   "code_tete_rgpmt": 605,
+   "libelle_en_tete_regroupement": "Réaliser la récolte de :"
+ },
+ {
+   "code_tete_rgpmt": 454,
+   "libelle_en_tete_regroupement": "Réaliser la taille de pierre en :"
+ },
+ {
+   "code_tete_rgpmt": 509,
+   "libelle_en_tete_regroupement": "Réaliser la taille, la gravure et/ou le guillochage selon des techniques et outils spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 511,
+   "libelle_en_tete_regroupement": "Réaliser le contrôle aérien sur des zones militaires :"
+ },
+ {
+   "code_tete_rgpmt": 512,
+   "libelle_en_tete_regroupement": "Réaliser le patron modèle d''articles :"
+ },
+ {
+   "code_tete_rgpmt": 515,
+   "libelle_en_tete_regroupement": "Réaliser les opérations d''instruction nécessitant des qualifications homologuées Flight Crew Licencing :"
+ },
+ {
+   "code_tete_rgpmt": 514,
+   "libelle_en_tete_regroupement": "Réaliser les opérations de gestion d''un service/groupe/département :"
+ },
+ {
+   "code_tete_rgpmt": 516,
+   "libelle_en_tete_regroupement": "Réaliser ou mettre en forme une maquette ou un prototype en :"
+ },
+ {
+   "code_tete_rgpmt": 517,
+   "libelle_en_tete_regroupement": "Réaliser ou ornementer des produits:"
+ },
+ {
+   "code_tete_rgpmt": 518,
+   "libelle_en_tete_regroupement": "Réaliser ou raser des pièces (moquette, couverture, tulle, ...) sur :"
+ },
+ {
+   "code_tete_rgpmt": 519,
+   "libelle_en_tete_regroupement": "Réaliser sur des chaussures des opérations de :"
+ },
+ {
+   "code_tete_rgpmt": 437,
+   "libelle_en_tete_regroupement": "Réaliser sur des panneaux de bois des opérations de finition :"
+ },
+ {
+   "code_tete_rgpmt": 522,
+   "libelle_en_tete_regroupement": "Réaliser sur un site Web des opérations de :"
+ },
+ {
+   "code_tete_rgpmt": 523,
+   "libelle_en_tete_regroupement": "Réaliser un accompagnement sportif nécessitant une qualification dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 524,
+   "libelle_en_tete_regroupement": "Réaliser un contrôle aérien :"
+ },
+ {
+   "code_tete_rgpmt": 525,
+   "libelle_en_tete_regroupement": "Réaliser un contrôle d''éléments chaudronnés par :"
+ },
+ {
+   "code_tete_rgpmt": 526,
+   "libelle_en_tete_regroupement": "Réaliser un contrôle spécifique dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 527,
+   "libelle_en_tete_regroupement": "Réaliser un numéro de cirque :"
+ },
+ {
+   "code_tete_rgpmt": 529,
+   "libelle_en_tete_regroupement": "Réaliser un patronage pour des articles de :"
+ },
+ {
+   "code_tete_rgpmt": 528,
+   "libelle_en_tete_regroupement": "Réaliser un patronage pour des articles en :"
+ },
+ {
+   "code_tete_rgpmt": 531,
+   "libelle_en_tete_regroupement": "Réaliser un type d''évaluation :"
+ },
+ {
+   "code_tete_rgpmt": 530,
+   "libelle_en_tete_regroupement": "Réaliser un type de support d''expression graphique :"
+ },
+ {
+   "code_tete_rgpmt": 604,
+   "libelle_en_tete_regroupement": "Réaliser une activité nécessitant :"
+ },
+ {
+   "code_tete_rgpmt": 532,
+   "libelle_en_tete_regroupement": "Réaliser une gérance immobilière de :"
+ },
+ {
+   "code_tete_rgpmt": 533,
+   "libelle_en_tete_regroupement": "Réaliser une navigation maritime :"
+ },
+ {
+   "code_tete_rgpmt": 536,
+   "libelle_en_tete_regroupement": "Réaliser une opération :"
+ },
+ {
+   "code_tete_rgpmt": 535,
+   "libelle_en_tete_regroupement": "Réaliser une opération d''usinage :"
+ },
+ {
+   "code_tete_rgpmt": 534,
+   "libelle_en_tete_regroupement": "Réaliser une opération de déformation :"
+ },
+ {
+   "code_tete_rgpmt": 537,
+   "libelle_en_tete_regroupement": "Réaliser une transaction immobilière de :"
+ },
+ {
+   "code_tete_rgpmt": 538,
+   "libelle_en_tete_regroupement": "Rédiger des écrits pour le compte de particuliers ou d''entreprises :"
+ },
+ {
+   "code_tete_rgpmt": 540,
+   "libelle_en_tete_regroupement": "Régler des équipements :"
+ },
+ {
+   "code_tete_rgpmt": 541,
+   "libelle_en_tete_regroupement": "Régler ou surveiller une machine de transformation de matière plastique ou caoutchouc :"
+ },
+ {
+   "code_tete_rgpmt": 542,
+   "libelle_en_tete_regroupement": "Régler, conduire une machine/un équipement de première transformation de bois :"
+ },
+ {
+   "code_tete_rgpmt": 544,
+   "libelle_en_tete_regroupement": "Réparer des instruments de musique ou des accessoires :"
+ },
+ {
+   "code_tete_rgpmt": 546,
+   "libelle_en_tete_regroupement": "Réparer la carrosserie de :"
+ },
+ {
+   "code_tete_rgpmt": 547,
+   "libelle_en_tete_regroupement": "Réparer ou modifier des articles :"
+ },
+ {
+   "code_tete_rgpmt": 539,
+   "libelle_en_tete_regroupement": "Redonner leur teinte initiale à des :"
+ },
+ {
+   "code_tete_rgpmt": 543,
+   "libelle_en_tete_regroupement": "Remettre en état des produits par des opérations de :"
+ },
+ {
+   "code_tete_rgpmt": 548,
+   "libelle_en_tete_regroupement": "Reporter ou reproduire un décor en petite série selon des techniques spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 549,
+   "libelle_en_tete_regroupement": "Restaurer des objets /ouvrages spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 550,
+   "libelle_en_tete_regroupement": "Restaurer/réparer des pièces, articles par des opérations:"
+ },
+ {
+   "code_tete_rgpmt": 551,
+   "libelle_en_tete_regroupement": "Restituer des informations géographiques par une cartographie à thèmes spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 552,
+   "libelle_en_tete_regroupement": "Sélectionner des éléments (mandrins, embouts, ...) et effectuer des opérations de :"
+ },
+ {
+   "code_tete_rgpmt": 553,
+   "libelle_en_tete_regroupement": "Sélectionner un traitement en fonction du matériau :"
+ },
+ {
+   "code_tete_rgpmt": 554,
+   "libelle_en_tete_regroupement": "Suivre et optimiser les étapes d''élaboration de produits alcoolisés :"
+ },
+ {
+   "code_tete_rgpmt": 555,
+   "libelle_en_tete_regroupement": "Suivre un marché sur une zone :"
+ },
+ {
+   "code_tete_rgpmt": 556,
+   "libelle_en_tete_regroupement": "Superviser des forages d''extraction :"
+ },
+ {
+   "code_tete_rgpmt": 557,
+   "libelle_en_tete_regroupement": "Superviser des phases de fabrication :"
+ },
+ {
+   "code_tete_rgpmt": 558,
+   "libelle_en_tete_regroupement": "Superviser l''activité d''un service spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 559,
+   "libelle_en_tete_regroupement": "Superviser l''activité d''un site d''exploitation de transport routier de personnes pour un réseau :"
+ },
+ {
+   "code_tete_rgpmt": 560,
+   "libelle_en_tete_regroupement": "Superviser l''activité d''une unité de services au public dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 561,
+   "libelle_en_tete_regroupement": "Superviser un établissement de santé  :"
+ },
+ {
+   "code_tete_rgpmt": 562,
+   "libelle_en_tete_regroupement": "Superviser un secteur/projet :"
+ },
+ {
+   "code_tete_rgpmt": 564,
+   "libelle_en_tete_regroupement": "Superviser une équipe ou un atelier de production de  :"
+ },
+ {
+   "code_tete_rgpmt": 566,
+   "libelle_en_tete_regroupement": "Superviser une équipe ou un atelier réalisant des opérations d''ennoblissement :"
+ },
+ {
+   "code_tete_rgpmt": 563,
+   "libelle_en_tete_regroupement": "Superviser une équipe ou un atelier réalisant des opérations de confection :"
+ },
+ {
+   "code_tete_rgpmt": 567,
+   "libelle_en_tete_regroupement": "Superviser une structure, un parc de véhicules en :"
+ },
+ {
+   "code_tete_rgpmt": 568,
+   "libelle_en_tete_regroupement": "Superviser une unité élémentaire de production en :"
+ },
+ {
+   "code_tete_rgpmt": 569,
+   "libelle_en_tete_regroupement": "Surveiller des équipements ou phases de transformation du fil :"
+ },
+ {
+   "code_tete_rgpmt": 570,
+   "libelle_en_tete_regroupement": "Surveiller des phases de préparation du fil :"
+ },
+ {
+   "code_tete_rgpmt": 571,
+   "libelle_en_tete_regroupement": "Surveiller et conduire une machine ou une ligne de consolidation de nappe de nontissé par procédé :"
+ },
+ {
+   "code_tete_rgpmt": 572,
+   "libelle_en_tete_regroupement": "Surveiller et conduire une machine ou une ligne par :"
+ },
+ {
+   "code_tete_rgpmt": 573,
+   "libelle_en_tete_regroupement": "Surveiller et réguler des équipements de production d''énergie nécessitant une habilitation spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 574,
+   "libelle_en_tete_regroupement": "Surveiller l''application des arrêtés du maire et des règlements sur les :"
+ },
+ {
+   "code_tete_rgpmt": 577,
+   "libelle_en_tete_regroupement": "Surveiller le fonctionnement d''une installation ou d''un parc d''installations de chauffage par :"
+ },
+ {
+   "code_tete_rgpmt": 578,
+   "libelle_en_tete_regroupement": "Surveiller le fonctionnement d''une installation, d''un parc d''installations frigorifiques ou de conditionnement d''air par :"
+ },
+ {
+   "code_tete_rgpmt": 575,
+   "libelle_en_tete_regroupement": "Surveiller le fonctionnement de ressources d''exploitation spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 576,
+   "libelle_en_tete_regroupement": "Surveiller le fonctionnement de ressources d''exploitation spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 579,
+   "libelle_en_tete_regroupement": "Surveiller les élèves lors de :"
+ },
+ {
+   "code_tete_rgpmt": 580,
+   "libelle_en_tete_regroupement": "Surveiller ou conduire des phases de fabrication :"
+ },
+ {
+   "code_tete_rgpmt": 581,
+   "libelle_en_tete_regroupement": "Surveiller ou réguler une installation de :"
+ },
+ {
+   "code_tete_rgpmt": 582,
+   "libelle_en_tete_regroupement": "Surveiller un espace de baignade avec un diplôme spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 583,
+   "libelle_en_tete_regroupement": "Tailler des arbres ou ceps :"
+ },
+ {
+   "code_tete_rgpmt": 584,
+   "libelle_en_tete_regroupement": "Tailler des pierres:"
+ },
+ {
+   "code_tete_rgpmt": 585,
+   "libelle_en_tete_regroupement": "Tester/apprécier la qualité de produits ou de services :"
+ },
+ {
+   "code_tete_rgpmt": 586,
+   "libelle_en_tete_regroupement": "Tracer, couper des plaques et panneaux de verre/vitrail et les assembler par des procédés spécifiques :"
+ },
+ {
+   "code_tete_rgpmt": 587,
+   "libelle_en_tete_regroupement": "Traiter des informations dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 588,
+   "libelle_en_tete_regroupement": "Traiter des matériaux :"
+ },
+ {
+   "code_tete_rgpmt": 589,
+   "libelle_en_tete_regroupement": "Transformer et façonner le métal par un procédé spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 590,
+   "libelle_en_tete_regroupement": "Transporter des :"
+ },
+ {
+   "code_tete_rgpmt": 591,
+   "libelle_en_tete_regroupement": "Transporter des passagers au moyen d''une installation spécifique :"
+ },
+ {
+   "code_tete_rgpmt": 592,
+   "libelle_en_tete_regroupement": "Transposer un texte ou des propos dans un domaine :"
+ },
+ {
+   "code_tete_rgpmt": 593,
+   "libelle_en_tete_regroupement": "Transposer un texte pour un type de public :"
+ },
+ {
+   "code_tete_rgpmt": 594,
+   "libelle_en_tete_regroupement": "Transposer un texte, des propos selon un mode de traduction ou d''interprétariat :"
+ },
+ {
+   "code_tete_rgpmt": 595,
+   "libelle_en_tete_regroupement": "Usiner ou assembler le verre selon des opérations de :"
+ },
+ {
+   "code_tete_rgpmt": 596,
+   "libelle_en_tete_regroupement": "Utiliser des logiciels :"
+ },
+ {
+   "code_tete_rgpmt": 597,
+   "libelle_en_tete_regroupement": "Utiliser des outils de traitement ou d''intégration en :"
+ },
+ {
+   "code_tete_rgpmt": 317,
+   "libelle_en_tete_regroupement": "Utiliser des procédés ou des techniques :"
+ },
+ {
+   "code_tete_rgpmt": 598,
+   "libelle_en_tete_regroupement": "Utiliser un engin nécessitant une habilitation :"
+ },
+ {
+   "code_tete_rgpmt": 599,
+   "libelle_en_tete_regroupement": "Utiliser un logiciel professionnel :"
+ },
+ {
+   "code_tete_rgpmt": 602,
+   "libelle_en_tete_regroupement": "Vérifier la conformité d''une intervention et prononcer l''Approbation Pour Remise en Service -APRS-, avec une licence :"
+ },
+ {
+   "code_tete_rgpmt": 601,
+   "libelle_en_tete_regroupement": "Vendre des :"
+ },
+ {
+   "code_tete_rgpmt": 600,
+   "libelle_en_tete_regroupement": "Vendre des produits/services d''assurances :"
+ }
+]

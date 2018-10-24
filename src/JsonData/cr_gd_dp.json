@@ -1,0 +1,4258 @@
+[
+ {
+   "code_rome": "A1101",
+   "libelle_rome": "Conduite d''engins agricoles et forestiers",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A11",
+   "libelle_domaine_professionel": "Engins agricoles et forestiers"
+ },
+ {
+   "code_rome": "A1201",
+   "libelle_rome": "Bûcheronnage et élagage",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A12",
+   "libelle_domaine_professionel": "Espaces naturels et espaces verts"
+ },
+ {
+   "code_rome": "A1202",
+   "libelle_rome": "Entretien des espaces naturels",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A12",
+   "libelle_domaine_professionel": "Espaces naturels et espaces verts"
+ },
+ {
+   "code_rome": "A1203",
+   "libelle_rome": "Aménagement et entretien des espaces verts",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A12",
+   "libelle_domaine_professionel": "Espaces naturels et espaces verts"
+ },
+ {
+   "code_rome": "A1204",
+   "libelle_rome": "Protection du patrimoine naturel",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A12",
+   "libelle_domaine_professionel": "Espaces naturels et espaces verts"
+ },
+ {
+   "code_rome": "A1205",
+   "libelle_rome": "Sylviculture",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A12",
+   "libelle_domaine_professionel": "Espaces naturels et espaces verts"
+ },
+ {
+   "code_rome": "A1301",
+   "libelle_rome": "Conseil et assistance technique en agriculture",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A13",
+   "libelle_domaine_professionel": "Etudes et assistance technique"
+ },
+ {
+   "code_rome": "A1302",
+   "libelle_rome": "Contrôle et diagnostic technique en agriculture",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A13",
+   "libelle_domaine_professionel": "Etudes et assistance technique"
+ },
+ {
+   "code_rome": "A1303",
+   "libelle_rome": "Ingénierie en agriculture et environnement naturel",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A13",
+   "libelle_domaine_professionel": "Etudes et assistance technique"
+ },
+ {
+   "code_rome": "A1401",
+   "libelle_rome": "Aide agricole de production fruitière ou viticole",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1402",
+   "libelle_rome": "Aide agricole de production légumière ou végétale",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1403",
+   "libelle_rome": "Aide d''élevage agricole et aquacole",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1404",
+   "libelle_rome": "Aquaculture",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1405",
+   "libelle_rome": "Arboriculture et viticulture",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1406",
+   "libelle_rome": "Encadrement équipage de la pêche",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1407",
+   "libelle_rome": "Élevage bovin ou équin",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1408",
+   "libelle_rome": "Élevage d''animaux sauvages ou de compagnie",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1409",
+   "libelle_rome": "Élevage de lapins et volailles",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1410",
+   "libelle_rome": "Élevage ovin ou caprin",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1411",
+   "libelle_rome": "Élevage porcin",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1412",
+   "libelle_rome": "Fabrication et affinage de fromages",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1413",
+   "libelle_rome": "Fermentation de boissons alcoolisées",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1414",
+   "libelle_rome": "Horticulture et maraîchage",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1415",
+   "libelle_rome": "Equipage de la pêche",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1416",
+   "libelle_rome": "Polyculture, élevage",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1417",
+   "libelle_rome": "Saliculture",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A14",
+   "libelle_domaine_professionel": "Production"
+ },
+ {
+   "code_rome": "A1501",
+   "libelle_rome": "Aide aux soins animaux",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A15",
+   "libelle_domaine_professionel": "Soins aux animaux"
+ },
+ {
+   "code_rome": "A1502",
+   "libelle_rome": "Podologie animale",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A15",
+   "libelle_domaine_professionel": "Soins aux animaux"
+ },
+ {
+   "code_rome": "A1503",
+   "libelle_rome": "Toilettage des animaux",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A15",
+   "libelle_domaine_professionel": "Soins aux animaux"
+ },
+ {
+   "code_rome": "A1504",
+   "libelle_rome": "Santé animale",
+   "code_grand_domaine": "A",
+   "libelle_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+   "code_domaine_professionel": "A15",
+   "libelle_domaine_professionel": "Soins aux animaux"
+ },
+ {
+   "code_rome": "B1101",
+   "libelle_rome": "Création en arts plastiques",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B11",
+   "libelle_domaine_professionel": "Arts plastiques"
+ },
+ {
+   "code_rome": "B1201",
+   "libelle_rome": "Réalisation d''objets décoratifs et utilitaires en céramique et matériaux de synthèse",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B12",
+   "libelle_domaine_professionel": "Céramique"
+ },
+ {
+   "code_rome": "B1301",
+   "libelle_rome": "Décoration d''espaces de vente et d''exposition",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B13",
+   "libelle_domaine_professionel": "Décoration"
+ },
+ {
+   "code_rome": "B1302",
+   "libelle_rome": "Décoration d''objets d''art et artisanaux",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B13",
+   "libelle_domaine_professionel": "Décoration"
+ },
+ {
+   "code_rome": "B1303",
+   "libelle_rome": "Gravure - ciselure",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B13",
+   "libelle_domaine_professionel": "Décoration"
+ },
+ {
+   "code_rome": "B1401",
+   "libelle_rome": "Réalisation d''objets en lianes, fibres et brins végétaux",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B14",
+   "libelle_domaine_professionel": "Fibres et papier"
+ },
+ {
+   "code_rome": "B1402",
+   "libelle_rome": "Reliure et restauration de livres et archives",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B14",
+   "libelle_domaine_professionel": "Fibres et papier"
+ },
+ {
+   "code_rome": "B1501",
+   "libelle_rome": "Fabrication et réparation d''instruments de musique",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B15",
+   "libelle_domaine_professionel": "Instruments de musique"
+ },
+ {
+   "code_rome": "B1601",
+   "libelle_rome": "Métallerie d''art",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B16",
+   "libelle_domaine_professionel": "Métal, verre, bijouterie et horlogerie"
+ },
+ {
+   "code_rome": "B1602",
+   "libelle_rome": "Réalisation d''objets artistiques et fonctionnels en verre",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B16",
+   "libelle_domaine_professionel": "Métal, verre, bijouterie et horlogerie"
+ },
+ {
+   "code_rome": "B1603",
+   "libelle_rome": "Réalisation d''ouvrages en bijouterie, joaillerie et orfèvrerie",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B16",
+   "libelle_domaine_professionel": "Métal, verre, bijouterie et horlogerie"
+ },
+ {
+   "code_rome": "B1604",
+   "libelle_rome": "Réparation - montage en systèmes horlogers",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B16",
+   "libelle_domaine_professionel": "Métal, verre, bijouterie et horlogerie"
+ },
+ {
+   "code_rome": "B1701",
+   "libelle_rome": "Conservation et reconstitution d''espèces animales",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B17",
+   "libelle_domaine_professionel": "Taxidermie"
+ },
+ {
+   "code_rome": "B1801",
+   "libelle_rome": "Réalisation d''articles de chapellerie",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B18",
+   "libelle_domaine_professionel": "Tissu et cuirs"
+ },
+ {
+   "code_rome": "B1802",
+   "libelle_rome": "Réalisation d''articles en cuir et matériaux souples (hors vêtement)",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B18",
+   "libelle_domaine_professionel": "Tissu et cuirs"
+ },
+ {
+   "code_rome": "B1803",
+   "libelle_rome": "Réalisation de vêtements sur mesure ou en petite série",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B18",
+   "libelle_domaine_professionel": "Tissu et cuirs"
+ },
+ {
+   "code_rome": "B1804",
+   "libelle_rome": "Réalisation d''ouvrages d''art en fils",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B18",
+   "libelle_domaine_professionel": "Tissu et cuirs"
+ },
+ {
+   "code_rome": "B1805",
+   "libelle_rome": "Stylisme",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B18",
+   "libelle_domaine_professionel": "Tissu et cuirs"
+ },
+ {
+   "code_rome": "B1806",
+   "libelle_rome": "Tapisserie - décoration en ameublement",
+   "code_grand_domaine": "B",
+   "libelle_grand_domaine": "Arts et Façonnage d''ouvrages d''art",
+   "code_domaine_professionel": "B18",
+   "libelle_domaine_professionel": "Tissu et cuirs"
+ },
+ {
+   "code_rome": "C1101",
+   "libelle_rome": "Conception - développement produits d''assurances",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C11",
+   "libelle_domaine_professionel": "Assurance"
+ },
+ {
+   "code_rome": "C1102",
+   "libelle_rome": "Conseil clientèle en assurances",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C11",
+   "libelle_domaine_professionel": "Assurance"
+ },
+ {
+   "code_rome": "C1103",
+   "libelle_rome": "Courtage en assurances",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C11",
+   "libelle_domaine_professionel": "Assurance"
+ },
+ {
+   "code_rome": "C1104",
+   "libelle_rome": "Direction d''exploitation en assurances",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C11",
+   "libelle_domaine_professionel": "Assurance"
+ },
+ {
+   "code_rome": "C1105",
+   "libelle_rome": "Études actuarielles en assurances",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C11",
+   "libelle_domaine_professionel": "Assurance"
+ },
+ {
+   "code_rome": "C1106",
+   "libelle_rome": "Expertise risques en assurances",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C11",
+   "libelle_domaine_professionel": "Assurance"
+ },
+ {
+   "code_rome": "C1107",
+   "libelle_rome": "Indemnisations en assurances",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C11",
+   "libelle_domaine_professionel": "Assurance"
+ },
+ {
+   "code_rome": "C1108",
+   "libelle_rome": "Management de groupe et de service en assurances",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C11",
+   "libelle_domaine_professionel": "Assurance"
+ },
+ {
+   "code_rome": "C1109",
+   "libelle_rome": "Rédaction et gestion en assurances",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C11",
+   "libelle_domaine_professionel": "Assurance"
+ },
+ {
+   "code_rome": "C1110",
+   "libelle_rome": "Souscription d''assurances",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C11",
+   "libelle_domaine_professionel": "Assurance"
+ },
+ {
+   "code_rome": "C1201",
+   "libelle_rome": "Accueil et services bancaires",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C12",
+   "libelle_domaine_professionel": "Banque"
+ },
+ {
+   "code_rome": "C1202",
+   "libelle_rome": "Analyse de crédits et risques bancaires",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C12",
+   "libelle_domaine_professionel": "Banque"
+ },
+ {
+   "code_rome": "C1203",
+   "libelle_rome": "Relation clients banque/finance",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C12",
+   "libelle_domaine_professionel": "Banque"
+ },
+ {
+   "code_rome": "C1204",
+   "libelle_rome": "Conception et expertise produits bancaires et financiers",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C12",
+   "libelle_domaine_professionel": "Banque"
+ },
+ {
+   "code_rome": "C1205",
+   "libelle_rome": "Conseil en gestion de patrimoine financier",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C12",
+   "libelle_domaine_professionel": "Banque"
+ },
+ {
+   "code_rome": "C1206",
+   "libelle_rome": "Gestion de clientèle bancaire",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C12",
+   "libelle_domaine_professionel": "Banque"
+ },
+ {
+   "code_rome": "C1207",
+   "libelle_rome": "Management en exploitation bancaire",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C12",
+   "libelle_domaine_professionel": "Banque"
+ },
+ {
+   "code_rome": "C1301",
+   "libelle_rome": "Front office marchés financiers",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C13",
+   "libelle_domaine_professionel": "Finance"
+ },
+ {
+   "code_rome": "C1302",
+   "libelle_rome": "Gestion back et middle-office marchés financiers",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C13",
+   "libelle_domaine_professionel": "Finance"
+ },
+ {
+   "code_rome": "C1303",
+   "libelle_rome": "Gestion de portefeuilles sur les marchés financiers",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C13",
+   "libelle_domaine_professionel": "Finance"
+ },
+ {
+   "code_rome": "C1401",
+   "libelle_rome": "Gestion en banque et assurance",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C14",
+   "libelle_domaine_professionel": "Gestion administrative banque et assurances"
+ },
+ {
+   "code_rome": "C1501",
+   "libelle_rome": "Gérance immobilière",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C15",
+   "libelle_domaine_professionel": "Immobilier"
+ },
+ {
+   "code_rome": "C1502",
+   "libelle_rome": "Gestion locative immobilière",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C15",
+   "libelle_domaine_professionel": "Immobilier"
+ },
+ {
+   "code_rome": "C1503",
+   "libelle_rome": "Management de projet immobilier",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C15",
+   "libelle_domaine_professionel": "Immobilier"
+ },
+ {
+   "code_rome": "C1504",
+   "libelle_rome": "Transaction immobilière",
+   "code_grand_domaine": "C",
+   "libelle_grand_domaine": "Banque, Assurance, Immobilier",
+   "code_domaine_professionel": "C15",
+   "libelle_domaine_professionel": "Immobilier"
+ },
+ {
+   "code_rome": "D1101",
+   "libelle_rome": "Boucherie",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D11",
+   "libelle_domaine_professionel": "Commerce alimentaire et métiers de bouche"
+ },
+ {
+   "code_rome": "D1102",
+   "libelle_rome": "Boulangerie - viennoiserie",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D11",
+   "libelle_domaine_professionel": "Commerce alimentaire et métiers de bouche"
+ },
+ {
+   "code_rome": "D1103",
+   "libelle_rome": "Charcuterie - traiteur",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D11",
+   "libelle_domaine_professionel": "Commerce alimentaire et métiers de bouche"
+ },
+ {
+   "code_rome": "D1104",
+   "libelle_rome": "Pâtisserie, confiserie, chocolaterie et glacerie",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D11",
+   "libelle_domaine_professionel": "Commerce alimentaire et métiers de bouche"
+ },
+ {
+   "code_rome": "D1105",
+   "libelle_rome": "Poissonnerie",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D11",
+   "libelle_domaine_professionel": "Commerce alimentaire et métiers de bouche"
+ },
+ {
+   "code_rome": "D1106",
+   "libelle_rome": "Vente en alimentation",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D11",
+   "libelle_domaine_professionel": "Commerce alimentaire et métiers de bouche"
+ },
+ {
+   "code_rome": "D1107",
+   "libelle_rome": "Vente en gros de produits frais",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D11",
+   "libelle_domaine_professionel": "Commerce alimentaire et métiers de bouche"
+ },
+ {
+   "code_rome": "D1201",
+   "libelle_rome": "Achat vente d''objets d''art, anciens ou d''occasion",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D12",
+   "libelle_domaine_professionel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_rome": "D1202",
+   "libelle_rome": "Coiffure",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D12",
+   "libelle_domaine_professionel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_rome": "D1203",
+   "libelle_rome": "Hydrothérapie",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D12",
+   "libelle_domaine_professionel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_rome": "D1204",
+   "libelle_rome": "Location de véhicules ou de matériel de loisirs",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D12",
+   "libelle_domaine_professionel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_rome": "D1205",
+   "libelle_rome": "Nettoyage d''articles textiles ou cuirs",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D12",
+   "libelle_domaine_professionel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_rome": "D1206",
+   "libelle_rome": "Réparation d''articles en cuir et matériaux souples",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D12",
+   "libelle_domaine_professionel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_rome": "D1207",
+   "libelle_rome": "Retouches en habillement",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D12",
+   "libelle_domaine_professionel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_rome": "D1208",
+   "libelle_rome": "Soins esthétiques et corporels",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D12",
+   "libelle_domaine_professionel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_rome": "D1209",
+   "libelle_rome": "Vente de végétaux",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D12",
+   "libelle_domaine_professionel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_rome": "D1210",
+   "libelle_rome": "Vente en animalerie",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D12",
+   "libelle_domaine_professionel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_rome": "D1211",
+   "libelle_rome": "Vente en articles de sport et loisirs",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D12",
+   "libelle_domaine_professionel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_rome": "D1212",
+   "libelle_rome": "Vente en décoration et équipement du foyer",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D12",
+   "libelle_domaine_professionel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_rome": "D1213",
+   "libelle_rome": "Vente en gros de matériel et équipement",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D12",
+   "libelle_domaine_professionel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_rome": "D1214",
+   "libelle_rome": "Vente en habillement et accessoires de la personne",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D12",
+   "libelle_domaine_professionel": "Commerce non alimentaire et de prestations de confort"
+ },
+ {
+   "code_rome": "D1301",
+   "libelle_rome": "Management de magasin de détail",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D13",
+   "libelle_domaine_professionel": "Direction de magasin de détail"
+ },
+ {
+   "code_rome": "D1401",
+   "libelle_rome": "Assistanat commercial",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D14",
+   "libelle_domaine_professionel": "Force de vente"
+ },
+ {
+   "code_rome": "D1402",
+   "libelle_rome": "Relation commerciale grands comptes et entreprises",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D14",
+   "libelle_domaine_professionel": "Force de vente"
+ },
+ {
+   "code_rome": "D1403",
+   "libelle_rome": "Relation commerciale auprès de particuliers",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D14",
+   "libelle_domaine_professionel": "Force de vente"
+ },
+ {
+   "code_rome": "D1404",
+   "libelle_rome": "Relation commerciale en vente de véhicules",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D14",
+   "libelle_domaine_professionel": "Force de vente"
+ },
+ {
+   "code_rome": "D1405",
+   "libelle_rome": "Conseil en information médicale",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D14",
+   "libelle_domaine_professionel": "Force de vente"
+ },
+ {
+   "code_rome": "D1406",
+   "libelle_rome": "Management en force de vente",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D14",
+   "libelle_domaine_professionel": "Force de vente"
+ },
+ {
+   "code_rome": "D1407",
+   "libelle_rome": "Relation technico-commerciale",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D14",
+   "libelle_domaine_professionel": "Force de vente"
+ },
+ {
+   "code_rome": "D1408",
+   "libelle_rome": "Téléconseil et télévente",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D14",
+   "libelle_domaine_professionel": "Force de vente"
+ },
+ {
+   "code_rome": "D1501",
+   "libelle_rome": "Animation de vente",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D15",
+   "libelle_domaine_professionel": "Grande distribution"
+ },
+ {
+   "code_rome": "D1502",
+   "libelle_rome": "Management/gestion de rayon produits alimentaires",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D15",
+   "libelle_domaine_professionel": "Grande distribution"
+ },
+ {
+   "code_rome": "D1503",
+   "libelle_rome": "Management/gestion de rayon produits non alimentaires",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D15",
+   "libelle_domaine_professionel": "Grande distribution"
+ },
+ {
+   "code_rome": "D1504",
+   "libelle_rome": "Direction de magasin de grande distribution",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D15",
+   "libelle_domaine_professionel": "Grande distribution"
+ },
+ {
+   "code_rome": "D1505",
+   "libelle_rome": "Personnel de caisse",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D15",
+   "libelle_domaine_professionel": "Grande distribution"
+ },
+ {
+   "code_rome": "D1506",
+   "libelle_rome": "Marchandisage",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D15",
+   "libelle_domaine_professionel": "Grande distribution"
+ },
+ {
+   "code_rome": "D1507",
+   "libelle_rome": "Mise en rayon libre-service",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D15",
+   "libelle_domaine_professionel": "Grande distribution"
+ },
+ {
+   "code_rome": "D1508",
+   "libelle_rome": "Encadrement du personnel de caisses",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D15",
+   "libelle_domaine_professionel": "Grande distribution"
+ },
+ {
+   "code_rome": "D1509",
+   "libelle_rome": "Management de département en grande distribution",
+   "code_grand_domaine": "D",
+   "libelle_grand_domaine": "Commerce, Vente et Grande distribution",
+   "code_domaine_professionel": "D15",
+   "libelle_domaine_professionel": "Grande distribution"
+ },
+ {
+   "code_rome": "E1101",
+   "libelle_rome": "Animation de site multimédia",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E11",
+   "libelle_domaine_professionel": "Edition et communication"
+ },
+ {
+   "code_rome": "E1102",
+   "libelle_rome": "Ecriture d''ouvrages, de livres",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E11",
+   "libelle_domaine_professionel": "Edition et communication"
+ },
+ {
+   "code_rome": "E1103",
+   "libelle_rome": "Communication",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E11",
+   "libelle_domaine_professionel": "Edition et communication"
+ },
+ {
+   "code_rome": "E1104",
+   "libelle_rome": "Conception de contenus multimédias",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E11",
+   "libelle_domaine_professionel": "Edition et communication"
+ },
+ {
+   "code_rome": "E1105",
+   "libelle_rome": "Coordination d''édition",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E11",
+   "libelle_domaine_professionel": "Edition et communication"
+ },
+ {
+   "code_rome": "E1106",
+   "libelle_rome": "Journalisme et information média",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E11",
+   "libelle_domaine_professionel": "Edition et communication"
+ },
+ {
+   "code_rome": "E1107",
+   "libelle_rome": "Organisation d''évènementiel",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E11",
+   "libelle_domaine_professionel": "Edition et communication"
+ },
+ {
+   "code_rome": "E1108",
+   "libelle_rome": "Traduction, interprétariat",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E11",
+   "libelle_domaine_professionel": "Edition et communication"
+ },
+ {
+   "code_rome": "E1201",
+   "libelle_rome": "Photographie",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E12",
+   "libelle_domaine_professionel": "Images et sons"
+ },
+ {
+   "code_rome": "E1202",
+   "libelle_rome": "Production en laboratoire cinématographique",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E12",
+   "libelle_domaine_professionel": "Images et sons"
+ },
+ {
+   "code_rome": "E1203",
+   "libelle_rome": "Production en laboratoire photographique",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E12",
+   "libelle_domaine_professionel": "Images et sons"
+ },
+ {
+   "code_rome": "E1204",
+   "libelle_rome": "Projection cinéma",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E12",
+   "libelle_domaine_professionel": "Images et sons"
+ },
+ {
+   "code_rome": "E1205",
+   "libelle_rome": "Réalisation de contenus multimédias",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E12",
+   "libelle_domaine_professionel": "Images et sons"
+ },
+ {
+   "code_rome": "E1301",
+   "libelle_rome": "Conduite de machines d''impression",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E13",
+   "libelle_domaine_professionel": "Industries graphiques"
+ },
+ {
+   "code_rome": "E1302",
+   "libelle_rome": "Conduite de machines de façonnage routage",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E13",
+   "libelle_domaine_professionel": "Industries graphiques"
+ },
+ {
+   "code_rome": "E1303",
+   "libelle_rome": "Encadrement des industries graphiques",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E13",
+   "libelle_domaine_professionel": "Industries graphiques"
+ },
+ {
+   "code_rome": "E1304",
+   "libelle_rome": "Façonnage et routage",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E13",
+   "libelle_domaine_professionel": "Industries graphiques"
+ },
+ {
+   "code_rome": "E1305",
+   "libelle_rome": "Préparation et correction en édition et presse",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E13",
+   "libelle_domaine_professionel": "Industries graphiques"
+ },
+ {
+   "code_rome": "E1306",
+   "libelle_rome": "Prépresse",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E13",
+   "libelle_domaine_professionel": "Industries graphiques"
+ },
+ {
+   "code_rome": "E1307",
+   "libelle_rome": "Reprographie",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E13",
+   "libelle_domaine_professionel": "Industries graphiques"
+ },
+ {
+   "code_rome": "E1308",
+   "libelle_rome": "Intervention technique en industrie graphique",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E13",
+   "libelle_domaine_professionel": "Industries graphiques"
+ },
+ {
+   "code_rome": "E1401",
+   "libelle_rome": "Développement et promotion publicitaire",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E14",
+   "libelle_domaine_professionel": "Publicité"
+ },
+ {
+   "code_rome": "E1402",
+   "libelle_rome": "Élaboration de plan média",
+   "code_grand_domaine": "E",
+   "libelle_grand_domaine": "Communication, Média et Multimédia",
+   "code_domaine_professionel": "E14",
+   "libelle_domaine_professionel": "Publicité"
+ },
+ {
+   "code_rome": "F1101",
+   "libelle_rome": "Architecture du BTP et du paysage",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F11",
+   "libelle_domaine_professionel": "Conception et études"
+ },
+ {
+   "code_rome": "F1102",
+   "libelle_rome": "Conception - aménagement d''espaces intérieurs",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F11",
+   "libelle_domaine_professionel": "Conception et études"
+ },
+ {
+   "code_rome": "F1103",
+   "libelle_rome": "Contrôle et diagnostic technique du bâtiment",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F11",
+   "libelle_domaine_professionel": "Conception et études"
+ },
+ {
+   "code_rome": "F1104",
+   "libelle_rome": "Dessin BTP et paysage",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F11",
+   "libelle_domaine_professionel": "Conception et études"
+ },
+ {
+   "code_rome": "F1105",
+   "libelle_rome": "Études géologiques",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F11",
+   "libelle_domaine_professionel": "Conception et études"
+ },
+ {
+   "code_rome": "F1106",
+   "libelle_rome": "Ingénierie et études du BTP",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F11",
+   "libelle_domaine_professionel": "Conception et études"
+ },
+ {
+   "code_rome": "F1107",
+   "libelle_rome": "Mesures topographiques",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F11",
+   "libelle_domaine_professionel": "Conception et études"
+ },
+ {
+   "code_rome": "F1108",
+   "libelle_rome": "Métré de la construction",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F11",
+   "libelle_domaine_professionel": "Conception et études"
+ },
+ {
+   "code_rome": "F1201",
+   "libelle_rome": "Conduite de travaux du BTP et de travaux paysagers",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F12",
+   "libelle_domaine_professionel": "Conduite et encadrement de chantier - travaux"
+ },
+ {
+   "code_rome": "F1202",
+   "libelle_rome": "Direction de chantier du BTP",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F12",
+   "libelle_domaine_professionel": "Conduite et encadrement de chantier - travaux"
+ },
+ {
+   "code_rome": "F1203",
+   "libelle_rome": "Direction et ingénierie d''exploitation de gisements et de carrières",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F12",
+   "libelle_domaine_professionel": "Conduite et encadrement de chantier - travaux"
+ },
+ {
+   "code_rome": "F1204",
+   "libelle_rome": "Qualité Sécurité Environnement et protection santé du BTP",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F12",
+   "libelle_domaine_professionel": "Conduite et encadrement de chantier - travaux"
+ },
+ {
+   "code_rome": "F1301",
+   "libelle_rome": "Conduite de grue",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F13",
+   "libelle_domaine_professionel": "Engins de chantier"
+ },
+ {
+   "code_rome": "F1302",
+   "libelle_rome": "Conduite d''engins de terrassement et de carrière",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F13",
+   "libelle_domaine_professionel": "Engins de chantier"
+ },
+ {
+   "code_rome": "F1401",
+   "libelle_rome": "Extraction liquide et gazeuse",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F14",
+   "libelle_domaine_professionel": "Extraction"
+ },
+ {
+   "code_rome": "F1402",
+   "libelle_rome": "Extraction solide",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F14",
+   "libelle_domaine_professionel": "Extraction"
+ },
+ {
+   "code_rome": "F1501",
+   "libelle_rome": "Montage de structures et de charpentes bois",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F15",
+   "libelle_domaine_professionel": "Montage de structures"
+ },
+ {
+   "code_rome": "F1502",
+   "libelle_rome": "Montage de structures métalliques",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F15",
+   "libelle_domaine_professionel": "Montage de structures"
+ },
+ {
+   "code_rome": "F1503",
+   "libelle_rome": "Réalisation - installation d''ossatures bois",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F15",
+   "libelle_domaine_professionel": "Montage de structures"
+ },
+ {
+   "code_rome": "F1601",
+   "libelle_rome": "Application et décoration en plâtre, stuc et staff",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F16",
+   "libelle_domaine_professionel": "Second oeuvre"
+ },
+ {
+   "code_rome": "F1602",
+   "libelle_rome": "Électricité bâtiment",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F16",
+   "libelle_domaine_professionel": "Second oeuvre"
+ },
+ {
+   "code_rome": "F1603",
+   "libelle_rome": "Installation d''équipements sanitaires et thermiques",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F16",
+   "libelle_domaine_professionel": "Second oeuvre"
+ },
+ {
+   "code_rome": "F1604",
+   "libelle_rome": "Montage d''agencements",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F16",
+   "libelle_domaine_professionel": "Second oeuvre"
+ },
+ {
+   "code_rome": "F1605",
+   "libelle_rome": "Montage de réseaux électriques et télécoms",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F16",
+   "libelle_domaine_professionel": "Second oeuvre"
+ },
+ {
+   "code_rome": "F1606",
+   "libelle_rome": "Peinture en bâtiment",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F16",
+   "libelle_domaine_professionel": "Second oeuvre"
+ },
+ {
+   "code_rome": "F1607",
+   "libelle_rome": "Pose de fermetures menuisées",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F16",
+   "libelle_domaine_professionel": "Second oeuvre"
+ },
+ {
+   "code_rome": "F1608",
+   "libelle_rome": "Pose de revêtements rigides",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F16",
+   "libelle_domaine_professionel": "Second oeuvre"
+ },
+ {
+   "code_rome": "F1609",
+   "libelle_rome": "Pose de revêtements souples",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F16",
+   "libelle_domaine_professionel": "Second oeuvre"
+ },
+ {
+   "code_rome": "F1610",
+   "libelle_rome": "Pose et restauration de couvertures",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F16",
+   "libelle_domaine_professionel": "Second oeuvre"
+ },
+ {
+   "code_rome": "F1611",
+   "libelle_rome": "Réalisation et restauration de façades",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F16",
+   "libelle_domaine_professionel": "Second oeuvre"
+ },
+ {
+   "code_rome": "F1612",
+   "libelle_rome": "Taille et décoration de pierres",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F16",
+   "libelle_domaine_professionel": "Second oeuvre"
+ },
+ {
+   "code_rome": "F1613",
+   "libelle_rome": "Travaux d''étanchéité et d''isolation",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F16",
+   "libelle_domaine_professionel": "Second oeuvre"
+ },
+ {
+   "code_rome": "F1701",
+   "libelle_rome": "Construction en béton",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F17",
+   "libelle_domaine_professionel": "Travaux et gros oeuvre"
+ },
+ {
+   "code_rome": "F1702",
+   "libelle_rome": "Construction de routes et voies",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F17",
+   "libelle_domaine_professionel": "Travaux et gros oeuvre"
+ },
+ {
+   "code_rome": "F1703",
+   "libelle_rome": "Maçonnerie",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F17",
+   "libelle_domaine_professionel": "Travaux et gros oeuvre"
+ },
+ {
+   "code_rome": "F1704",
+   "libelle_rome": "Préparation du gros oeuvre et des travaux publics",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F17",
+   "libelle_domaine_professionel": "Travaux et gros oeuvre"
+ },
+ {
+   "code_rome": "F1705",
+   "libelle_rome": "Pose de canalisations",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F17",
+   "libelle_domaine_professionel": "Travaux et gros oeuvre"
+ },
+ {
+   "code_rome": "F1706",
+   "libelle_rome": "Préfabrication en béton industriel",
+   "code_grand_domaine": "F",
+   "libelle_grand_domaine": "Construction, Bâtiment et Travaux publics",
+   "code_domaine_professionel": "F17",
+   "libelle_domaine_professionel": "Travaux et gros oeuvre"
+ },
+ {
+   "code_rome": "G1101",
+   "libelle_rome": "Accueil touristique",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G11",
+   "libelle_domaine_professionel": "Accueil et promotion touristique"
+ },
+ {
+   "code_rome": "G1102",
+   "libelle_rome": "Promotion du tourisme local",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G11",
+   "libelle_domaine_professionel": "Accueil et promotion touristique"
+ },
+ {
+   "code_rome": "G1201",
+   "libelle_rome": "Accompagnement de voyages, d''activités culturelles ou sportives",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G12",
+   "libelle_domaine_professionel": "Animation d''activités de loisirs"
+ },
+ {
+   "code_rome": "G1202",
+   "libelle_rome": "Animation d''activités culturelles ou ludiques",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G12",
+   "libelle_domaine_professionel": "Animation d''activités de loisirs"
+ },
+ {
+   "code_rome": "G1203",
+   "libelle_rome": "Animation de loisirs auprès d''enfants ou d''adolescents",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G12",
+   "libelle_domaine_professionel": "Animation d''activités de loisirs"
+ },
+ {
+   "code_rome": "G1204",
+   "libelle_rome": "Éducation en activités sportives",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G12",
+   "libelle_domaine_professionel": "Animation d''activités de loisirs"
+ },
+ {
+   "code_rome": "G1205",
+   "libelle_rome": "Personnel d''attractions ou de structures de loisirs",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G12",
+   "libelle_domaine_professionel": "Animation d''activités de loisirs"
+ },
+ {
+   "code_rome": "G1206",
+   "libelle_rome": "Personnel technique des jeux",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G12",
+   "libelle_domaine_professionel": "Animation d''activités de loisirs"
+ },
+ {
+   "code_rome": "G1301",
+   "libelle_rome": "Conception de produits touristiques",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G13",
+   "libelle_domaine_professionel": "Conception, commercialisation et vente de produits touristiques"
+ },
+ {
+   "code_rome": "G1302",
+   "libelle_rome": "Optimisation de produits touristiques",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G13",
+   "libelle_domaine_professionel": "Conception, commercialisation et vente de produits touristiques"
+ },
+ {
+   "code_rome": "G1303",
+   "libelle_rome": "Vente de voyages",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G13",
+   "libelle_domaine_professionel": "Conception, commercialisation et vente de produits touristiques"
+ },
+ {
+   "code_rome": "G1401",
+   "libelle_rome": "Assistance de direction d''hôtel-restaurant",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G14",
+   "libelle_domaine_professionel": "Gestion et direction"
+ },
+ {
+   "code_rome": "G1402",
+   "libelle_rome": "Management d''hôtel-restaurant",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G14",
+   "libelle_domaine_professionel": "Gestion et direction"
+ },
+ {
+   "code_rome": "G1403",
+   "libelle_rome": "Gestion de structure de loisirs ou d''hébergement touristique",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G14",
+   "libelle_domaine_professionel": "Gestion et direction"
+ },
+ {
+   "code_rome": "G1404",
+   "libelle_rome": "Management d''établissement de restauration collective",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G14",
+   "libelle_domaine_professionel": "Gestion et direction"
+ },
+ {
+   "code_rome": "G1501",
+   "libelle_rome": "Personnel d''étage",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G15",
+   "libelle_domaine_professionel": "Personnel d''étage en hôtellerie"
+ },
+ {
+   "code_rome": "G1502",
+   "libelle_rome": "Personnel polyvalent d''hôtellerie",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G15",
+   "libelle_domaine_professionel": "Personnel d''étage en hôtellerie"
+ },
+ {
+   "code_rome": "G1503",
+   "libelle_rome": "Management du personnel d''étage",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G15",
+   "libelle_domaine_professionel": "Personnel d''étage en hôtellerie"
+ },
+ {
+   "code_rome": "G1601",
+   "libelle_rome": "Management du personnel de cuisine",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G16",
+   "libelle_domaine_professionel": "Production culinaire"
+ },
+ {
+   "code_rome": "G1602",
+   "libelle_rome": "Personnel de cuisine",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G16",
+   "libelle_domaine_professionel": "Production culinaire"
+ },
+ {
+   "code_rome": "G1603",
+   "libelle_rome": "Personnel polyvalent en restauration",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G16",
+   "libelle_domaine_professionel": "Production culinaire"
+ },
+ {
+   "code_rome": "G1604",
+   "libelle_rome": "Fabrication de crêpes ou pizzas",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G16",
+   "libelle_domaine_professionel": "Production culinaire"
+ },
+ {
+   "code_rome": "G1605",
+   "libelle_rome": "Plonge en restauration",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G16",
+   "libelle_domaine_professionel": "Production culinaire"
+ },
+ {
+   "code_rome": "G1701",
+   "libelle_rome": "Conciergerie en hôtellerie",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G17",
+   "libelle_domaine_professionel": "Accueil en hôtellerie"
+ },
+ {
+   "code_rome": "G1702",
+   "libelle_rome": "Personnel du hall",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G17",
+   "libelle_domaine_professionel": "Accueil en hôtellerie"
+ },
+ {
+   "code_rome": "G1703",
+   "libelle_rome": "Réception en hôtellerie",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G17",
+   "libelle_domaine_professionel": "Accueil en hôtellerie"
+ },
+ {
+   "code_rome": "G1801",
+   "libelle_rome": "Café, bar brasserie",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G18",
+   "libelle_domaine_professionel": "Service"
+ },
+ {
+   "code_rome": "G1802",
+   "libelle_rome": "Management du service en restauration",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G18",
+   "libelle_domaine_professionel": "Service"
+ },
+ {
+   "code_rome": "G1803",
+   "libelle_rome": "Service en restauration",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G18",
+   "libelle_domaine_professionel": "Service"
+ },
+ {
+   "code_rome": "G1804",
+   "libelle_rome": "Sommellerie",
+   "code_grand_domaine": "G",
+   "libelle_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+   "code_domaine_professionel": "G18",
+   "libelle_domaine_professionel": "Service"
+ },
+ {
+   "code_rome": "H1101",
+   "libelle_rome": "Assistance et support technique client",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H11",
+   "libelle_domaine_professionel": "Affaires et support technique client"
+ },
+ {
+   "code_rome": "H1102",
+   "libelle_rome": "Management et ingénierie d''affaires",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H11",
+   "libelle_domaine_professionel": "Affaires et support technique client"
+ },
+ {
+   "code_rome": "H1201",
+   "libelle_rome": "Expertise technique couleur en industrie",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H12",
+   "libelle_domaine_professionel": "Conception, recherche, études et développement"
+ },
+ {
+   "code_rome": "H1202",
+   "libelle_rome": "Conception et dessin de produits électriques et électroniques",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H12",
+   "libelle_domaine_professionel": "Conception, recherche, études et développement"
+ },
+ {
+   "code_rome": "H1203",
+   "libelle_rome": "Conception et dessin produits mécaniques",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H12",
+   "libelle_domaine_professionel": "Conception, recherche, études et développement"
+ },
+ {
+   "code_rome": "H1204",
+   "libelle_rome": "Design industriel",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H12",
+   "libelle_domaine_professionel": "Conception, recherche, études et développement"
+ },
+ {
+   "code_rome": "H1205",
+   "libelle_rome": "Études - modèles en industrie des matériaux souples",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H12",
+   "libelle_domaine_professionel": "Conception, recherche, études et développement"
+ },
+ {
+   "code_rome": "H1206",
+   "libelle_rome": "Management et ingénierie études, recherche et développement industriel",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H12",
+   "libelle_domaine_professionel": "Conception, recherche, études et développement"
+ },
+ {
+   "code_rome": "H1207",
+   "libelle_rome": "Rédaction technique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H12",
+   "libelle_domaine_professionel": "Conception, recherche, études et développement"
+ },
+ {
+   "code_rome": "H1208",
+   "libelle_rome": "Intervention technique en études et conception en automatisme",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H12",
+   "libelle_domaine_professionel": "Conception, recherche, études et développement"
+ },
+ {
+   "code_rome": "H1209",
+   "libelle_rome": "Intervention technique en études et développement électronique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H12",
+   "libelle_domaine_professionel": "Conception, recherche, études et développement"
+ },
+ {
+   "code_rome": "H1210",
+   "libelle_rome": "Intervention technique en études, recherche et développement",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H12",
+   "libelle_domaine_professionel": "Conception, recherche, études et développement"
+ },
+ {
+   "code_rome": "H1301",
+   "libelle_rome": "Inspection de conformité",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H13",
+   "libelle_domaine_professionel": "Hygiène Sécurité Environnement -HSE- industriels"
+ },
+ {
+   "code_rome": "H1302",
+   "libelle_rome": "Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H13",
+   "libelle_domaine_professionel": "Hygiène Sécurité Environnement -HSE- industriels"
+ },
+ {
+   "code_rome": "H1303",
+   "libelle_rome": "Intervention technique en Hygiène Sécurité Environnement -HSE- industriel",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H13",
+   "libelle_domaine_professionel": "Hygiène Sécurité Environnement -HSE- industriels"
+ },
+ {
+   "code_rome": "H1401",
+   "libelle_rome": "Management et ingénierie gestion industrielle et logistique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H14",
+   "libelle_domaine_professionel": "Méthodes et gestion industrielles"
+ },
+ {
+   "code_rome": "H1402",
+   "libelle_rome": "Management et ingénierie méthodes et industrialisation",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H14",
+   "libelle_domaine_professionel": "Méthodes et gestion industrielles"
+ },
+ {
+   "code_rome": "H1403",
+   "libelle_rome": "Intervention technique en gestion industrielle et logistique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H14",
+   "libelle_domaine_professionel": "Méthodes et gestion industrielles"
+ },
+ {
+   "code_rome": "H1404",
+   "libelle_rome": "Intervention technique en méthodes et industrialisation",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H14",
+   "libelle_domaine_professionel": "Méthodes et gestion industrielles"
+ },
+ {
+   "code_rome": "H1501",
+   "libelle_rome": "Direction de laboratoire d''analyse industrielle",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H15",
+   "libelle_domaine_professionel": "Qualité et analyses industrielles"
+ },
+ {
+   "code_rome": "H1502",
+   "libelle_rome": "Management et ingénierie qualité industrielle",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H15",
+   "libelle_domaine_professionel": "Qualité et analyses industrielles"
+ },
+ {
+   "code_rome": "H1503",
+   "libelle_rome": "Intervention technique en laboratoire d''analyse industrielle",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H15",
+   "libelle_domaine_professionel": "Qualité et analyses industrielles"
+ },
+ {
+   "code_rome": "H1504",
+   "libelle_rome": "Intervention technique en contrôle essai qualité en électricité et électronique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H15",
+   "libelle_domaine_professionel": "Qualité et analyses industrielles"
+ },
+ {
+   "code_rome": "H1505",
+   "libelle_rome": "Intervention technique en formulation et analyse sensorielle",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H15",
+   "libelle_domaine_professionel": "Qualité et analyses industrielles"
+ },
+ {
+   "code_rome": "H1506",
+   "libelle_rome": "Intervention technique qualité en mécanique et travail des métaux",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H15",
+   "libelle_domaine_professionel": "Qualité et analyses industrielles"
+ },
+ {
+   "code_rome": "H2101",
+   "libelle_rome": "Abattage et découpe des viandes",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H21",
+   "libelle_domaine_professionel": "Alimentaire"
+ },
+ {
+   "code_rome": "H2102",
+   "libelle_rome": "Conduite d''équipement de production alimentaire",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H21",
+   "libelle_domaine_professionel": "Alimentaire"
+ },
+ {
+   "code_rome": "H2201",
+   "libelle_rome": "Assemblage d''ouvrages en bois",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H22",
+   "libelle_domaine_professionel": "Bois"
+ },
+ {
+   "code_rome": "H2202",
+   "libelle_rome": "Conduite d''équipement de fabrication de l''ameublement et du bois",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H22",
+   "libelle_domaine_professionel": "Bois"
+ },
+ {
+   "code_rome": "H2203",
+   "libelle_rome": "Conduite d''installation de production de panneaux bois",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H22",
+   "libelle_domaine_professionel": "Bois"
+ },
+ {
+   "code_rome": "H2204",
+   "libelle_rome": "Encadrement des industries de l''ameublement et du bois",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H22",
+   "libelle_domaine_professionel": "Bois"
+ },
+ {
+   "code_rome": "H2205",
+   "libelle_rome": "Première transformation de bois d''oeuvre",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H22",
+   "libelle_domaine_professionel": "Bois"
+ },
+ {
+   "code_rome": "H2206",
+   "libelle_rome": "Réalisation de menuiserie bois et tonnellerie",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H22",
+   "libelle_domaine_professionel": "Bois"
+ },
+ {
+   "code_rome": "H2207",
+   "libelle_rome": "Réalisation de meubles en bois",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H22",
+   "libelle_domaine_professionel": "Bois"
+ },
+ {
+   "code_rome": "H2208",
+   "libelle_rome": "Réalisation d''ouvrages décoratifs en bois",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H22",
+   "libelle_domaine_professionel": "Bois"
+ },
+ {
+   "code_rome": "H2209",
+   "libelle_rome": "Intervention technique en ameublement et bois",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H22",
+   "libelle_domaine_professionel": "Bois"
+ },
+ {
+   "code_rome": "H2301",
+   "libelle_rome": "Conduite d''équipement de production chimique ou pharmaceutique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H23",
+   "libelle_domaine_professionel": "Chimie et pharmacie"
+ },
+ {
+   "code_rome": "H2401",
+   "libelle_rome": "Assemblage - montage d''articles en cuirs, peaux",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2402",
+   "libelle_rome": "Assemblage - montage de vêtements et produits textiles",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2403",
+   "libelle_rome": "Conduite de machine de fabrication de produits textiles",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2404",
+   "libelle_rome": "Conduite de machine de production et transformation des fils",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2405",
+   "libelle_rome": "Conduite de machine de textiles nontissés",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2406",
+   "libelle_rome": "Conduite de machine de traitement textile",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2407",
+   "libelle_rome": "Conduite de machine de transformation et de finition des cuirs et peaux",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2408",
+   "libelle_rome": "Conduite de machine d''impression textile",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2409",
+   "libelle_rome": "Coupe cuir, textile et matériaux souples",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2410",
+   "libelle_rome": "Mise en forme, repassage et finitions en industrie textile",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2411",
+   "libelle_rome": "Montage de prototype cuir et matériaux souples",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2412",
+   "libelle_rome": "Patronnage - gradation",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2413",
+   "libelle_rome": "Préparation de fils, montage de métiers textiles",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2414",
+   "libelle_rome": "Préparation et finition d''articles en cuir et matériaux souples",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2415",
+   "libelle_rome": "Contrôle en industrie du cuir et du textile",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H24",
+   "libelle_domaine_professionel": "Cuir et textile"
+ },
+ {
+   "code_rome": "H2501",
+   "libelle_rome": "Encadrement de production de matériel électrique et électronique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H25",
+   "libelle_domaine_professionel": "Direction, encadrement et pilotage de fabrication et production industrielles"
+ },
+ {
+   "code_rome": "H2502",
+   "libelle_rome": "Management et ingénierie de production",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H25",
+   "libelle_domaine_professionel": "Direction, encadrement et pilotage de fabrication et production industrielles"
+ },
+ {
+   "code_rome": "H2503",
+   "libelle_rome": "Pilotage d''unité élémentaire de production mécanique ou de travail des métaux",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H25",
+   "libelle_domaine_professionel": "Direction, encadrement et pilotage de fabrication et production industrielles"
+ },
+ {
+   "code_rome": "H2504",
+   "libelle_rome": "Encadrement d''équipe en industrie de transformation",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H25",
+   "libelle_domaine_professionel": "Direction, encadrement et pilotage de fabrication et production industrielles"
+ },
+ {
+   "code_rome": "H2505",
+   "libelle_rome": "Encadrement d''équipe ou d''atelier en matériaux souples",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H25",
+   "libelle_domaine_professionel": "Direction, encadrement et pilotage de fabrication et production industrielles"
+ },
+ {
+   "code_rome": "H2601",
+   "libelle_rome": "Bobinage électrique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H26",
+   "libelle_domaine_professionel": "Electronique et électricité"
+ },
+ {
+   "code_rome": "H2602",
+   "libelle_rome": "Câblage électrique et électromécanique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H26",
+   "libelle_domaine_professionel": "Electronique et électricité"
+ },
+ {
+   "code_rome": "H2603",
+   "libelle_rome": "Conduite d''installation automatisée de production électrique, électronique et microélectronique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H26",
+   "libelle_domaine_professionel": "Electronique et électricité"
+ },
+ {
+   "code_rome": "H2604",
+   "libelle_rome": "Montage de produits électriques et électroniques",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H26",
+   "libelle_domaine_professionel": "Electronique et électricité"
+ },
+ {
+   "code_rome": "H2605",
+   "libelle_rome": "Montage et câblage électronique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H26",
+   "libelle_domaine_professionel": "Electronique et électricité"
+ },
+ {
+   "code_rome": "H2701",
+   "libelle_rome": "Pilotage d''installation énergétique et pétrochimique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H27",
+   "libelle_domaine_professionel": "Energie"
+ },
+ {
+   "code_rome": "H2801",
+   "libelle_rome": "Conduite d''équipement de transformation du verre",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H28",
+   "libelle_domaine_professionel": "Matériaux de construction, céramique et verre"
+ },
+ {
+   "code_rome": "H2802",
+   "libelle_rome": "Conduite d''installation de production de matériaux de construction",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H28",
+   "libelle_domaine_professionel": "Matériaux de construction, céramique et verre"
+ },
+ {
+   "code_rome": "H2803",
+   "libelle_rome": "Façonnage et émaillage en industrie céramique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H28",
+   "libelle_domaine_professionel": "Matériaux de construction, céramique et verre"
+ },
+ {
+   "code_rome": "H2804",
+   "libelle_rome": "Pilotage de centrale à béton prêt à l''emploi, ciment, enrobés et granulats",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H28",
+   "libelle_domaine_professionel": "Matériaux de construction, céramique et verre"
+ },
+ {
+   "code_rome": "H2805",
+   "libelle_rome": "Pilotage d''installation de production verrière",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H28",
+   "libelle_domaine_professionel": "Matériaux de construction, céramique et verre"
+ },
+ {
+   "code_rome": "H2901",
+   "libelle_rome": "Ajustement et montage de fabrication",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H29",
+   "libelle_domaine_professionel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_rome": "H2902",
+   "libelle_rome": "Chaudronnerie - tôlerie",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H29",
+   "libelle_domaine_professionel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_rome": "H2903",
+   "libelle_rome": "Conduite d''équipement d''usinage",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H29",
+   "libelle_domaine_professionel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_rome": "H2904",
+   "libelle_rome": "Conduite d''équipement de déformation des métaux",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H29",
+   "libelle_domaine_professionel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_rome": "H2905",
+   "libelle_rome": "Conduite d''équipement de formage et découpage des matériaux",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H29",
+   "libelle_domaine_professionel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_rome": "H2906",
+   "libelle_rome": "Conduite d''installation automatisée ou robotisée de fabrication mécanique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H29",
+   "libelle_domaine_professionel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_rome": "H2907",
+   "libelle_rome": "Conduite d''installation de production des métaux",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H29",
+   "libelle_domaine_professionel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_rome": "H2908",
+   "libelle_rome": "Modelage de matériaux non métalliques",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H29",
+   "libelle_domaine_professionel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_rome": "H2909",
+   "libelle_rome": "Montage-assemblage mécanique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H29",
+   "libelle_domaine_professionel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_rome": "H2910",
+   "libelle_rome": "Moulage sable",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H29",
+   "libelle_domaine_professionel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_rome": "H2911",
+   "libelle_rome": "Réalisation de structures métalliques",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H29",
+   "libelle_domaine_professionel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_rome": "H2912",
+   "libelle_rome": "Réglage d''équipement de production industrielle",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H29",
+   "libelle_domaine_professionel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_rome": "H2913",
+   "libelle_rome": "Soudage manuel",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H29",
+   "libelle_domaine_professionel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_rome": "H2914",
+   "libelle_rome": "Réalisation et montage en tuyauterie",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H29",
+   "libelle_domaine_professionel": "Mécanique, travail des métaux et outillage"
+ },
+ {
+   "code_rome": "H3101",
+   "libelle_rome": "Conduite d''équipement de fabrication de papier ou de carton",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H31",
+   "libelle_domaine_professionel": "Papier et carton"
+ },
+ {
+   "code_rome": "H3102",
+   "libelle_rome": "Conduite d''installation de pâte à papier",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H31",
+   "libelle_domaine_professionel": "Papier et carton"
+ },
+ {
+   "code_rome": "H3201",
+   "libelle_rome": "Conduite d''équipement de formage des plastiques et caoutchoucs",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H32",
+   "libelle_domaine_professionel": "Plastique, caoutchouc"
+ },
+ {
+   "code_rome": "H3202",
+   "libelle_rome": "Réglage d''équipement de formage des plastiques et caoutchoucs",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H32",
+   "libelle_domaine_professionel": "Plastique, caoutchouc"
+ },
+ {
+   "code_rome": "H3203",
+   "libelle_rome": "Fabrication de pièces en matériaux composites",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H32",
+   "libelle_domaine_professionel": "Plastique, caoutchouc"
+ },
+ {
+   "code_rome": "H3301",
+   "libelle_rome": "Conduite d''équipement de conditionnement",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H33",
+   "libelle_domaine_professionel": "Préparation et conditionnement"
+ },
+ {
+   "code_rome": "H3302",
+   "libelle_rome": "Opérations manuelles d''assemblage, tri ou emballage",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H33",
+   "libelle_domaine_professionel": "Préparation et conditionnement"
+ },
+ {
+   "code_rome": "H3303",
+   "libelle_rome": "Préparation de matières et produits industriels (broyage, mélange, ...)",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H33",
+   "libelle_domaine_professionel": "Préparation et conditionnement"
+ },
+ {
+   "code_rome": "H3401",
+   "libelle_rome": "Conduite de traitement d''abrasion de surface",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H34",
+   "libelle_domaine_professionel": "Traitements thermiques et traitements de surfaces"
+ },
+ {
+   "code_rome": "H3402",
+   "libelle_rome": "Conduite de traitement par dépôt de surface",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H34",
+   "libelle_domaine_professionel": "Traitements thermiques et traitements de surfaces"
+ },
+ {
+   "code_rome": "H3403",
+   "libelle_rome": "Conduite de traitement thermique",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H34",
+   "libelle_domaine_professionel": "Traitements thermiques et traitements de surfaces"
+ },
+ {
+   "code_rome": "H3404",
+   "libelle_rome": "Peinture industrielle",
+   "code_grand_domaine": "H",
+   "libelle_grand_domaine": "Industrie",
+   "code_domaine_professionel": "H34",
+   "libelle_domaine_professionel": "Traitements thermiques et traitements de surfaces"
+ },
+ {
+   "code_rome": "I1101",
+   "libelle_rome": "Direction et ingénierie en entretien infrastructure et bâti",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I11",
+   "libelle_domaine_professionel": "Encadrement"
+ },
+ {
+   "code_rome": "I1102",
+   "libelle_rome": "Management et ingénierie de maintenance industrielle",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I11",
+   "libelle_domaine_professionel": "Encadrement"
+ },
+ {
+   "code_rome": "I1103",
+   "libelle_rome": "Supervision d''entretien et gestion de véhicules",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I11",
+   "libelle_domaine_professionel": "Encadrement"
+ },
+ {
+   "code_rome": "I1201",
+   "libelle_rome": "Entretien d''affichage et mobilier urbain",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I12",
+   "libelle_domaine_professionel": "Entretien technique"
+ },
+ {
+   "code_rome": "I1202",
+   "libelle_rome": "Entretien et surveillance du tracé routier",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I12",
+   "libelle_domaine_professionel": "Entretien technique"
+ },
+ {
+   "code_rome": "I1203",
+   "libelle_rome": "Maintenance des bâtiments et des locaux",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I12",
+   "libelle_domaine_professionel": "Entretien technique"
+ },
+ {
+   "code_rome": "I1301",
+   "libelle_rome": "Installation et maintenance d''ascenseurs",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I13",
+   "libelle_domaine_professionel": "Equipements de production, équipements collectifs"
+ },
+ {
+   "code_rome": "I1302",
+   "libelle_rome": "Installation et maintenance d''automatismes",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I13",
+   "libelle_domaine_professionel": "Equipements de production, équipements collectifs"
+ },
+ {
+   "code_rome": "I1303",
+   "libelle_rome": "Installation et maintenance de distributeurs automatiques",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I13",
+   "libelle_domaine_professionel": "Equipements de production, équipements collectifs"
+ },
+ {
+   "code_rome": "I1304",
+   "libelle_rome": "Installation et maintenance d''équipements industriels et d''exploitation",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I13",
+   "libelle_domaine_professionel": "Equipements de production, équipements collectifs"
+ },
+ {
+   "code_rome": "I1305",
+   "libelle_rome": "Installation et maintenance électronique",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I13",
+   "libelle_domaine_professionel": "Equipements de production, équipements collectifs"
+ },
+ {
+   "code_rome": "I1306",
+   "libelle_rome": "Installation et maintenance en froid, conditionnement d''air",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I13",
+   "libelle_domaine_professionel": "Equipements de production, équipements collectifs"
+ },
+ {
+   "code_rome": "I1307",
+   "libelle_rome": "Installation et maintenance télécoms et courants faibles",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I13",
+   "libelle_domaine_professionel": "Equipements de production, équipements collectifs"
+ },
+ {
+   "code_rome": "I1308",
+   "libelle_rome": "Maintenance d''installation de chauffage",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I13",
+   "libelle_domaine_professionel": "Equipements de production, équipements collectifs"
+ },
+ {
+   "code_rome": "I1309",
+   "libelle_rome": "Maintenance électrique",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I13",
+   "libelle_domaine_professionel": "Equipements de production, équipements collectifs"
+ },
+ {
+   "code_rome": "I1310",
+   "libelle_rome": "Maintenance mécanique industrielle",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I13",
+   "libelle_domaine_professionel": "Equipements de production, équipements collectifs"
+ },
+ {
+   "code_rome": "I1401",
+   "libelle_rome": "Maintenance informatique et bureautique",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I14",
+   "libelle_domaine_professionel": "Equipements domestiques et informatique"
+ },
+ {
+   "code_rome": "I1402",
+   "libelle_rome": "Réparation de biens électrodomestiques et multimédia",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I14",
+   "libelle_domaine_professionel": "Equipements domestiques et informatique"
+ },
+ {
+   "code_rome": "I1501",
+   "libelle_rome": "Intervention en grande hauteur",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I15",
+   "libelle_domaine_professionel": "Travaux d''accès difficile"
+ },
+ {
+   "code_rome": "I1502",
+   "libelle_rome": "Intervention en milieu subaquatique",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I15",
+   "libelle_domaine_professionel": "Travaux d''accès difficile"
+ },
+ {
+   "code_rome": "I1503",
+   "libelle_rome": "Intervention en milieux et produits nocifs",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I15",
+   "libelle_domaine_professionel": "Travaux d''accès difficile"
+ },
+ {
+   "code_rome": "I1601",
+   "libelle_rome": "Installation et maintenance en nautisme",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I16",
+   "libelle_domaine_professionel": "Véhicules, engins, aéronefs"
+ },
+ {
+   "code_rome": "I1602",
+   "libelle_rome": "Maintenance d''aéronefs",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I16",
+   "libelle_domaine_professionel": "Véhicules, engins, aéronefs"
+ },
+ {
+   "code_rome": "I1603",
+   "libelle_rome": "Maintenance d''engins de chantier, levage, manutention et de machines agricoles",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I16",
+   "libelle_domaine_professionel": "Véhicules, engins, aéronefs"
+ },
+ {
+   "code_rome": "I1604",
+   "libelle_rome": "Mécanique automobile et entretien de véhicules",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I16",
+   "libelle_domaine_professionel": "Véhicules, engins, aéronefs"
+ },
+ {
+   "code_rome": "I1605",
+   "libelle_rome": "Mécanique de marine",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I16",
+   "libelle_domaine_professionel": "Véhicules, engins, aéronefs"
+ },
+ {
+   "code_rome": "I1606",
+   "libelle_rome": "Réparation de carrosserie",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I16",
+   "libelle_domaine_professionel": "Véhicules, engins, aéronefs"
+ },
+ {
+   "code_rome": "I1607",
+   "libelle_rome": "Réparation de cycles, motocycles et motoculteurs de loisirs",
+   "code_grand_domaine": "I",
+   "libelle_grand_domaine": "Installation et Maintenance",
+   "code_domaine_professionel": "I16",
+   "libelle_domaine_professionel": "Véhicules, engins, aéronefs"
+ },
+ {
+   "code_rome": "J1101",
+   "libelle_rome": "Médecine de prévention",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J11",
+   "libelle_domaine_professionel": "Praticiens médicaux"
+ },
+ {
+   "code_rome": "J1102",
+   "libelle_rome": "Médecine généraliste et spécialisée",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J11",
+   "libelle_domaine_professionel": "Praticiens médicaux"
+ },
+ {
+   "code_rome": "J1103",
+   "libelle_rome": "Médecine dentaire",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J11",
+   "libelle_domaine_professionel": "Praticiens médicaux"
+ },
+ {
+   "code_rome": "J1104",
+   "libelle_rome": "Suivi de la grossesse et de l''accouchement",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J11",
+   "libelle_domaine_professionel": "Praticiens médicaux"
+ },
+ {
+   "code_rome": "J1201",
+   "libelle_rome": "Biologie médicale",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J12",
+   "libelle_domaine_professionel": "Praticiens médico-techniques"
+ },
+ {
+   "code_rome": "J1202",
+   "libelle_rome": "Pharmacie",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J12",
+   "libelle_domaine_professionel": "Praticiens médico-techniques"
+ },
+ {
+   "code_rome": "J1301",
+   "libelle_rome": "Personnel polyvalent des services hospitaliers",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J13",
+   "libelle_domaine_professionel": "Professionnels médico-techniques"
+ },
+ {
+   "code_rome": "J1302",
+   "libelle_rome": "Analyses médicales",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J13",
+   "libelle_domaine_professionel": "Professionnels médico-techniques"
+ },
+ {
+   "code_rome": "J1303",
+   "libelle_rome": "Assistance médico-technique",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J13",
+   "libelle_domaine_professionel": "Professionnels médico-techniques"
+ },
+ {
+   "code_rome": "J1304",
+   "libelle_rome": "Aide en puériculture",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J13",
+   "libelle_domaine_professionel": "Professionnels médico-techniques"
+ },
+ {
+   "code_rome": "J1305",
+   "libelle_rome": "Conduite de véhicules sanitaires",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J13",
+   "libelle_domaine_professionel": "Professionnels médico-techniques"
+ },
+ {
+   "code_rome": "J1306",
+   "libelle_rome": "Imagerie médicale",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J13",
+   "libelle_domaine_professionel": "Professionnels médico-techniques"
+ },
+ {
+   "code_rome": "J1307",
+   "libelle_rome": "Préparation en pharmacie",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J13",
+   "libelle_domaine_professionel": "Professionnels médico-techniques"
+ },
+ {
+   "code_rome": "J1401",
+   "libelle_rome": "Audioprothèses",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J14",
+   "libelle_domaine_professionel": "Rééducation et appareillage"
+ },
+ {
+   "code_rome": "J1402",
+   "libelle_rome": "Diététique",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J14",
+   "libelle_domaine_professionel": "Rééducation et appareillage"
+ },
+ {
+   "code_rome": "J1403",
+   "libelle_rome": "Ergothérapie",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J14",
+   "libelle_domaine_professionel": "Rééducation et appareillage"
+ },
+ {
+   "code_rome": "J1404",
+   "libelle_rome": "Kinésithérapie",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J14",
+   "libelle_domaine_professionel": "Rééducation et appareillage"
+ },
+ {
+   "code_rome": "J1405",
+   "libelle_rome": "Optique - lunetterie",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J14",
+   "libelle_domaine_professionel": "Rééducation et appareillage"
+ },
+ {
+   "code_rome": "J1406",
+   "libelle_rome": "Orthophonie",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J14",
+   "libelle_domaine_professionel": "Rééducation et appareillage"
+ },
+ {
+   "code_rome": "J1407",
+   "libelle_rome": "Orthoptique",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J14",
+   "libelle_domaine_professionel": "Rééducation et appareillage"
+ },
+ {
+   "code_rome": "J1408",
+   "libelle_rome": "Ostéopathie et chiropraxie",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J14",
+   "libelle_domaine_professionel": "Rééducation et appareillage"
+ },
+ {
+   "code_rome": "J1409",
+   "libelle_rome": "Pédicurie et podologie",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J14",
+   "libelle_domaine_professionel": "Rééducation et appareillage"
+ },
+ {
+   "code_rome": "J1410",
+   "libelle_rome": "Prothèses dentaires",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J14",
+   "libelle_domaine_professionel": "Rééducation et appareillage"
+ },
+ {
+   "code_rome": "J1411",
+   "libelle_rome": "Prothèses et orthèses",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J14",
+   "libelle_domaine_professionel": "Rééducation et appareillage"
+ },
+ {
+   "code_rome": "J1412",
+   "libelle_rome": "Rééducation en psychomotricité",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J14",
+   "libelle_domaine_professionel": "Rééducation et appareillage"
+ },
+ {
+   "code_rome": "J1501",
+   "libelle_rome": "Soins d''hygiène, de confort du patient",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J15",
+   "libelle_domaine_professionel": "Soins paramédicaux"
+ },
+ {
+   "code_rome": "J1502",
+   "libelle_rome": "Coordination de services médicaux ou paramédicaux",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J15",
+   "libelle_domaine_professionel": "Soins paramédicaux"
+ },
+ {
+   "code_rome": "J1503",
+   "libelle_rome": "Soins infirmiers spécialisés en anesthésie",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J15",
+   "libelle_domaine_professionel": "Soins paramédicaux"
+ },
+ {
+   "code_rome": "J1504",
+   "libelle_rome": "Soins infirmiers spécialisés en bloc opératoire",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J15",
+   "libelle_domaine_professionel": "Soins paramédicaux"
+ },
+ {
+   "code_rome": "J1505",
+   "libelle_rome": "Soins infirmiers spécialisés en prévention",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J15",
+   "libelle_domaine_professionel": "Soins paramédicaux"
+ },
+ {
+   "code_rome": "J1506",
+   "libelle_rome": "Soins infirmiers généralistes",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J15",
+   "libelle_domaine_professionel": "Soins paramédicaux"
+ },
+ {
+   "code_rome": "J1507",
+   "libelle_rome": "Soins infirmiers spécialisés en puériculture",
+   "code_grand_domaine": "J",
+   "libelle_grand_domaine": "Santé",
+   "code_domaine_professionel": "J15",
+   "libelle_domaine_professionel": "Soins paramédicaux"
+ },
+ {
+   "code_rome": "K1101",
+   "libelle_rome": "Accompagnement et médiation familiale",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K11",
+   "libelle_domaine_professionel": "Accompagnement de la personne"
+ },
+ {
+   "code_rome": "K1102",
+   "libelle_rome": "Aide aux bénéficiaires d''une mesure de protection juridique",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K11",
+   "libelle_domaine_professionel": "Accompagnement de la personne"
+ },
+ {
+   "code_rome": "K1103",
+   "libelle_rome": "Développement personnel et bien-être de la personne",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K11",
+   "libelle_domaine_professionel": "Accompagnement de la personne"
+ },
+ {
+   "code_rome": "K1104",
+   "libelle_rome": "Psychologie",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K11",
+   "libelle_domaine_professionel": "Accompagnement de la personne"
+ },
+ {
+   "code_rome": "K1201",
+   "libelle_rome": "Action sociale",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K12",
+   "libelle_domaine_professionel": "Action sociale, socio-éducative et socio-culturelle"
+ },
+ {
+   "code_rome": "K1202",
+   "libelle_rome": "Éducation de jeunes enfants",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K12",
+   "libelle_domaine_professionel": "Action sociale, socio-éducative et socio-culturelle"
+ },
+ {
+   "code_rome": "K1203",
+   "libelle_rome": "Encadrement technique en insertion professionnelle",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K12",
+   "libelle_domaine_professionel": "Action sociale, socio-éducative et socio-culturelle"
+ },
+ {
+   "code_rome": "K1204",
+   "libelle_rome": "Médiation sociale et facilitation de la vie en société",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K12",
+   "libelle_domaine_professionel": "Action sociale, socio-éducative et socio-culturelle"
+ },
+ {
+   "code_rome": "K1205",
+   "libelle_rome": "Information sociale",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K12",
+   "libelle_domaine_professionel": "Action sociale, socio-éducative et socio-culturelle"
+ },
+ {
+   "code_rome": "K1206",
+   "libelle_rome": "Intervention socioculturelle",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K12",
+   "libelle_domaine_professionel": "Action sociale, socio-éducative et socio-culturelle"
+ },
+ {
+   "code_rome": "K1207",
+   "libelle_rome": "Intervention socioéducative",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K12",
+   "libelle_domaine_professionel": "Action sociale, socio-éducative et socio-culturelle"
+ },
+ {
+   "code_rome": "K1301",
+   "libelle_rome": "Accompagnement médicosocial",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K13",
+   "libelle_domaine_professionel": "Aide à la vie quotidienne"
+ },
+ {
+   "code_rome": "K1302",
+   "libelle_rome": "Assistance auprès d''adultes",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K13",
+   "libelle_domaine_professionel": "Aide à la vie quotidienne"
+ },
+ {
+   "code_rome": "K1303",
+   "libelle_rome": "Assistance auprès d''enfants",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K13",
+   "libelle_domaine_professionel": "Aide à la vie quotidienne"
+ },
+ {
+   "code_rome": "K1304",
+   "libelle_rome": "Services domestiques",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K13",
+   "libelle_domaine_professionel": "Aide à la vie quotidienne"
+ },
+ {
+   "code_rome": "K1305",
+   "libelle_rome": "Intervention sociale et familiale",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K13",
+   "libelle_domaine_professionel": "Aide à la vie quotidienne"
+ },
+ {
+   "code_rome": "K1401",
+   "libelle_rome": "Conception et pilotage de la politique des pouvoirs publics",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K14",
+   "libelle_domaine_professionel": "Conception et mise en oeuvre des politiques publiques"
+ },
+ {
+   "code_rome": "K1402",
+   "libelle_rome": "Conseil en Santé Publique",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K14",
+   "libelle_domaine_professionel": "Conception et mise en oeuvre des politiques publiques"
+ },
+ {
+   "code_rome": "K1403",
+   "libelle_rome": "Management de structure de santé, sociale ou pénitentiaire",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K14",
+   "libelle_domaine_professionel": "Conception et mise en oeuvre des politiques publiques"
+ },
+ {
+   "code_rome": "K1404",
+   "libelle_rome": "Mise en oeuvre et pilotage de la politique des pouvoirs publics",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K14",
+   "libelle_domaine_professionel": "Conception et mise en oeuvre des politiques publiques"
+ },
+ {
+   "code_rome": "K1405",
+   "libelle_rome": "Représentation de l''Etat sur le territoire national ou international",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K14",
+   "libelle_domaine_professionel": "Conception et mise en oeuvre des politiques publiques"
+ },
+ {
+   "code_rome": "K1501",
+   "libelle_rome": "Application des règles financières publiques",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K15",
+   "libelle_domaine_professionel": "Contrôle public"
+ },
+ {
+   "code_rome": "K1502",
+   "libelle_rome": "Contrôle et inspection des Affaires Sociales",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K15",
+   "libelle_domaine_professionel": "Contrôle public"
+ },
+ {
+   "code_rome": "K1503",
+   "libelle_rome": "Contrôle et inspection des impôts",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K15",
+   "libelle_domaine_professionel": "Contrôle public"
+ },
+ {
+   "code_rome": "K1504",
+   "libelle_rome": "Contrôle et inspection du Trésor Public",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K15",
+   "libelle_domaine_professionel": "Contrôle public"
+ },
+ {
+   "code_rome": "K1505",
+   "libelle_rome": "Protection des consommateurs et contrôle des échanges commerciaux",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K15",
+   "libelle_domaine_professionel": "Contrôle public"
+ },
+ {
+   "code_rome": "K1601",
+   "libelle_rome": "Gestion de l''information et de la documentation",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K16",
+   "libelle_domaine_professionel": "Culture et gestion documentaire"
+ },
+ {
+   "code_rome": "K1602",
+   "libelle_rome": "Gestion de patrimoine culturel",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K16",
+   "libelle_domaine_professionel": "Culture et gestion documentaire"
+ },
+ {
+   "code_rome": "K1701",
+   "libelle_rome": "Personnel de la Défense",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K17",
+   "libelle_domaine_professionel": "Défense, sécurité publique et secours"
+ },
+ {
+   "code_rome": "K1702",
+   "libelle_rome": "Direction de la sécurité civile et des secours",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K17",
+   "libelle_domaine_professionel": "Défense, sécurité publique et secours"
+ },
+ {
+   "code_rome": "K1703",
+   "libelle_rome": "Direction opérationnelle de la défense",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K17",
+   "libelle_domaine_professionel": "Défense, sécurité publique et secours"
+ },
+ {
+   "code_rome": "K1704",
+   "libelle_rome": "Management de la sécurité publique",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K17",
+   "libelle_domaine_professionel": "Défense, sécurité publique et secours"
+ },
+ {
+   "code_rome": "K1705",
+   "libelle_rome": "Sécurité civile et secours",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K17",
+   "libelle_domaine_professionel": "Défense, sécurité publique et secours"
+ },
+ {
+   "code_rome": "K1706",
+   "libelle_rome": "Sécurité publique",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K17",
+   "libelle_domaine_professionel": "Défense, sécurité publique et secours"
+ },
+ {
+   "code_rome": "K1707",
+   "libelle_rome": "Surveillance municipale",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K17",
+   "libelle_domaine_professionel": "Défense, sécurité publique et secours"
+ },
+ {
+   "code_rome": "K1801",
+   "libelle_rome": "Conseil en emploi et insertion socioprofessionnelle",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K18",
+   "libelle_domaine_professionel": "Développement territorial et emploi"
+ },
+ {
+   "code_rome": "K1802",
+   "libelle_rome": "Développement local",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K18",
+   "libelle_domaine_professionel": "Développement territorial et emploi"
+ },
+ {
+   "code_rome": "K1901",
+   "libelle_rome": "Aide et médiation judiciaire",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K19",
+   "libelle_domaine_professionel": "Droit"
+ },
+ {
+   "code_rome": "K1902",
+   "libelle_rome": "Collaboration juridique",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K19",
+   "libelle_domaine_professionel": "Droit"
+ },
+ {
+   "code_rome": "K1903",
+   "libelle_rome": "Défense et conseil juridique",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K19",
+   "libelle_domaine_professionel": "Droit"
+ },
+ {
+   "code_rome": "K1904",
+   "libelle_rome": "Magistrature",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K19",
+   "libelle_domaine_professionel": "Droit"
+ },
+ {
+   "code_rome": "K2101",
+   "libelle_rome": "Conseil en formation",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K21",
+   "libelle_domaine_professionel": "Formation initiale et continue"
+ },
+ {
+   "code_rome": "K2102",
+   "libelle_rome": "Coordination pédagogique",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K21",
+   "libelle_domaine_professionel": "Formation initiale et continue"
+ },
+ {
+   "code_rome": "K2103",
+   "libelle_rome": "Direction d''établissement et d''enseignement",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K21",
+   "libelle_domaine_professionel": "Formation initiale et continue"
+ },
+ {
+   "code_rome": "K2104",
+   "libelle_rome": "Éducation et surveillance au sein d''établissements d''enseignement",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K21",
+   "libelle_domaine_professionel": "Formation initiale et continue"
+ },
+ {
+   "code_rome": "K2105",
+   "libelle_rome": "Enseignement artistique",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K21",
+   "libelle_domaine_professionel": "Formation initiale et continue"
+ },
+ {
+   "code_rome": "K2106",
+   "libelle_rome": "Enseignement des écoles",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K21",
+   "libelle_domaine_professionel": "Formation initiale et continue"
+ },
+ {
+   "code_rome": "K2107",
+   "libelle_rome": "Enseignement général du second degré",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K21",
+   "libelle_domaine_professionel": "Formation initiale et continue"
+ },
+ {
+   "code_rome": "K2108",
+   "libelle_rome": "Enseignement supérieur",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K21",
+   "libelle_domaine_professionel": "Formation initiale et continue"
+ },
+ {
+   "code_rome": "K2109",
+   "libelle_rome": "Enseignement technique et professionnel",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K21",
+   "libelle_domaine_professionel": "Formation initiale et continue"
+ },
+ {
+   "code_rome": "K2110",
+   "libelle_rome": "Formation en conduite de véhicules",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K21",
+   "libelle_domaine_professionel": "Formation initiale et continue"
+ },
+ {
+   "code_rome": "K2111",
+   "libelle_rome": "Formation professionnelle",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K21",
+   "libelle_domaine_professionel": "Formation initiale et continue"
+ },
+ {
+   "code_rome": "K2112",
+   "libelle_rome": "Orientation scolaire et professionnelle",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K21",
+   "libelle_domaine_professionel": "Formation initiale et continue"
+ },
+ {
+   "code_rome": "K2201",
+   "libelle_rome": "Blanchisserie industrielle",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K22",
+   "libelle_domaine_professionel": "Nettoyage et propreté industriels"
+ },
+ {
+   "code_rome": "K2202",
+   "libelle_rome": "Lavage de vitres",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K22",
+   "libelle_domaine_professionel": "Nettoyage et propreté industriels"
+ },
+ {
+   "code_rome": "K2203",
+   "libelle_rome": "Management et inspection en propreté de locaux",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K22",
+   "libelle_domaine_professionel": "Nettoyage et propreté industriels"
+ },
+ {
+   "code_rome": "K2204",
+   "libelle_rome": "Nettoyage de locaux",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K22",
+   "libelle_domaine_professionel": "Nettoyage et propreté industriels"
+ },
+ {
+   "code_rome": "K2301",
+   "libelle_rome": "Distribution et assainissement d''eau",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K23",
+   "libelle_domaine_professionel": "Propreté et environnement urbain"
+ },
+ {
+   "code_rome": "K2302",
+   "libelle_rome": "Management et inspection en environnement urbain",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K23",
+   "libelle_domaine_professionel": "Propreté et environnement urbain"
+ },
+ {
+   "code_rome": "K2303",
+   "libelle_rome": "Nettoyage des espaces urbains",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K23",
+   "libelle_domaine_professionel": "Propreté et environnement urbain"
+ },
+ {
+   "code_rome": "K2304",
+   "libelle_rome": "Revalorisation de produits industriels",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K23",
+   "libelle_domaine_professionel": "Propreté et environnement urbain"
+ },
+ {
+   "code_rome": "K2305",
+   "libelle_rome": "Salubrité et traitement de nuisibles",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K23",
+   "libelle_domaine_professionel": "Propreté et environnement urbain"
+ },
+ {
+   "code_rome": "K2306",
+   "libelle_rome": "Supervision d''exploitation éco-industrielle",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K23",
+   "libelle_domaine_professionel": "Propreté et environnement urbain"
+ },
+ {
+   "code_rome": "K2401",
+   "libelle_rome": "Recherche en sciences de l''homme et de la société",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K24",
+   "libelle_domaine_professionel": "Recherche"
+ },
+ {
+   "code_rome": "K2402",
+   "libelle_rome": "Recherche en sciences de l''univers, de la matière et du vivant",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K24",
+   "libelle_domaine_professionel": "Recherche"
+ },
+ {
+   "code_rome": "K2501",
+   "libelle_rome": "Gardiennage de locaux",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K25",
+   "libelle_domaine_professionel": "Sécurité privée"
+ },
+ {
+   "code_rome": "K2502",
+   "libelle_rome": "Management de sécurité privée",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K25",
+   "libelle_domaine_professionel": "Sécurité privée"
+ },
+ {
+   "code_rome": "K2503",
+   "libelle_rome": "Sécurité et surveillance privées",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K25",
+   "libelle_domaine_professionel": "Sécurité privée"
+ },
+ {
+   "code_rome": "K2601",
+   "libelle_rome": "Conduite d''opérations funéraires",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K26",
+   "libelle_domaine_professionel": "Services funéraires"
+ },
+ {
+   "code_rome": "K2602",
+   "libelle_rome": "Conseil en services funéraires",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K26",
+   "libelle_domaine_professionel": "Services funéraires"
+ },
+ {
+   "code_rome": "K2603",
+   "libelle_rome": "Thanatopraxie",
+   "code_grand_domaine": "K",
+   "libelle_grand_domaine": "Services à la personne et à la collectivité",
+   "code_domaine_professionel": "K26",
+   "libelle_domaine_professionel": "Services funéraires"
+ },
+ {
+   "code_rome": "L1101",
+   "libelle_rome": "Animation musicale et scénique",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L11",
+   "libelle_domaine_professionel": "Animation de spectacles"
+ },
+ {
+   "code_rome": "L1102",
+   "libelle_rome": "Mannequinat et pose artistique",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L11",
+   "libelle_domaine_professionel": "Animation de spectacles"
+ },
+ {
+   "code_rome": "L1103",
+   "libelle_rome": "Présentation de spectacles ou d''émissions",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L11",
+   "libelle_domaine_professionel": "Animation de spectacles"
+ },
+ {
+   "code_rome": "L1201",
+   "libelle_rome": "Danse",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L12",
+   "libelle_domaine_professionel": "Artistes - interprètes du spectacle"
+ },
+ {
+   "code_rome": "L1202",
+   "libelle_rome": "Musique et chant",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L12",
+   "libelle_domaine_professionel": "Artistes - interprètes du spectacle"
+ },
+ {
+   "code_rome": "L1203",
+   "libelle_rome": "Art dramatique",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L12",
+   "libelle_domaine_professionel": "Artistes - interprètes du spectacle"
+ },
+ {
+   "code_rome": "L1204",
+   "libelle_rome": "Arts du cirque et arts visuels",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L12",
+   "libelle_domaine_professionel": "Artistes - interprètes du spectacle"
+ },
+ {
+   "code_rome": "L1301",
+   "libelle_rome": "Mise en scène de spectacles vivants",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L13",
+   "libelle_domaine_professionel": "Conception et production de spectacles"
+ },
+ {
+   "code_rome": "L1302",
+   "libelle_rome": "Production et administration spectacle, cinéma et audiovisuel",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L13",
+   "libelle_domaine_professionel": "Conception et production de spectacles"
+ },
+ {
+   "code_rome": "L1303",
+   "libelle_rome": "Promotion d''artistes et de spectacles",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L13",
+   "libelle_domaine_professionel": "Conception et production de spectacles"
+ },
+ {
+   "code_rome": "L1304",
+   "libelle_rome": "Réalisation cinématographique et audiovisuelle",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L13",
+   "libelle_domaine_professionel": "Conception et production de spectacles"
+ },
+ {
+   "code_rome": "L1401",
+   "libelle_rome": "Sportif professionnel",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L14",
+   "libelle_domaine_professionel": "Sport professionnel"
+ },
+ {
+   "code_rome": "L1501",
+   "libelle_rome": "Coiffure et maquillage spectacle",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L15",
+   "libelle_domaine_professionel": "Techniciens du spectacle"
+ },
+ {
+   "code_rome": "L1502",
+   "libelle_rome": "Costume et habillage spectacle",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L15",
+   "libelle_domaine_professionel": "Techniciens du spectacle"
+ },
+ {
+   "code_rome": "L1503",
+   "libelle_rome": "Décor et accessoires spectacle",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L15",
+   "libelle_domaine_professionel": "Techniciens du spectacle"
+ },
+ {
+   "code_rome": "L1504",
+   "libelle_rome": "Éclairage spectacle",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L15",
+   "libelle_domaine_professionel": "Techniciens du spectacle"
+ },
+ {
+   "code_rome": "L1505",
+   "libelle_rome": "Image cinématographique et télévisuelle",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L15",
+   "libelle_domaine_professionel": "Techniciens du spectacle"
+ },
+ {
+   "code_rome": "L1506",
+   "libelle_rome": "Machinerie spectacle",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L15",
+   "libelle_domaine_professionel": "Techniciens du spectacle"
+ },
+ {
+   "code_rome": "L1507",
+   "libelle_rome": "Montage audiovisuel et post-production",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L15",
+   "libelle_domaine_professionel": "Techniciens du spectacle"
+ },
+ {
+   "code_rome": "L1508",
+   "libelle_rome": "Prise de son et sonorisation",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L15",
+   "libelle_domaine_professionel": "Techniciens du spectacle"
+ },
+ {
+   "code_rome": "L1509",
+   "libelle_rome": "Régie générale",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L15",
+   "libelle_domaine_professionel": "Techniciens du spectacle"
+ },
+ {
+   "code_rome": "L1510",
+   "libelle_rome": "Films d''animation et effets spéciaux",
+   "code_grand_domaine": "L",
+   "libelle_grand_domaine": "Spectacle",
+   "code_domaine_professionel": "L15",
+   "libelle_domaine_professionel": "Techniciens du spectacle"
+ },
+ {
+   "code_rome": "M1101",
+   "libelle_rome": "Achats",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M11",
+   "libelle_domaine_professionel": "Achats"
+ },
+ {
+   "code_rome": "M1102",
+   "libelle_rome": "Direction des achats",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M11",
+   "libelle_domaine_professionel": "Achats"
+ },
+ {
+   "code_rome": "M1201",
+   "libelle_rome": "Analyse et ingénierie financière",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M12",
+   "libelle_domaine_professionel": "Comptabilité et gestion"
+ },
+ {
+   "code_rome": "M1202",
+   "libelle_rome": "Audit et contrôle comptables et financiers",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M12",
+   "libelle_domaine_professionel": "Comptabilité et gestion"
+ },
+ {
+   "code_rome": "M1203",
+   "libelle_rome": "Comptabilité",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M12",
+   "libelle_domaine_professionel": "Comptabilité et gestion"
+ },
+ {
+   "code_rome": "M1204",
+   "libelle_rome": "Contrôle de gestion",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M12",
+   "libelle_domaine_professionel": "Comptabilité et gestion"
+ },
+ {
+   "code_rome": "M1205",
+   "libelle_rome": "Direction administrative et financière",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M12",
+   "libelle_domaine_professionel": "Comptabilité et gestion"
+ },
+ {
+   "code_rome": "M1206",
+   "libelle_rome": "Management de groupe ou de service comptable",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M12",
+   "libelle_domaine_professionel": "Comptabilité et gestion"
+ },
+ {
+   "code_rome": "M1207",
+   "libelle_rome": "Trésorerie et financement",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M12",
+   "libelle_domaine_professionel": "Comptabilité et gestion"
+ },
+ {
+   "code_rome": "M1301",
+   "libelle_rome": "Direction de grande entreprise ou d''établissement public",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M13",
+   "libelle_domaine_professionel": "Direction d''entreprise"
+ },
+ {
+   "code_rome": "M1302",
+   "libelle_rome": "Direction de petite ou moyenne entreprise",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M13",
+   "libelle_domaine_professionel": "Direction d''entreprise"
+ },
+ {
+   "code_rome": "M1401",
+   "libelle_rome": "Conduite d''enquêtes",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M14",
+   "libelle_domaine_professionel": "Organisation et études"
+ },
+ {
+   "code_rome": "M1402",
+   "libelle_rome": "Conseil en organisation et management d''entreprise",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M14",
+   "libelle_domaine_professionel": "Organisation et études"
+ },
+ {
+   "code_rome": "M1403",
+   "libelle_rome": "Études et prospectives socio-économiques",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M14",
+   "libelle_domaine_professionel": "Organisation et études"
+ },
+ {
+   "code_rome": "M1404",
+   "libelle_rome": "Management et gestion d''enquêtes",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M14",
+   "libelle_domaine_professionel": "Organisation et études"
+ },
+ {
+   "code_rome": "M1501",
+   "libelle_rome": "Assistanat en ressources humaines",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M15",
+   "libelle_domaine_professionel": "Ressources humaines"
+ },
+ {
+   "code_rome": "M1502",
+   "libelle_rome": "Développement des ressources humaines",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M15",
+   "libelle_domaine_professionel": "Ressources humaines"
+ },
+ {
+   "code_rome": "M1503",
+   "libelle_rome": "Management des ressources humaines",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M15",
+   "libelle_domaine_professionel": "Ressources humaines"
+ },
+ {
+   "code_rome": "M1601",
+   "libelle_rome": "Accueil et renseignements",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M16",
+   "libelle_domaine_professionel": "Secrétariat et assistance"
+ },
+ {
+   "code_rome": "M1602",
+   "libelle_rome": "Opérations administratives",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M16",
+   "libelle_domaine_professionel": "Secrétariat et assistance"
+ },
+ {
+   "code_rome": "M1603",
+   "libelle_rome": "Distribution de documents",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M16",
+   "libelle_domaine_professionel": "Secrétariat et assistance"
+ },
+ {
+   "code_rome": "M1604",
+   "libelle_rome": "Assistanat de direction",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M16",
+   "libelle_domaine_professionel": "Secrétariat et assistance"
+ },
+ {
+   "code_rome": "M1605",
+   "libelle_rome": "Assistanat technique et administratif",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M16",
+   "libelle_domaine_professionel": "Secrétariat et assistance"
+ },
+ {
+   "code_rome": "M1606",
+   "libelle_rome": "Saisie de données",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M16",
+   "libelle_domaine_professionel": "Secrétariat et assistance"
+ },
+ {
+   "code_rome": "M1607",
+   "libelle_rome": "Secrétariat",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M16",
+   "libelle_domaine_professionel": "Secrétariat et assistance"
+ },
+ {
+   "code_rome": "M1608",
+   "libelle_rome": "Secrétariat comptable",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M16",
+   "libelle_domaine_professionel": "Secrétariat et assistance"
+ },
+ {
+   "code_rome": "M1609",
+   "libelle_rome": "Secrétariat et assistanat médical ou médico-social",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M16",
+   "libelle_domaine_professionel": "Secrétariat et assistance"
+ },
+ {
+   "code_rome": "M1701",
+   "libelle_rome": "Administration des ventes",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M17",
+   "libelle_domaine_professionel": "Stratégie commerciale, marketing et supervision des ventes"
+ },
+ {
+   "code_rome": "M1702",
+   "libelle_rome": "Analyse de tendance",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M17",
+   "libelle_domaine_professionel": "Stratégie commerciale, marketing et supervision des ventes"
+ },
+ {
+   "code_rome": "M1703",
+   "libelle_rome": "Management et gestion de produit",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M17",
+   "libelle_domaine_professionel": "Stratégie commerciale, marketing et supervision des ventes"
+ },
+ {
+   "code_rome": "M1704",
+   "libelle_rome": "Management relation clientèle",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M17",
+   "libelle_domaine_professionel": "Stratégie commerciale, marketing et supervision des ventes"
+ },
+ {
+   "code_rome": "M1705",
+   "libelle_rome": "Marketing",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M17",
+   "libelle_domaine_professionel": "Stratégie commerciale, marketing et supervision des ventes"
+ },
+ {
+   "code_rome": "M1706",
+   "libelle_rome": "Promotion des ventes",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M17",
+   "libelle_domaine_professionel": "Stratégie commerciale, marketing et supervision des ventes"
+ },
+ {
+   "code_rome": "M1707",
+   "libelle_rome": "Stratégie commerciale",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M17",
+   "libelle_domaine_professionel": "Stratégie commerciale, marketing et supervision des ventes"
+ },
+ {
+   "code_rome": "M1801",
+   "libelle_rome": "Administration de systèmes d''information",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M18",
+   "libelle_domaine_professionel": "Systèmes d''information et de télécommunication"
+ },
+ {
+   "code_rome": "M1802",
+   "libelle_rome": "Expertise et support en systèmes d''information",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M18",
+   "libelle_domaine_professionel": "Systèmes d''information et de télécommunication"
+ },
+ {
+   "code_rome": "M1803",
+   "libelle_rome": "Direction des systèmes d''information",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M18",
+   "libelle_domaine_professionel": "Systèmes d''information et de télécommunication"
+ },
+ {
+   "code_rome": "M1804",
+   "libelle_rome": "Études et développement de réseaux de télécoms",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M18",
+   "libelle_domaine_professionel": "Systèmes d''information et de télécommunication"
+ },
+ {
+   "code_rome": "M1805",
+   "libelle_rome": "Études et développement informatique",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M18",
+   "libelle_domaine_professionel": "Systèmes d''information et de télécommunication"
+ },
+ {
+   "code_rome": "M1806",
+   "libelle_rome": "Conseil et maîtrise d''ouvrage en systèmes d''information",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M18",
+   "libelle_domaine_professionel": "Systèmes d''information et de télécommunication"
+ },
+ {
+   "code_rome": "M1807",
+   "libelle_rome": "Exploitation de systèmes de communication et de commandement",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M18",
+   "libelle_domaine_professionel": "Systèmes d''information et de télécommunication"
+ },
+ {
+   "code_rome": "M1808",
+   "libelle_rome": "Information géographique",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M18",
+   "libelle_domaine_professionel": "Systèmes d''information et de télécommunication"
+ },
+ {
+   "code_rome": "M1809",
+   "libelle_rome": "Information météorologique",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M18",
+   "libelle_domaine_professionel": "Systèmes d''information et de télécommunication"
+ },
+ {
+   "code_rome": "M1810",
+   "libelle_rome": "Production et exploitation de systèmes d''information",
+   "code_grand_domaine": "M",
+   "libelle_grand_domaine": "Support à l''entreprise",
+   "code_domaine_professionel": "M18",
+   "libelle_domaine_professionel": "Systèmes d''information et de télécommunication"
+ },
+ {
+   "code_rome": "N1101",
+   "libelle_rome": "Conduite d''engins de déplacement des charges",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N11",
+   "libelle_domaine_professionel": "Magasinage, manutention des charges et déménagement"
+ },
+ {
+   "code_rome": "N1102",
+   "libelle_rome": "Déménagement",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N11",
+   "libelle_domaine_professionel": "Magasinage, manutention des charges et déménagement"
+ },
+ {
+   "code_rome": "N1103",
+   "libelle_rome": "Magasinage et préparation de commandes",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N11",
+   "libelle_domaine_professionel": "Magasinage, manutention des charges et déménagement"
+ },
+ {
+   "code_rome": "N1104",
+   "libelle_rome": "Manoeuvre et conduite d''engins lourds de manutention",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N11",
+   "libelle_domaine_professionel": "Magasinage, manutention des charges et déménagement"
+ },
+ {
+   "code_rome": "N1105",
+   "libelle_rome": "Manutention manuelle de charges",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N11",
+   "libelle_domaine_professionel": "Magasinage, manutention des charges et déménagement"
+ },
+ {
+   "code_rome": "N1201",
+   "libelle_rome": "Affrètement transport",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N12",
+   "libelle_domaine_professionel": "Organisation de la circulation des marchandises"
+ },
+ {
+   "code_rome": "N1202",
+   "libelle_rome": "Gestion des opérations de circulation internationale des marchandises",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N12",
+   "libelle_domaine_professionel": "Organisation de la circulation des marchandises"
+ },
+ {
+   "code_rome": "N1301",
+   "libelle_rome": "Conception et organisation de la chaîne logistique",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N13",
+   "libelle_domaine_professionel": "Personnel d''encadrement"
+ },
+ {
+   "code_rome": "N1302",
+   "libelle_rome": "Direction de site logistique",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N13",
+   "libelle_domaine_professionel": "Personnel d''encadrement"
+ },
+ {
+   "code_rome": "N1303",
+   "libelle_rome": "Intervention technique d''exploitation logistique",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N13",
+   "libelle_domaine_professionel": "Personnel d''encadrement"
+ },
+ {
+   "code_rome": "N2101",
+   "libelle_rome": "Navigation commerciale aérienne",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N21",
+   "libelle_domaine_professionel": "Personnel navigant du transport aérien"
+ },
+ {
+   "code_rome": "N2102",
+   "libelle_rome": "Pilotage et navigation technique aérienne",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N21",
+   "libelle_domaine_professionel": "Personnel navigant du transport aérien"
+ },
+ {
+   "code_rome": "N2201",
+   "libelle_rome": "Personnel d''escale aéroportuaire",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N22",
+   "libelle_domaine_professionel": "Personnel sédentaire du transport aérien"
+ },
+ {
+   "code_rome": "N2202",
+   "libelle_rome": "Contrôle de la navigation aérienne",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N22",
+   "libelle_domaine_professionel": "Personnel sédentaire du transport aérien"
+ },
+ {
+   "code_rome": "N2203",
+   "libelle_rome": "Exploitation des pistes aéroportuaires",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N22",
+   "libelle_domaine_professionel": "Personnel sédentaire du transport aérien"
+ },
+ {
+   "code_rome": "N2204",
+   "libelle_rome": "Préparation des vols",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N22",
+   "libelle_domaine_professionel": "Personnel sédentaire du transport aérien"
+ },
+ {
+   "code_rome": "N2205",
+   "libelle_rome": "Direction d''escale et exploitation aéroportuaire",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N22",
+   "libelle_domaine_professionel": "Personnel sédentaire du transport aérien"
+ },
+ {
+   "code_rome": "N3101",
+   "libelle_rome": "Encadrement de la navigation maritime",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N31",
+   "libelle_domaine_professionel": "Personnel navigant du transport maritime et fluvial"
+ },
+ {
+   "code_rome": "N3102",
+   "libelle_rome": "Equipage de la navigation maritime",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N31",
+   "libelle_domaine_professionel": "Personnel navigant du transport maritime et fluvial"
+ },
+ {
+   "code_rome": "N3103",
+   "libelle_rome": "Navigation fluviale",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N31",
+   "libelle_domaine_professionel": "Personnel navigant du transport maritime et fluvial"
+ },
+ {
+   "code_rome": "N3201",
+   "libelle_rome": "Exploitation des opérations portuaires et du transport maritime",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N32",
+   "libelle_domaine_professionel": "Personnel sédentaire du transport maritime et fluvial"
+ },
+ {
+   "code_rome": "N3202",
+   "libelle_rome": "Exploitation du transport fluvial",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N32",
+   "libelle_domaine_professionel": "Personnel sédentaire du transport maritime et fluvial"
+ },
+ {
+   "code_rome": "N3203",
+   "libelle_rome": "Manutention portuaire",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N32",
+   "libelle_domaine_professionel": "Personnel sédentaire du transport maritime et fluvial"
+ },
+ {
+   "code_rome": "N4101",
+   "libelle_rome": "Conduite de transport de marchandises sur longue distance",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N41",
+   "libelle_domaine_professionel": "Personnel de conduite du transport routier"
+ },
+ {
+   "code_rome": "N4102",
+   "libelle_rome": "Conduite de transport de particuliers",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N41",
+   "libelle_domaine_professionel": "Personnel de conduite du transport routier"
+ },
+ {
+   "code_rome": "N4103",
+   "libelle_rome": "Conduite de transport en commun sur route",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N41",
+   "libelle_domaine_professionel": "Personnel de conduite du transport routier"
+ },
+ {
+   "code_rome": "N4104",
+   "libelle_rome": "Courses et livraisons express",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N41",
+   "libelle_domaine_professionel": "Personnel de conduite du transport routier"
+ },
+ {
+   "code_rome": "N4105",
+   "libelle_rome": "Conduite et livraison par tournées sur courte distance",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N41",
+   "libelle_domaine_professionel": "Personnel de conduite du transport routier"
+ },
+ {
+   "code_rome": "N4201",
+   "libelle_rome": "Direction d''exploitation des transports routiers de marchandises",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N42",
+   "libelle_domaine_professionel": "Personnel d''encadrement du transport routier"
+ },
+ {
+   "code_rome": "N4202",
+   "libelle_rome": "Direction d''exploitation des transports routiers de personnes",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N42",
+   "libelle_domaine_professionel": "Personnel d''encadrement du transport routier"
+ },
+ {
+   "code_rome": "N4203",
+   "libelle_rome": "Intervention technique d''exploitation des transports routiers de marchandises",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N42",
+   "libelle_domaine_professionel": "Personnel d''encadrement du transport routier"
+ },
+ {
+   "code_rome": "N4204",
+   "libelle_rome": "Intervention technique d''exploitation des transports routiers de personnes",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N42",
+   "libelle_domaine_professionel": "Personnel d''encadrement du transport routier"
+ },
+ {
+   "code_rome": "N4301",
+   "libelle_rome": "Conduite sur rails",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N43",
+   "libelle_domaine_professionel": "Personnel navigant du transport terrestre"
+ },
+ {
+   "code_rome": "N4302",
+   "libelle_rome": "Contrôle des transports en commun",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N43",
+   "libelle_domaine_professionel": "Personnel navigant du transport terrestre"
+ },
+ {
+   "code_rome": "N4401",
+   "libelle_rome": "Circulation du réseau ferré",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N44",
+   "libelle_domaine_professionel": "Personnel sédentaire du transport ferroviaire et réseau filo guidé"
+ },
+ {
+   "code_rome": "N4402",
+   "libelle_rome": "Exploitation et manoeuvre des remontées mécaniques",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N44",
+   "libelle_domaine_professionel": "Personnel sédentaire du transport ferroviaire et réseau filo guidé"
+ },
+ {
+   "code_rome": "N4403",
+   "libelle_rome": "Manoeuvre du réseau ferré",
+   "code_grand_domaine": "N",
+   "libelle_grand_domaine": "Transport et Logistique",
+   "code_domaine_professionel": "N44",
+   "libelle_domaine_professionel": "Personnel sédentaire du transport ferroviaire et réseau filo guidé"
+ }
+]
