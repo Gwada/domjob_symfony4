@@ -10,10 +10,6 @@
         <div class="invalid-feedback">Longueur 6-32 caractères</div>
       </div>
 
-      {#<select class="mdb-select md-form" searchable="Search here..">
-        {{ form_widget(advertForm.GrandDomaine) }}
-        <label>Grand domaine</label>
-      </select>#}
       {{ form_row(advertForm.GrandDomaine, {'attr': {
                                                   'class': "mdb-select md-form colorful-select dropdown-ins",
                                                   'searchable': "Cherchez ici..."
