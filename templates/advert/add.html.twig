@@ -1,0 +1,25 @@
+{% extends "base.html.twig" %}
+
+{% block title %}{{ parent() }} - Ajouter une annonce{% endblock %}
+
+{% block body %}
+
+  <h2 class="text-center">Ajouter une annonce</h2>
+  {% form_theme advertForm 'bootstrap_4_layout.html.twig' %}
+
+  {{ include("Form/advertForm.html.twig") }}
+
+  <p>
+    <a href="{{ path('advert_homepage', {'page': 1}) }}" class="btn btn-default btn-rounded"><i class="fas fa-home fa"></i> Retour à l'acceuil</a>
+  </p>
+
+{% endblock %}
+
+{% block javascripts %}
+  {{ parent() }}
+  <script>
+    $(document).ready(function() {
+      $('.mdb-select').material_select();
+    });
+  </script>
+{% endblock %}

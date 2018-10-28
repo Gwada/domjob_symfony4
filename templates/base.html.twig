@@ -4,12 +4,12 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>{% block title %}DomJob Plateforme{% endblock %}</title>
+        <title>{% block title %}DomJob{% endblock %}</title>
 
         {% block stylesheets %}
             <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
-            <link href="http://127.0.0.1:8000/css/bootstrap.min.css" rel="stylesheet">
-            <link href="http://127.0.0.1:8000/css/mdb.min.css" rel="stylesheet">
+            <link href="/css/bootstrap.min.css" rel="stylesheet">
+            <link href="/css/mdb.min.css" rel="stylesheet">
         {% endblock %}
     </head>
 
@@ -27,16 +27,16 @@
         {% include("Modal/login.html.twig") %}
 
         {% block javascripts %}
-            <script type="text/javascript" src="http://127.0.0.1:8000/js/jquery.min.js"></script>
-            <script type="text/javascript" src="http://127.0.0.1:8000/js/popper.min.js"></script>
-            <script type="text/javascript" src="http://127.0.0.1:8000/js/bootstrap.min.js"></script>
-            <script type="text/javascript" src="http://127.0.0.1:8000/js/mdb.min.js"></script>
+            <script type="text/javascript" src="/js/jquery.min.js"></script>
+            <script type="text/javascript" src="/js/popper.min.js"></script>
+            <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+            <script type="text/javascript" src="/js/mdb.min.js"></script>
             <script type="text/javascript">
-            $(document).ready(function () {
-                $(".button-collapse").sideNav();
-                var sideNavScrollbar = document.querySelector('.custom-scrollbar');
-                Ps.initialize(sideNavScrollbar);
-            });
+                $(document).ready(function () {
+                    $(".button-collapse").sideNav();
+                    var sideNavScrollbar = document.querySelector('.custom-scrollbar');
+                    Ps.initialize(sideNavScrollbar);
+                });
             </script>
         {% endblock %}
 

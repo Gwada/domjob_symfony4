@@ -33,9 +33,16 @@ class GrandDomaine
      */
     private $domainesProfessionnel;
 
+    /**
+     * @ORM\OneToMany(targetEntity="App\Entity\Advert", mappedBy="grandDomaine")
+     */
+    private $adverts;
+
     public function __construct()
     {
         $this->domainesProfessionnel = new ArrayCollection();
+        $this->listCodeGrandDomDomProAppellation = new ArrayCollection();
+        $this->adverts = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -92,6 +99,37 @@ class GrandDomaine
             // set the owning side to null (unless already changed)
             if ($domainesProfessionnel->getGrandDomaine() === $this) {
                 $domainesProfessionnel->setGrandDomaine(null);
+            }
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|Advert[]
+     */
+    public function getAdverts(): Collection
+    {
+        return $this->adverts;
+    }
+
+    public function addAdvert(Advert $advert): self
+    {
+        if (!$this->adverts->contains($advert)) {
+            $this->adverts[] = $advert;
+            $advert->setGrandDomaine($this);
+        }
+
+        return $this;
+    }
+
+    public function removeAdvert(Advert $advert): self
+    {
+        if ($this->adverts->contains($advert)) {
+            $this->adverts->removeElement($advert);
+            // set the owning side to null (unless already changed)
+            if ($advert->getGrandDomaine() === $this) {
+                $advert->setGrandDomaine(null);
             }
         }
 

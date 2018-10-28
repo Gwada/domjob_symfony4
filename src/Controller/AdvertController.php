@@ -2,11 +2,14 @@
 
 namespace App\Controller;
 
+use App\Entity\Advert;
+use App\Form\AdvertType;
+use Symfony\Component\HttpFoundation\Request;
+use Doctrine\Common\Persistence\ObjectManager;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
-use Doctrine\Common\Persistence\ObjectManager;
 
 class AdvertController extends AbstractController
 {
@@ -15,7 +18,6 @@ class AdvertController extends AbstractController
      */
     public function             indexAction($page)
     {
-        //dump(json_decode(file_get_contents('/Users/dlavaury/symphony_dev/Symphony/web/codes-postaux.json'), true));
         if ($page < 1) {
             throw new NotFoundHttpException('Page "'.$page.'" inexistante.');
         }
@@ -48,21 +50,20 @@ class AdvertController extends AbstractController
     /**
      * @Route("/les-offres/offre-{id}", name="advert_view", requirements={"id": "\d+"})
      */
-    /*public function             viewAction($id, ObjectManager $em)
+    public function             viewAction($id, ObjectManager $manager)
     {
-        $em                     = $this->getDoctrine()->getManager();
-        $advert                 = $em->find('DomJobPlatformBundle:Advert', $id);
+        $advert                 = $manager->find(Advert::class, $id);
 
         if (null === $advert) {
             throw new NotFoundHttpException("L'annonce d'id ".$id." n'existe pas.");
         }
 
-        $listApplications = $em->getRepository('DomJobPlatformBundle:Application')->findBy(['advert' => $advert]);
-        $listAdvertSkills = $em->getRepository('DomJobPlatformBundle:AdvertSkill')->findBy(['advert' => $advert]);
+        //$listApplications = $em->getRepository('DomJobPlatformBundle:Application')->findBy(['advert' => $advert]);
+        //$listAdvertSkills = $em->getRepository('DomJobPlatformBundle:AdvertSkill')->findBy(['advert' => $advert]);
         return ($this->render('advert/view.html.twig', [
             'advert' => $advert,
-            'listApplications' => $listApplications,
-            'listAdvertSkills' => $listAdvertSkills,
+            //'listApplications' => $listApplications,
+            //'listAdvertSkills' => $listAdvertSkills,
         ]));
     }
 
@@ -72,14 +73,32 @@ class AdvertController extends AbstractController
             "On pourrait afficher l'annonce correspondant au
             slug '".$slug."', créée en ".$year." et au format ".$_format."."
         );
-    }
+    }*/
 
-    public function             addAction(Request $request)
+    /**
+     * @Route("/les-offres/ajouter-une-offre-d-emploi", name="advert_add")
+     * @Route("/les-offres/{id}/edition", name="advert_edit")
+     */
+    public function advertFormAction(Advert $advert = \NULL, Request $request, ObjectManager $manager)
     {
-        $em                     = $this->getDoctrine()->getManager();
-        $advert                 = new Advert();
+        !$advert ? $advert = new Advert() : 0;
+        $form = $this->createForm(AdvertType::class, $advert);
 
-        // initialisation de l'annonce
+        $form->handleRequest($request);
+        if ($form->isSubmitted() && $form->isValid())
+        {
+            !$advert->getId() ? $advert->setCreatedAt(new \DateTime) : 0;
+            $manager->persist($advert);
+            $manager->flush();
+            return ($this->redirectToRoute('advert_view', ['id' => $advert->getId()]));
+        }
+        dump($advert);
+        return ($this->render('advert/add.html.twig', [
+            'advertForm' => $form->createView(),
+            'editMode' => $advert->getId()
+            ]));
+
+        /*// initialisation de l'annonce
         $advert->setTitle('Recherche développeur Symfony.');
         $advert->setAuthor('Alexandre');
         $advert->setContent("Nous recherchons un développeur Symfony débutant aux abymes.");
@@ -126,10 +145,10 @@ class AdvertController extends AbstractController
             $request->getSession()->getFlashBag()->add('notice', 'Annonce bien modifiée.');
             return $this->redirectToRoute('dj_platform_view', ['id' => $advert->getId()]);
         }
-        return $this->render('advert/add.html.twig');
+        return $this->render('advert/add.html.twig');*/
     }
 
-    public function             editAction($id, Request $request)
+    /*public function             editAction($id, Request $request)
     {
         $em                     = $this->getDoctrine()->getManager();
         $advert                 = $em->find('DomJobPlatformBundle:Advert', $id);
