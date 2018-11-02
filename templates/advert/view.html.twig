@@ -1,0 +1,81 @@
+{% extends "base.html.twig" %}
+
+{% block title %}
+  Lecture d'une annonce - {{ parent() }}
+{% endblock %}
+
+{% block body %}
+  <a href="{{ path('advert_homepage') }}" class="btn btn-outline-default btn-rounded waves-effect">
+    <i class="fas fa-chevron-left"></i>
+    Retour à la liste
+  </a>
+
+  {# if advert.image %}
+    <img src="{{ advert.image.url }}" alt="{{ advert.image.alt }}">
+  {% endif #}
+
+  <h2>{{ advert.title }}</h2>
+  <i>Par {{ advert.author }}, le {{ advert.createdAt|date('d/m/Y') }}</i>
+
+  <div class="well">
+    <p>{{ advert.content }}</p>
+    <p>{{ advert.GrandDomaine.libelleGrandDomaine }}
+  </div>
+  {# if listAdvertSkills|length > 0 %}
+    <div>
+      Cette offre requiert les compétences suivantes :
+      <ul>
+        {% for advertSkill in listAdvertSkills %}
+          <li>{{ advertSkill.skill.name }} : niveau {{ advertSkill.level }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif }
+  {% if not advert.categories.empty %}
+    <p>
+      Cette offre est parue dans les catégories suivantes :
+      {% for category in advert.categories %}
+        {{ category.name }}{% if not loop.last %}, {% endif %}
+      {% endfor %}
+    </p>
+  {% endif #}
+
+  <p>
+    <a href="{{ path('advert_homepage') }}" class="btn btn-outline-default btn-rounded waves-effect">
+      <i class="fas fa-chevron-left"></i>
+      Retour à la liste
+    </a>
+    <a href="{{ path('advert_edit', {'id': advert.id}) }}" class="btn btn-outline-default btn-rounded waves-effect">
+      <i class="fas fa-edit"></i>
+      Modifier l'offre
+    </a>
+    {#<a href="{{ path('dj_platform_delete', {'id': advert.id}) }}" class="btn btn-danger">
+      <i class="fas fa-trash-alt"></i>
+      Supprimer l'offre
+    </a>#}
+  </p>
+
+
+  {# if listApplications | length > 0 %}
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">n°</th>
+          <th scope="col">Candidat</th>
+          <th scope="col">Candidature</th>
+          <th scope="col">date</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for application in listApplications %}
+          <tr>
+            <th scope="col">{{ loop.index }}</th>
+            <td scope="col">{{ application.author }}</td>
+            <td scope="col">{{ application.content }}</td>
+            <td scope="col">{{ application.date | date("d/m/Y") }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% endif #}
+{% endblock %}

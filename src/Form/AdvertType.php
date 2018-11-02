@@ -3,12 +3,13 @@
 namespace App\Form;
 
 use App\Entity\Advert;
+use App\Entity\GrandDomaine;
+use App\Entity\DomaineProfessionnel;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormBuilderInterface;
+use Symfony\Bridge\Doctrine\Form\Type\EntityType;
 use Symfony\Component\OptionsResolver\OptionsResolver;
 use Symfony\Component\Form\Extension\Core\Type\TextareaType;
-use Symfony\Bridge\Doctrine\Form\Type\EntityType;
-use App\Entity\GrandDomaine;
 
 class AdvertType extends AbstractType
 {
@@ -18,10 +19,8 @@ class AdvertType extends AbstractType
             ->add('title')
             ->add('author')
             ->add('content', TextareaType::class, ['attr' => ['class' => 'md-textarea form-control']])
-            ->add('GrandDomaine', EntityType::class, [
-                'class' => GrandDomaine::class,
-                'choice_label' => 'libelleGrandDomaine'
-            ])
+            ->add('GrandDomaine', EntityType::class, ['class' => GrandDomaine::class, 'choice_label' => 'libelleGrandDomaine'])
+            ->add('domaineProfessionel', EntityType::class, ['class' => DomaineProfessionnel::class, 'choice_label' => 'libelleDomaineProfessionnel'])
         ;
     }
 

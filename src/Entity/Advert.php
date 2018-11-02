@@ -46,6 +46,11 @@ class Advert
      */
     private $createdAt;
 
+    /**
+     * @ORM\ManyToOne(targetEntity="App\Entity\DomaineProfessionnel", inversedBy="adverts")
+     */
+    private $domaineProfessionel;
+
     public function getId(): ?int
     {
         return $this->id;
@@ -107,6 +112,18 @@ class Advert
     public function setCreatedAt(\DateTimeInterface $createdAt): self
     {
         $this->createdAt = $createdAt;
+
+        return $this;
+    }
+
+    public function getDomaineProfessionel(): ?DomaineProfessionnel
+    {
+        return $this->domaineProfessionel;
+    }
+
+    public function setDomaineProfessionel(?DomaineProfessionnel $domaineProfessionel): self
+    {
+        $this->domaineProfessionel = $domaineProfessionel;
 
         return $this;
     }

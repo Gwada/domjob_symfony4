@@ -1,6 +1,7 @@
 <section class="container">
   <div class="row d-flex flex-column justify-content-between">
     <h3 class="text-center">Formulaire d'offre d'emploi</h3>
+    {% dump(advertForm.vars.value.GrandDomaine) %}
 
     {{ form_start(advertForm, {'attr': {'class': 'needs-validation'}}) }}
 
@@ -9,13 +10,6 @@
         {{ form_widget(advertForm.author) }}
         <div class="invalid-feedback">Longueur 6-32 caractères</div>
       </div>
-
-      {{ form_row(advertForm.GrandDomaine, {'attr': {
-                                                  'class': "mdb-select md-form colorful-select dropdown-ins",
-                                                  'searchable': "Cherchez ici..."
-                                                }
-                                              })
-      }}
 
       <div class="md-form form-group">
         <label>Titre de l'offre</label>
@@ -29,10 +23,20 @@
         <div class="invalid-feedback">Longueur minimale 10 caractères</div>
       </div>
 
+      <div class="md-form form-group">
+        <label class="active">Selectionnez le grand domaine</label>
+        {{ form_widget(advertForm.GrandDomaine, {'attr': {'value': '', 'class': "mdb-select md-form colorful-select dropdown-ins", 'searchable': "Cherchez ici..."}}) }}
+      </div>
+
+      <div class="md-form form-group">
+        <label class="active">Selectionnez le domaine professionel</label>
+        {{ form_widget(advertForm.domaineProfessionel, {'attr': {'value': '', 'class': "mdb-select md-form colorful-select dropdown-ins", 'searchable': "Cherchez ici..."}}) }}
+      </div>
+
       <div class="d-flex justify-content-end">
-        <button class="btn btn-outline-default btn-rounded waves-effect" type="submit"><i class="fas fa-cloud-upload-alt fa"> </i> {{ editMode ? "Modifier l'offre" : "Poster l'offre" }}</button>
+        <button class="btn btn-outline-default btn-rounded waves-effect" type="submit"><i class="fas fa-cloud-upload-alt fa"> </i> {{ editMode ? "Enregistrer les modifications" : "Poster l'offre" }}</button>
       </div>
 
     {{ form_end(advertForm) }}
-
+  </div>
 </section>
