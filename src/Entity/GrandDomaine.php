@@ -41,7 +41,6 @@ class GrandDomaine
     public function __construct()
     {
         $this->domainesProfessionnel = new ArrayCollection();
-        $this->listCodeGrandDomDomProAppellation = new ArrayCollection();
         $this->adverts = new ArrayCollection();
     }
 
