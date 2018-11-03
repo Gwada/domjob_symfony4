@@ -51,6 +51,11 @@ class Advert
      */
     private $domaineProfessionel;
 
+    /**
+     * @ORM\ManyToOne(targetEntity="App\Entity\ReferentielCodeRome", inversedBy="adverts")
+     */
+    private $referentielCodeRome;
+
     public function getId(): ?int
     {
         return $this->id;
@@ -124,6 +129,18 @@ class Advert
     public function setDomaineProfessionel(?DomaineProfessionnel $domaineProfessionel): self
     {
         $this->domaineProfessionel = $domaineProfessionel;
+
+        return $this;
+    }
+
+    public function getReferentielCodeRome(): ?ReferentielCodeRome
+    {
+        return $this->referentielCodeRome;
+    }
+
+    public function setReferentielCodeRome(?ReferentielCodeRome $referentielCodeRome): self
+    {
+        $this->referentielCodeRome = $referentielCodeRome;
 
         return $this;
     }
