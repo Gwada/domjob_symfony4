@@ -38,9 +38,15 @@ class DomaineProfessionnel
      */
     private $adverts;
 
+    /**
+     * @ORM\OneToMany(targetEntity="App\Entity\ReferentielCodeRome", mappedBy="domaineProfessionel")
+     */
+    private $referentielCodeRomes;
+
     public function __construct()
     {
         $this->adverts = new ArrayCollection();
+        $this->referentielCodeRomes = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -109,6 +115,37 @@ class DomaineProfessionnel
             // set the owning side to null (unless already changed)
             if ($advert->getDomaineProfessionel() === $this) {
                 $advert->setDomaineProfessionel(null);
+            }
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|ReferentielCodeRome[]
+     */
+    public function getReferentielCodeRomes(): Collection
+    {
+        return $this->referentielCodeRomes;
+    }
+
+    public function addReferentielCodeRome(ReferentielCodeRome $referentielCodeRome): self
+    {
+        if (!$this->referentielCodeRomes->contains($referentielCodeRome)) {
+            $this->referentielCodeRomes[] = $referentielCodeRome;
+            $referentielCodeRome->setDomaineProfessionel($this);
+        }
+
+        return $this;
+    }
+
+    public function removeReferentielCodeRome(ReferentielCodeRome $referentielCodeRome): self
+    {
+        if ($this->referentielCodeRomes->contains($referentielCodeRome)) {
+            $this->referentielCodeRomes->removeElement($referentielCodeRome);
+            // set the owning side to null (unless already changed)
+            if ($referentielCodeRome->getDomaineProfessionel() === $this) {
+                $referentielCodeRome->setDomaineProfessionel(null);
             }
         }
 

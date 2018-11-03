@@ -4,6 +4,9 @@ namespace App\Controller;
 
 use App\Entity\Advert;
 use App\Form\AdvertType;
+use App\Entity\GrandDomaine;
+use App\Entity\ReferentielCodeRome;
+use App\Entity\DomaineProfessionnel;
 use Symfony\Component\HttpFoundation\Request;
 use Doctrine\Common\Persistence\ObjectManager;
 use Symfony\Component\HttpFoundation\Response;
@@ -16,8 +19,26 @@ class AdvertController extends AbstractController
     /**
      * @Route("/les-offres/{page}", name="advert_homepage", requirements={"page": "\d+"}, defaults={"page": "1"})
      */
-    public function             indexAction($page)
+    public function             indexAction($page, ObjectManager $manager)
     {
+        $referentielCodeRomeList = $manager->getRepository(ReferentielCodeRome::class)->findAll();
+        $domainesProfessionelsList = $manager->getRepository(DomaineProfessionnel::class)->findAll();
+        foreach ($referentielCodeRomeList as $codeRome)
+        {
+            $first = mb_substr($codeRome->getCodeRome(), 0, 3);
+            foreach ($domainesProfessionelsList as $domaineProfessionel)
+            {
+                if ($domaineProfessionel->getCodeDomaineProfessionnel() === $first)
+                {
+                    $domaineProfessionel->addReferentielCodeRome($codeRome);
+                    break;
+                }
+            }
+        }
+        $manager->flush();
+
+
+
         if ($page < 1) {
             throw new NotFoundHttpException('Page "'.$page.'" inexistante.');
         }
@@ -54,158 +75,109 @@ class AdvertController extends AbstractController
     {
         $advert                 = $manager->find(Advert::class, $id);
 
-        if (null === $advert) {
+        if (!$advert) {
             throw new NotFoundHttpException("L'annonce d'id ".$id." n'existe pas.");
         }
 
         //$listApplications = $em->getRepository('DomJobPlatformBundle:Application')->findBy(['advert' => $advert]);
         //$listAdvertSkills = $em->getRepository('DomJobPlatformBundle:AdvertSkill')->findBy(['advert' => $advert]);
+        dump($advert);
         return ($this->render('advert/view.html.twig', [
             'advert' => $advert,
             //'listApplications' => $listApplications,
             //'listAdvertSkills' => $listAdvertSkills,
         ]));
     }
-
-    /*public function             viewSlugAction($slug, $year, $_format)
-    {
-        return new Response(
-            "On pourrait afficher l'annonce correspondant au
-            slug '".$slug."', créée en ".$year." et au format ".$_format."."
-        );
-    }*/
-
+    
     /**
      * @Route("/les-offres/ajouter-une-offre-d-emploi", name="advert_add")
      * @Route("/les-offres/{id}/edition", name="advert_edit")
      */
-    public function advertFormAction(Advert $advert = \NULL, Request $request, ObjectManager $manager)
+    public function advertFormAction(Advert $advert = null, Request $request, ObjectManager $manager)
     {
         !$advert ? $advert = new Advert() : 0;
         $form = $this->createForm(AdvertType::class, $advert);
-
+        
         $form->handleRequest($request);
-        if ($form->isSubmitted() && $form->isValid())
+        if (isset($request->request->get('advert')["DomaineProfessionnel"]) )
+        {
+            $domaineProfessionelId = $request->request->get('advert')["DomaineProfessionnel"];
+            $domaineProfessionel = $manager->find(DomaineProfessionnel::class, $domaineProfessionelId);
+            $advert->setDomaineProfessionel($domaineProfessionel);
+        }
+        dump($advert);
+        if ($form->isSubmitted() && $form->isValid() && $advert->getDomaineProfessionel())
         {
             !$advert->getId() ? $advert->setCreatedAt(new \DateTime) : 0;
             $manager->persist($advert);
             $manager->flush();
             return ($this->redirectToRoute('advert_view', ['id' => $advert->getId()]));
         }
-        dump($advert);
         return ($this->render('advert/add.html.twig', [
             'advertForm' => $form->createView(),
-            'editMode' => $advert->getId()
-            ]));
-
-        /*// initialisation de l'annonce
-        $advert->setTitle('Recherche développeur Symfony.');
-        $advert->setAuthor('Alexandre');
-        $advert->setContent("Nous recherchons un développeur Symfony débutant aux abymes.");
-
-        $listSkills = $em->getRepository('DomJobPlatformBundle:Skill')->findAll();
-        foreach ($listSkills as $skill)
+            'editMode' => $advert->getId(),
+            'domainesProfessionelsList' => $manager->getRepository(DomaineProfessionnel::class)->findBy(["grandDomaine" => $advert->getGrandDomaine()]),
+        ]));
+    }
+        
+        /**
+         * @Route("/les-offres/delete/{id}", name="advert_delete")
+         */
+        public function             deleteAction(Advert $advert = null, ObjectManager $manager)
         {
-            $advertSkill = new AdvertSkill();
-            $advertSkill->setAdvert($advert);
-            $advertSkill->setSkill($skill);
-            $advertSkill->setLevel('Debutant');
-            $em->persist($advertSkill);
+            if (!$advert)
+            {
+                throw new NotFoundHttpException("L'annonce n°".$id." n'existe pas.");
+            }
+            $manager->remove($advert);
+            $manager->flush();
+            return ($this->redirectToRoute('advert_homepage'));
         }
-
-        // initialisation de l'image
-        $image = new Image();
-        $image->setUrl('http://sdz-upload.s3.amazonaws.com/prod/upload/job-de-reve.jpg');
-        $image->setAlt('Job de rêve');
-
-        // lien annonce / image
-        $advert->setImage($image);
-
-        // initialisation des candidatures
-        $application1 = new Application();
-        $application1->setAuthor('Marine');
-        $application1->setContent("J'ai toutes les qualités requises.");
-
-        // Création d'une deuxième candidature par exemple
-        $application2 = new Application();
-        $application2->setAuthor('Pierre');
-        $application2->setContent("Je suis très motivé.");
-
-        // On lie les candidatures à l'annonce
-        $application1->setAdvert($advert);
-        $application2->setAdvert($advert);
-
-        $em = $this->getDoctrine()->getManager();
-        $em->persist($advert);
-        $em->persist($application1);
-        $em->persist($application2);
-        $em->flush();
-
-        if ($request->isMethod('POST')) {
-            $request->getSession()->getFlashBag()->add('notice', 'Annonce bien modifiée.');
+        
+        public function             menuAction()
+        {
+            $listAdverts            = [
+                ['id' => 12, 'title' => 'Recherche développeur Symfony', 'date' => '10/10/10', 'type' => 'developer', 'content' => 'Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci.'],
+                ['id' => 11, 'title' => 'Mission de webmaster', 'date' => '10/10/10', 'type' => 'developer', 'content' => 'Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci.'],
+                ['id' => 10, 'title' => 'Offre de stage webdesigner', 'date' => '10/10/10', 'type' => 'developer', 'content' => 'Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci.']
+            ];
+            
+            return $this->render('advert/menu.html.twig', ['listAdverts' => $listAdverts]);
+        }
+        
+        /*public function             viewSlugAction($slug, $year, $_format)
+        {
+            return new Response(
+                "On pourrait afficher l'annonce correspondant au
+                slug '".$slug."', créée en ".$year." et au format ".$_format."."
+            );
+        }*/
+        
+        /*public function             editAction($id, Request $request)
+        {
+            $em                       = $this->getDoctrine()->getManager();
+            $advert                   = $em->find('DomJobPlatformBundle:Advert', $id);
+            
+            if (!$advert)
+            {
+                throw new NotFoundHttpException("L'annonce d'id ".$id." n'existe pas.");
+            }
+            $listCategories = $em->getRepository('DomJobPlatformBundle:Category')->findAll();
+            foreach($listCategories as $category) {
+                $advert->addCategory($category);
+            }
+            $em->flush();
+            return $this->render('advert/edit.html.twig', ['advert' => $advert]);
+        }
+        
+        public function             editImageAction($advertId)
+        {
+            $em                     = $this->getDoctrine()->getManager();
+            $advert                 = $em->find('DomJobPlatformBundle:Advert', $advertId);
+            
+            $advert->getImage()->setUrl('test.png');
+            $em->flush();
             return $this->redirectToRoute('dj_platform_view', ['id' => $advert->getId()]);
-        }
-        return $this->render('advert/add.html.twig');*/
+        }*/
     }
-
-    /*public function             editAction($id, Request $request)
-    {
-        $em                     = $this->getDoctrine()->getManager();
-        $advert                 = $em->find('DomJobPlatformBundle:Advert', $id);
-
-        if (!$advert)
-        {
-            throw new NotFoundHttpException("L'annonce d'id ".$id." n'existe pas.");
-        }
-
-        $listCategories = $em->getRepository('DomJobPlatformBundle:Category')->findAll();
-        foreach($listCategories as $category) {
-            $advert->addCategory($category);
-        }
-        $em->flush();
-
-        return $this->render('advert/edit.html.twig', ['advert' => $advert]);
-    }
-
-    public function             editImageAction($advertId)
-    {
-        $em = $this->getDoctrine()->getManager();
-
-        $advert = $em->find('DomJobPlatformBundle:Advert', $advertId);
-
-        $advert->getImage()->setUrl('test.png');
-
-        $em->flush();
-
-        return $this->redirectToRoute('dj_platform_view', ['id' => $advert->getId()]);
-    }
-
-    public function             deleteAction($id)
-    {
-        $em                     = $this->getDoctrine()->getManager();
-        $advert                 = $em->find('DomJobPlatformBundle:Advert', $id);
-
-        if (!$advert)
-        {
-            throw new NotFoundHttpException("L'annonce d'id ".$id." n'existe pas.");
-        }
-
-        foreach ($advert->getCategories() as $category)
-        {
-            $advert->removeCategory($category);
-        }
-        $em->flush;
-        return ($this->redirectToRoute('advert_homepage'));
-    }*/
-
-    public function             menuAction()
-    {
-        $listAdverts            = [
-            ['id' => 12, 'title' => 'Recherche développeur Symfony', 'date' => '10/10/10', 'type' => 'developer', 'content' => 'Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci.'],
-            ['id' => 11, 'title' => 'Mission de webmaster', 'date' => '10/10/10', 'type' => 'developer', 'content' => 'Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci.'],
-            ['id' => 10, 'title' => 'Offre de stage webdesigner', 'date' => '10/10/10', 'type' => 'developer', 'content' => 'Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci.']
-        ];
-
-        return $this->render('advert/menu.html.twig', ['listAdverts' => $listAdverts]);
-    }
-}
+    

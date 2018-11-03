@@ -21,10 +21,12 @@
       $('.mdb-select').material_select();
       $('input#input_text, textarea#advert_content').characterCounter();
       $(".select-wrapper").removeClass("form-control");
-      {#$(".select-dropdown").attr("value", "");
-      $(".select-dropdown").children("li").on("click", function() {
-        $(this).parent().parent().parent().children("label").addClass("active");
-      });#}
+      $("#grandDomaine ul li span").on("click", function() {
+        $("#domaineProfessionel").remove();
+        setTimeout(function(){
+          $('#advert_validation_button').click();
+        }, 100);
+      });
     });
   </script>
 {% endblock %}

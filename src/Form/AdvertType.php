@@ -20,7 +20,7 @@ class AdvertType extends AbstractType
             ->add('author')
             ->add('content', TextareaType::class, ['attr' => ['class' => 'md-textarea form-control']])
             ->add('GrandDomaine', EntityType::class, ['class' => GrandDomaine::class, 'choice_label' => 'libelleGrandDomaine'])
-            ->add('domaineProfessionel', EntityType::class, ['class' => DomaineProfessionnel::class, 'choice_label' => 'libelleDomaineProfessionnel'])
+            //->add('domaineProfessionel', EntityType::class, ['class' => DomaineProfessionnel::class, 'choice_label' => 'libelleDomaineProfessionnel'])
         ;
     }
 
@@ -28,6 +28,7 @@ class AdvertType extends AbstractType
     {
         $resolver->setDefaults([
             'data_class' => Advert::class,
+            "allow_extra_fields" => true
         ]);
     }
 }
