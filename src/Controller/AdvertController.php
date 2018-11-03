@@ -21,24 +21,6 @@ class AdvertController extends AbstractController
      */
     public function             indexAction($page, ObjectManager $manager)
     {
-        $referentielCodeRomeList = $manager->getRepository(ReferentielCodeRome::class)->findAll();
-        $domainesProfessionelsList = $manager->getRepository(DomaineProfessionnel::class)->findAll();
-        foreach ($referentielCodeRomeList as $codeRome)
-        {
-            $first = mb_substr($codeRome->getCodeRome(), 0, 3);
-            foreach ($domainesProfessionelsList as $domaineProfessionel)
-            {
-                if ($domaineProfessionel->getCodeDomaineProfessionnel() === $first)
-                {
-                    $domaineProfessionel->addReferentielCodeRome($codeRome);
-                    break;
-                }
-            }
-        }
-        $manager->flush();
-
-
-
         if ($page < 1) {
             throw new NotFoundHttpException('Page "'.$page.'" inexistante.');
         }
