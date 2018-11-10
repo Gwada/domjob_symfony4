@@ -24,12 +24,6 @@ class Advert
     private $title;
 
     /**
-     * @ORM\Column(type="string", length=255)
-     * @Assert\Length(min=6, max=32)
-     */
-    private $author;
-
-    /**
      * @ORM\Column(type="text")
      * @Assert\Length(min=10)
      */
@@ -50,6 +44,26 @@ class Advert
      */
     private $codeRome;
 
+    /**
+     * @ORM\ManyToOne(targetEntity="App\Entity\User", inversedBy="adverts")
+     */
+    private $user;
+
+    /**
+     * @ORM\Column(type="float", nullable=true)
+     */
+    private $grossSalaryPerHour;
+
+    /**
+     * @ORM\Column(type="integer", nullable=true)
+     */
+    private $hourPerWeek;
+
+    /**
+     * @ORM\ManyToOne(targetEntity="App\Entity\City", inversedBy="adverts")
+     */
+    private $city;
+
     public function getId(): ?int
     {
         return $this->id;
@@ -63,18 +77,6 @@ class Advert
     public function setTitle(string $title): self
     {
         $this->title = $title;
-
-        return $this;
-    }
-
-    public function getAuthor(): ?string
-    {
-        return $this->author;
-    }
-
-    public function setAuthor(string $author): self
-    {
-        $this->author = $author;
 
         return $this;
     }
@@ -123,6 +125,54 @@ class Advert
     public function setCodeRome(?string $codeRome): self
     {
         $this->codeRome = $codeRome;
+
+        return $this;
+    }
+
+    public function getUser(): ?User
+    {
+        return $this->user;
+    }
+
+    public function setUser(?User $user): self
+    {
+        $this->user = $user;
+
+        return $this;
+    }
+
+    public function getGrossSalaryPerHour(): ?int
+    {
+        return $this->grossSalaryPerHour;
+    }
+
+    public function setGrossSalaryPerHour(?int $grossSalaryPerHour): self
+    {
+        $this->grossSalaryPerHour = $grossSalaryPerHour;
+
+        return $this;
+    }
+
+    public function getHourPerWeek(): ?int
+    {
+        return $this->hourPerWeek;
+    }
+
+    public function setHourPerWeek(?int $hourPerWeek): self
+    {
+        $this->hourPerWeek = $hourPerWeek;
+
+        return $this;
+    }
+
+    public function getCity(): ?City
+    {
+        return $this->city;
+    }
+
+    public function setCity(?City $city): self
+    {
+        $this->city = $city;
 
         return $this;
     }

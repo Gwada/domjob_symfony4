@@ -20,18 +20,29 @@ class ReferentielAppellationRepository extends ServiceEntityRepository
     }
 
     /**
-     * @return ReferentielAppellation[] Returns an array of ReferentielAppellation objects
+     * @return Array[] Returns an array of ReferentielAppellation objects
      */
-    public function findByTerm($term, $maxResults)
+    public function findByTerm(array $term = [], $maxResults)
     {
-        return $this->createQueryBuilder('r')
+        $param = "";
+
+        foreach ($term as $value)
+        {
+            $param .= "%$value%";
+        }
+        $results = $this->createQueryBuilder('r')
             ->where('r.libelleAppellationCourt LIKE :term')
-            ->setParameter('term', "%$term%")
+            ->setParameter('term', "%$param%")
             ->orderBy('r.libelleAppellationCourt', 'ASC')
             ->setMaxResults($maxResults)
             ->getQuery()
             ->getArrayResult()
         ;
+        foreach ($results as $key => $result)
+        {
+            $results[$key]['value'] = $results[$key]["libelleAppellationCourt"];
+        }
+        return $results;
     }
 
     /*

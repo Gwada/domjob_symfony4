@@ -11,7 +11,7 @@
     Retour à la liste
   </a>
 
-  <p class="d-flex justify-content-end">Par {{ advert.author }}, le {{ advert.createdAt|date('d/m/Y') }}</p>
+  <p class="d-flex justify-content-end">Par {{ advert.user.email }}, le {{ advert.createdAt|date('d/m/Y') }}</p>
   <h2 class="text-center">{{ advert.title }}</h2>
 
   <div class="well">

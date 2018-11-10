@@ -83,6 +83,7 @@ class AdvertController extends AbstractController
         if ($form->isSubmitted() && $form->isValid())
         {
             !$advert->getId() ? $advert->setCreatedAt(new \DateTime) : 0;
+            !$advert->getId() ? $advert->setUser($this->getUser()) : 0;
             $om->persist($advert);
             $om->flush();
             return ($this->redirectToRoute('advert_view', ['id' => $advert->getId()]));

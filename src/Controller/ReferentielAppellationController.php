@@ -13,15 +13,11 @@ class ReferentielAppellationController extends AbstractController
     /**
      * @Route("/referentiel-appellation", name="referentielAppellation")
      */
-    public function find(Request $request, ReferentielAppellationRepository $repository)
+    public function basic(Request $request, ReferentielAppellationRepository $repository)
     {
-        $refAppList = $repository->findByTerm($request->query->get('term'), 20);
-        foreach ($refAppList as $key => $refApp)
+        if ($request->isMethod('GET') && $request->query->get('term'))
         {
-            $refAppList[$key]['value'] = $refAppList[$key]["libelleAppellationCourt"];
-            //dump($refApp);die;
+            return new JsonResponse($repository->findByTerm(explode(' ', $request->query->get('term')), 30));
         }
-        //dump($refAppList); die;
-        return new JsonResponse($refAppList);
     }
 }
