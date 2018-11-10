@@ -13,7 +13,7 @@ class DomJobController extends AbstractController
      */
     public function index()
     {
-        return $this->render('dom_job/index.html.twig', ['controller_name' => 'DomJobController']);
+        return $this->render('dom_job/index.html.twig');
     }
 
     /**

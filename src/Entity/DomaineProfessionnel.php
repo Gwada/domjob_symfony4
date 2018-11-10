@@ -28,27 +28,6 @@ class DomaineProfessionnel
      */
     private $libelleDomaineProfessionnel;
 
-    /**
-     * @ORM\ManyToOne(targetEntity="App\Entity\GrandDomaine", inversedBy="domainesProfessionnel")
-     */
-    private $grandDomaine;
-
-    /**
-     * @ORM\OneToMany(targetEntity="App\Entity\Advert", mappedBy="domaineProfessionel")
-     */
-    private $adverts;
-
-    /**
-     * @ORM\OneToMany(targetEntity="App\Entity\ReferentielCodeRome", mappedBy="domaineProfessionel")
-     */
-    private $referentielCodeRomes;
-
-    public function __construct()
-    {
-        $this->adverts = new ArrayCollection();
-        $this->referentielCodeRomes = new ArrayCollection();
-    }
-
     public function getId(): ?int
     {
         return $this->id;
@@ -74,80 +53,6 @@ class DomaineProfessionnel
     public function setLibelleDomaineProfessionnel(string $libelleDomaineProfessionnel): self
     {
         $this->libelleDomaineProfessionnel = $libelleDomaineProfessionnel;
-
-        return $this;
-    }
-
-    public function getGrandDomaine(): ?GrandDomaine
-    {
-        return $this->grandDomaine;
-    }
-
-    public function setGrandDomaine(?GrandDomaine $grandDomaine): self
-    {
-        $this->grandDomaine = $grandDomaine;
-
-        return $this;
-    }
-
-    /**
-     * @return Collection|Advert[]
-     */
-    public function getAdverts(): Collection
-    {
-        return $this->adverts;
-    }
-
-    public function addAdvert(Advert $advert): self
-    {
-        if (!$this->adverts->contains($advert)) {
-            $this->adverts[] = $advert;
-            $advert->setDomaineProfessionel($this);
-        }
-
-        return $this;
-    }
-
-    public function removeAdvert(Advert $advert): self
-    {
-        if ($this->adverts->contains($advert)) {
-            $this->adverts->removeElement($advert);
-            // set the owning side to null (unless already changed)
-            if ($advert->getDomaineProfessionel() === $this) {
-                $advert->setDomaineProfessionel(null);
-            }
-        }
-
-        return $this;
-    }
-
-    /**
-     * @return Collection|ReferentielCodeRome[]
-     */
-    public function getReferentielCodeRomes(): Collection
-    {
-        return $this->referentielCodeRomes;
-    }
-
-    public function addReferentielCodeRome(ReferentielCodeRome $referentielCodeRome): self
-    {
-        if (!$this->referentielCodeRomes->contains($referentielCodeRome)) {
-            $this->referentielCodeRomes[] = $referentielCodeRome;
-            $referentielCodeRome->setDomaineProfessionel($this);
-        }
-
-        return $this;
-    }
-
-    public function removeReferentielCodeRome(ReferentielCodeRome $referentielCodeRome): self
-    {
-        if ($this->referentielCodeRomes->contains($referentielCodeRome)) {
-            $this->referentielCodeRomes->removeElement($referentielCodeRome);
-            // set the owning side to null (unless already changed)
-            if ($referentielCodeRome->getDomaineProfessionel() === $this) {
-                $referentielCodeRome->setDomaineProfessionel(null);
-            }
-        }
 
         return $this;
     }

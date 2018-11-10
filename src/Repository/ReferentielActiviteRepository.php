@@ -19,22 +19,21 @@ class ReferentielActiviteRepository extends ServiceEntityRepository
         parent::__construct($registry, ReferentielActivite::class);
     }
 
-//    /**
-//     * @return ReferentielActivite[] Returns an array of ReferentielActivite objects
-//     */
-    /*
-    public function findByExampleField($value)
+    /**
+     * @return ReferentielActivite[] Returns an array of ReferentielActivite objects
+    */
+    /*public function findByTerm($term, $maxResults)
     {
         return $this->createQueryBuilder('r')
             ->andWhere('r.exampleField = :val')
             ->setParameter('val', $value)
             ->orderBy('r.id', 'ASC')
-            ->setMaxResults(10)
+            ->setMaxResults($maxResults)
             ->getQuery()
             ->getResult()
         ;
-    }
-    */
+    }*/
+    
 
     /*
     public function findOneBySomeField($value): ?ReferentielActivite

@@ -1,0 +1,39 @@
+{% extends "base.html.twig" %}
+
+{% block title %}{{ parent() }} - Ajouter une offre d'emploi{% endblock %}
+
+{% block body %}
+    <div class="container">
+        <div class="row d-flex justify-content-center">
+            <form method="post" action="{{ path('app_login') }}">
+                {% if error %}
+                    <div class="alert alert-danger">{{ error.messageKey|trans(error.messageData, 'security') }}</div>
+                {% endif %}
+                <div class="md-form form-sm mb-5">
+                    <i class="fa fa-envelope prefix"></i>
+                    <input type="email" value="{{ last_username }}" name="email" id="modalLRInput101" class="form-control form-control-sm validate" required autofocus />
+                    <label data-error="wrong" data-success="right" for="modalLRInput10">Votre email</label>
+                </div>
+                <div class="md-form form-sm mb-4">
+                    <i class="fa fa-lock prefix"></i>
+                    <input type="password" name="password" id="modalLRInput111" class="form-control form-control-sm validate" autocomplete="off" required />
+                    <label data-error="wrong" data-success="right" for="modalLRInput11">Votre mot de passe</label>
+                </div>
+                <input type="hidden" name="_csrf_token" value="{{ csrf_token('authenticate') }}" />
+                <div class="switch">
+                    <label>
+                        <input type="checkbox" name="_remember_me" />
+                        <span class="lever"></span>Se souvenir de moi
+                    </label>
+                </div>
+                <div class="text-center mt-2">
+                    <button class="btn btn-info btn-rounded">Connexion <i class="fa fa-sign-in ml-1"></i></button>
+                </div>
+                <div class="options text-center text-md-right mt-1">
+                    <p style="text-align: left;">Vous n'êtes pas membre? <a href="#" class="blue-text">Inscrivez-vous</a></p>
+                    <p style="text-align: left;">Mot de passe <a href="#" class="blue-text">oublié?</a></p>
+                </div>
+            </form>
+        </div>
+    </div>
+{% endblock %}

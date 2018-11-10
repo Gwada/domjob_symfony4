@@ -19,8 +19,6 @@ class AdvertType extends AbstractType
             ->add('title')
             ->add('author')
             ->add('content', TextareaType::class, ['attr' => ['class' => 'md-textarea form-control']])
-            ->add('GrandDomaine', EntityType::class, ['class' => GrandDomaine::class, 'choice_label' => 'libelleGrandDomaine'])
-            //->add('domaineProfessionel', EntityType::class, ['class' => DomaineProfessionnel::class, 'choice_label' => 'libelleDomaineProfessionnel'])
         ;
     }
 

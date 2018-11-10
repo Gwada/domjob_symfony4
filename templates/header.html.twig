@@ -34,8 +34,10 @@
                         </a>
                         <div class="collapsible-body">
                             <ul>
-                                <li><a href="{{ path('advert_homepage') }}" class="waves-effect"><i class="fas fa-mouse-pointer fa"></i> Consulter les offres</a></li>
-                                <li><a href="{{ path('advert_add') }}" class="waves-effect"><i class="fas fa-folder-plus fa"></i> Ajouter une offre</a></li>
+                                <li><a href="{{ path('advert_homepage') }}" class="waves-effect"><i class="fas fa-mouse-pointer fa"></i> Consulter les offres d'emploi</a></li>
+                                {% if is_granted('ROLE_RECRUITER') %}
+                                    <li><a href="{{ path('advert_add') }}" class="waves-effect"><i class="fas fa-folder-plus fa"></i> Ajouter une offre d'emploi</a></li>
+                                {% endif %}
                             </ul>
                         </div>
                     </li>
@@ -57,7 +59,9 @@
                         <div class="collapsible-body">
                             <ul>
                                 <li><a href="#" class="waves-effect">Rechercher une formation</a></li>
-                                <li><a href="#" class="waves-effect">Ajouter une formation</a></li>
+                                {% if is_granted('ROLE_RECRUITER') %}
+                                    <li><a href="#" class="waves-effect">Ajouter une formation</a></li>
+                                {% endif %}
                             </ul>
                         </div>
                     </li>
@@ -100,9 +104,13 @@
                     <i class="fas fa-user"></i> <span class="clearfix d-none d-sm-inline-block"> Mon compte</span>
                 </a>
                 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" href="" data-toggle="modal" data-target="#modalLRForm">Me connecter</a>
-                    <a class="dropdown-item" href="" data-toggle="modal" data-target="#modalLRForm">Creer un compte</a>
-                    <a class="dropdown-item" href="#">Espace professionnel</a>
+                    {% if is_granted('IS_AUTHENTICATED_FULLY') %}
+                        <a class="dropdown-item" href="{{ path('logout') }}">Déconnexion</a>
+                    {% else %}
+                        <a id="header-login" class="dropdown-item" href="" data-toggle="modal" data-target="#elegantModalForm">Me connecter</a>
+                        <a id="header-registration" class="dropdown-item" href="" data-toggle="modal" data-target="#elegantModalForm">Creer un compte</a>
+                        <a class="dropdown-item" href="#">Espace professionnel</a>
+                    {% endif %}
                 </div>
             </li>
         </ul>

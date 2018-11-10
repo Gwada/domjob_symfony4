@@ -19,22 +19,20 @@ class ReferentielAppellationRepository extends ServiceEntityRepository
         parent::__construct($registry, ReferentielAppellation::class);
     }
 
-//    /**
-//     * @return ReferentielAppellation[] Returns an array of ReferentielAppellation objects
-//     */
-    /*
-    public function findByExampleField($value)
+    /**
+     * @return ReferentielAppellation[] Returns an array of ReferentielAppellation objects
+     */
+    public function findByTerm($term, $maxResults)
     {
         return $this->createQueryBuilder('r')
-            ->andWhere('r.exampleField = :val')
-            ->setParameter('val', $value)
-            ->orderBy('r.id', 'ASC')
-            ->setMaxResults(10)
+            ->where('r.libelleAppellationCourt LIKE :term')
+            ->setParameter('term', "%$term%")
+            ->orderBy('r.libelleAppellationCourt', 'ASC')
+            ->setMaxResults($maxResults)
             ->getQuery()
-            ->getResult()
+            ->getArrayResult()
         ;
     }
-    */
 
     /*
     public function findOneBySomeField($value): ?ReferentielAppellation

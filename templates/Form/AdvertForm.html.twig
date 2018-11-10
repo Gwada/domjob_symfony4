@@ -1,8 +1,7 @@
 <section class="container">
   <div class="row d-flex flex-column justify-content-between">
     <h3 class="text-center">Formulaire d'offre d'emploi</h3>
-    {% dump(advertForm) %}
-    {% dump(domainesProfessionelsList) %}
+    {% dump(advertForm.vars.value) %}
 
     {{ form_start(advertForm, {'attr': {'class': 'needs-validation'}}) }}
 
@@ -24,25 +23,13 @@
         <div class="invalid-feedback">Longueur minimale 10 caractères</div>
       </div>
 
-      <div class="md-form form-group" id="grandDomaine">
-        <label class="active">Selectionnez le grand domaine</label>
-        {{ form_widget(advertForm.GrandDomaine, {'attr': {'value': '', 'class': "mdb-select md-form colorful-select dropdown-ins", 'searchable': "Cherchez ici..."}}) }}
+      <div class="md-form form-group">
+        <label for="tags">Selectionnez le metier </label>
+        <input type="search" id="referentiel-activity-input" class="form-control ui-autocomplete-input">
       </div>
 
-      {% if domainesProfessionelsList | length > 0 %}
-        <div class="md-form form-group" id="domaineProfessionel">
-          <label class="active">Selectionnez le domaine professionel</label>
-          {# form_widget(advertForm.domaineProfessionel, {'attr': {'value': '', 'class': "mdb-select md-form colorful-select dropdown-ins", 'searchable': "Cherchez ici..."}}) #}
-          <select class="mdb-select md-form colorful-select dropdown-ins" name="advert[DomaineProfessionnel]">
-            {% for domaineProfessionel in domainesProfessionelsList %}
-              <option value="{{ domaineProfessionel.id }}">{{ domaineProfessionel.libelleDomaineProfessionnel }}</option>
-            {% endfor %}
-          </select>
-        </div>
-      {% endif %}
-
       <div class="d-flex justify-content-end">
-        <button class="btn btn-outline-default btn-rounded waves-effect" type="submit" id="advert_validation_button"><i class="fas fa-cloud-upload-alt fa"> </i> {{ editMode ? "Enregistrer les modifications" : "Étape suivante" }}</button>
+        <button class="btn btn-outline-default btn-rounded waves-effect" type="submit" id="advert_validation_button"><i class="fas fa-cloud-upload-alt fa"> </i> {{ editMode ? "Enregistrer les modifications" : "Poster l'offre" }}</button>
       </div>
 
     {{ form_end(advertForm) }}

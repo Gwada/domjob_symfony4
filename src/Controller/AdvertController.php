@@ -2,6 +2,7 @@
 
 namespace App\Controller;
 
+use App\Entity\Texte;
 use App\Entity\Advert;
 use App\Form\AdvertType;
 use App\Entity\GrandDomaine;
@@ -13,6 +14,7 @@ use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
+use Sensio\Bundle\FrameworkExtraBundle\Configuration\IsGranted;
 
 class AdvertController extends AbstractController
 {
@@ -53,52 +55,41 @@ class AdvertController extends AbstractController
     /**
      * @Route("/les-offres/offre-{id}", name="advert_view", requirements={"id": "\d+"})
      */
-    public function             viewAction($id, ObjectManager $manager)
+    public function             viewAction(Advert $advert = null, ObjectManager $manager)
     {
-        $advert                 = $manager->find(Advert::class, $id);
-
         if (!$advert) {
             throw new NotFoundHttpException("L'annonce d'id ".$id." n'existe pas.");
         }
-
-        //$listApplications = $em->getRepository('DomJobPlatformBundle:Application')->findBy(['advert' => $advert]);
-        //$listAdvertSkills = $em->getRepository('DomJobPlatformBundle:AdvertSkill')->findBy(['advert' => $advert]);
         dump($advert);
+        //$codeRome = $manager->find(ReferentielCodeRome::class, $advert->getReferentielCodeRome()->getId())->getCodeRome();
+        //dump($codeRome);
         return ($this->render('advert/view.html.twig', [
             'advert' => $advert,
-            //'listApplications' => $listApplications,
-            //'listAdvertSkills' => $listAdvertSkills,
+            //'textes' => $manager->getRepository(Texte::class)->findByCodeRome($codeRome),
         ]));
     }
     
     /**
      * @Route("/les-offres/ajouter-une-offre-d-emploi", name="advert_add")
-     * @Route("/les-offres/{id}/edition", name="advert_edit")
+     * @Route("/offre/{id}/edition", name="advert_edit")
+     * @IsGranted("ROLE_RECRUITER")
      */
-    public function advertFormAction(Advert $advert = null, Request $request, ObjectManager $manager)
+    public function advertFormAction(Advert $advert = null, Request $request, ObjectManager $om)
     {
         !$advert ? $advert = new Advert() : 0;
         $form = $this->createForm(AdvertType::class, $advert);
-        
         $form->handleRequest($request);
-        if (isset($request->request->get('advert')["DomaineProfessionnel"]) )
-        {
-            $domaineProfessionelId = $request->request->get('advert')["DomaineProfessionnel"];
-            $domaineProfessionel = $manager->find(DomaineProfessionnel::class, $domaineProfessionelId);
-            $advert->setDomaineProfessionel($domaineProfessionel);
-        }
-        dump($advert);
-        if ($form->isSubmitted() && $form->isValid() && $advert->getDomaineProfessionel())
+        dump($request->request);
+        if ($form->isSubmitted() && $form->isValid())
         {
             !$advert->getId() ? $advert->setCreatedAt(new \DateTime) : 0;
-            $manager->persist($advert);
-            $manager->flush();
+            $om->persist($advert);
+            $om->flush();
             return ($this->redirectToRoute('advert_view', ['id' => $advert->getId()]));
         }
         return ($this->render('advert/add.html.twig', [
             'advertForm' => $form->createView(),
             'editMode' => $advert->getId(),
-            'domainesProfessionelsList' => $manager->getRepository(DomaineProfessionnel::class)->findBy(["grandDomaine" => $advert->getGrandDomaine()]),
         ]));
     }
         
@@ -127,31 +118,6 @@ class AdvertController extends AbstractController
             return $this->render('advert/menu.html.twig', ['listAdverts' => $listAdverts]);
         }
         
-        /*public function             viewSlugAction($slug, $year, $_format)
-        {
-            return new Response(
-                "On pourrait afficher l'annonce correspondant au
-                slug '".$slug."', créée en ".$year." et au format ".$_format."."
-            );
-        }*/
-        
-        /*public function             editAction($id, Request $request)
-        {
-            $em                       = $this->getDoctrine()->getManager();
-            $advert                   = $em->find('DomJobPlatformBundle:Advert', $id);
-            
-            if (!$advert)
-            {
-                throw new NotFoundHttpException("L'annonce d'id ".$id." n'existe pas.");
-            }
-            $listCategories = $em->getRepository('DomJobPlatformBundle:Category')->findAll();
-            foreach($listCategories as $category) {
-                $advert->addCategory($category);
-            }
-            $em->flush();
-            return $this->render('advert/edit.html.twig', ['advert' => $advert]);
-        }
-        
         public function             editImageAction($advertId)
         {
             $em                     = $this->getDoctrine()->getManager();
@@ -160,6 +126,5 @@ class AdvertController extends AbstractController
             $advert->getImage()->setUrl('test.png');
             $em->flush();
             return $this->redirectToRoute('dj_platform_view', ['id' => $advert->getId()]);
-        }*/
-    }
-    
+        }
+}

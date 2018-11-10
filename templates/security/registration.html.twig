@@ -1,0 +1,58 @@
+{{ form_start(registration_form, {'action': path('registration'), 'attr': {'class': 'needs-validation'}}) }}
+
+    <div class="modal-body">
+        <div class="md-form form-sm mb-4">
+            <i class="fas fa-user-secret prefix"></i>
+            {{ form_widget(registration_form.userName, {'attr': {'class': 'form-control-sm validate', 'required': true}}) }}
+            <label data-error="wrong" data-success="right" for="modalLRInput14">Choisissez un login</label>
+        </div>
+        <div class="md-form form-sm mb-4">
+            <i class="fas fa-user prefix"></i>
+            {{ form_widget(registration_form.firstName, {'attr': {'class': 'form-control-sm validate'}}) }}
+            <label data-error="wrong" data-success="right" for="modalLRInput14">Indiquez votre prénom (facultatif)</label>
+        </div>
+        <div class="md-form form-sm mb-4">
+            <i class="fas fa-user prefix"></i>
+            {{ form_widget(registration_form.lastName, {'attr': {'class': 'form-control-sm validate'}}) }}
+            <label data-error="wrong" data-success="right" for="modalLRInput14">Indiquez votre nom (facultatif)</label>
+        </div>
+        <div class="md-form form-sm mb-5">
+            <i class="fa fa-envelope prefix"></i>
+            {#<input type="email" id="modalLRInput12" class="form-control form-control-sm validate">#}
+            {{ form_widget(registration_form.email, {'attr': {'class': 'form-control-sm validate'}}) }}
+            <label data-error="wrong" data-success="right" for="modalLRInput12">Votre email</label>
+        </div>
+        <div class="md-form form-sm mb-4">
+            <i class="fas fa-phone prefix"></i>
+            {{ form_widget(registration_form.phoneNumber, {'type': 'number', 'attr': {'class': 'form-control-sm validate'}}) }}
+            <label data-error="wrong" data-success="right" for="modalLRInput14">Indiquez votre numéro de téléphone (facultatif)</label>
+        </div>
+        <div class="md-form form-sm mb-4">
+            <i class="fas fa-home prefix"></i>
+            {{ form_widget(registration_form.address, {'attr': {'class': 'form-control-sm validate'}}) }}
+            <label data-error="wrong" data-success="right" for="modalLRInput14">Indiquez votre adresse</label>
+        </div>
+        <div class="md-form form-sm mb-5">
+            <i class="fa fa-lock prefix"></i>
+            {{ form_widget(registration_form.password, {'type': 'password', 'attr': {'class': 'form-control-sm validate'}}) }}
+            <label data-error="wrong" data-success="right" for="modalLRInput13">Votre mot de passe</label>
+        </div>
+        <div class="md-form form-sm mb-4">
+            <i class="fa fa-lock prefix"></i>
+            {{ form_widget(registration_form.confirmPassword, {'type': 'password', 'attr': {'class': 'form-control-sm validate'}}) }}
+            <label data-error="wrong" data-success="right" for="modalLRInput14">Saisissez à nouveau votre mot de passe</label>
+        </div>
+
+        <div class="text-center form-sm mt-2">
+            <button type="submit" class="btn btn-info btn-rounded">Inscription <i class="fa fa-sign-in ml-1"></i></button>
+        </div>
+    </div>
+
+    <div class="modal-footer">
+        <div class="options text-right">
+            <p class="pt-1">Vous avez déjà un compte? <a href="{{ path('app_login') }}" class="blue-text">Connexion</a></p>
+        </div>
+        <button type="button" class="btn btn-outline-info waves-effect ml-auto" data-dismiss="modal">Fermer</button>
+    </div>
+
+{{ form_end(registration_form) }}

@@ -36,25 +36,19 @@ class Advert
     private $content;
 
     /**
-     * @ORM\ManyToOne(targetEntity="App\Entity\GrandDomaine", inversedBy="adverts")
-     * @ORM\JoinColumn(nullable=false)
-     */
-    private $grandDomaine;
-
-    /**
      * @ORM\Column(type="datetime")
      */
     private $createdAt;
 
     /**
-     * @ORM\ManyToOne(targetEntity="App\Entity\DomaineProfessionnel", inversedBy="adverts")
+     * @ORM\Column(type="integer", nullable=true)
      */
-    private $domaineProfessionel;
+    private $codeOgr;
 
     /**
-     * @ORM\ManyToOne(targetEntity="App\Entity\ReferentielCodeRome", inversedBy="adverts")
+     * @ORM\Column(type="string", length=255, nullable=true)
      */
-    private $referentielCodeRome;
+    private $codeRome;
 
     public function getId(): ?int
     {
@@ -97,18 +91,6 @@ class Advert
         return $this;
     }
 
-    public function getGrandDomaine(): ?GrandDomaine
-    {
-        return $this->grandDomaine;
-    }
-
-    public function setGrandDomaine(?GrandDomaine $grandDomaine): self
-    {
-        $this->grandDomaine = $grandDomaine;
-
-        return $this;
-    }
-
     public function getCreatedAt(): ?\DateTimeInterface
     {
         return $this->createdAt;
@@ -121,26 +103,26 @@ class Advert
         return $this;
     }
 
-    public function getDomaineProfessionel(): ?DomaineProfessionnel
+    public function getCodeOgr(): ?int
     {
-        return $this->domaineProfessionel;
+        return $this->codeOgr;
     }
 
-    public function setDomaineProfessionel(?DomaineProfessionnel $domaineProfessionel): self
+    public function setCodeOgr(?int $codeOgr): self
     {
-        $this->domaineProfessionel = $domaineProfessionel;
+        $this->codeOgr = $codeOgr;
 
         return $this;
     }
 
-    public function getReferentielCodeRome(): ?ReferentielCodeRome
+    public function getCodeRome(): ?string
     {
-        return $this->referentielCodeRome;
+        return $this->codeRome;
     }
 
-    public function setReferentielCodeRome(?ReferentielCodeRome $referentielCodeRome): self
+    public function setCodeRome(?string $codeRome): self
     {
-        $this->referentielCodeRome = $referentielCodeRome;
+        $this->codeRome = $codeRome;
 
         return $this;
     }

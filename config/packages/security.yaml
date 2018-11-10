@@ -1,24 +1,51 @@
 security:
+    encoders:
+        App\Entity\User:
+            algorithm: argon2i
+
     # https://symfony.com/doc/current/security.html#where-do-users-come-from-user-providers
     providers:
-        in_memory: { memory: ~ }
+        # used to reload user from session & other features (e.g. switch_user)
+        app_user_provider:
+            entity:
+                class: App\Entity\User
+                property: email
+    provider: app_user_provider
     firewalls:
         dev:
             pattern: ^/(_(profiler|wdt)|css|images|js)/
             security: false
         main:
+            pattern: ^/
             anonymous: true
+            form_login:
+                login_path: app_login
+                check_path: login_check
+                use_referer: true
+                default_target_path: domjob_homepage
+            logout:
+                path: logout
+                target: domjob_homepage
+            guard:
+                authenticators:
+                    - App\Security\LoginFormAuthenticator
+        secured_area:
+            form_login:
+                csrf_token_generator: security.csrf.token_manager
 
             # activate different ways to authenticate
 
             # http_basic: true
             # https://symfony.com/doc/current/security.html#a-configuring-how-your-users-will-authenticate
 
-            # form_login: true
-            # https://symfony.com/doc/current/security/form_login_setup.html
-
     # Easy way to control access for large sections of your site
     # Note: Only the *first* access control that matches will be used
+    role_hierarchy:
+        ROLE_RECRUITER:             ROLE_USER
+        ROLE_SUBSCRIBE_RECRUITER:   ROLE_RECRUITER
+        ROLE_ADMIN:                 ROLE_SUBSCRIBE_RECRUITER
+        ROLE_SUPER_ADMIN:           [ROLE_ADMIN, ROLE_ALLOWED_TO_SWITCH]
     access_control:
+        # - { path: ^/ajouter-une-offre-d-emploi, roles: ROLE_RECRUITER }
         # - { path: ^/admin, roles: ROLE_ADMIN }
         # - { path: ^/profile, roles: ROLE_USER }

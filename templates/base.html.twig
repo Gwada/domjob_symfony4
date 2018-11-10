@@ -4,13 +4,14 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>{% block title %}DomJob{% endblock %}</title>
+        <title>{% block title 'DomJob' %}</title>
 
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+        <link href="/css/jquery-ui.min.css" rel="stylesheet">
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/css/mdb.min.css" rel="stylesheet">
+        <link href="/css/style.css" rel="stylesheet">
         {% block stylesheets %}
-            <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
-            <link href="/css/bootstrap.min.css" rel="stylesheet">
-            <link href="/css/mdb.min.css" rel="stylesheet">
-            <link href="/css/style.css" rel="stylesheet">
         {% endblock %}
     </head>
 
@@ -18,26 +19,39 @@
 
         {% include("header.html.twig") %}
         <main>
-
-                {% block body %}{% endblock %}
-
+            {% block body %}{% endblock %}
         </main>
 
         {% include("footer.html.twig") %}
 
-        {% include("Modal/login.html.twig") %}
+        {% if not app.user %}
+            {% include('Modal/login.html.twig') %}
+        {% endif %}
 
-            <script type="text/javascript" src="/js/jquery.min.js"></script>
-            <script type="text/javascript" src="/js/popper.min.js"></script>
-            <script type="text/javascript" src="/js/bootstrap.min.js"></script>
-            <script type="text/javascript" src="/js/mdb.min.js"></script>
-            <script type="text/javascript">
-                $(document).ready(function () {
-                    $(".button-collapse").sideNav();
-                    var sideNavScrollbar = document.querySelector('.custom-scrollbar');
-                    Ps.initialize(sideNavScrollbar);
+        <script type="text/javascript" src="/js/jquery.min.js"></script>
+        <script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="/js/popper.min.js"></script>
+        <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/js/mdb.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $(".button-collapse").sideNav();
+                var sideNavScrollbar = document.querySelector('.custom-scrollbar');
+                Ps.initialize(sideNavScrollbar);
+                $("#header-registration").on("click", function() {
+                    $("#panel7").removeClass("in show active");
+                    $("#modal-login-panel").removeClass("active");
+                    $("#panel8").addClass("in show active");
+                    $("#modal-registration-panel").addClass("active");
                 });
-            </script>
+                $("#header-login").on("click", function() {
+                    $("#panel7").addClass("in show active");
+                    $("#modal-login-panel").addClass("active");
+                    $("#panel8").removeClass("in show active");
+                    $("#modal-registration-panel").removeClass("active");
+                });
+            });
+        </script>
         {% block javascripts %}
         {% endblock %}
 
