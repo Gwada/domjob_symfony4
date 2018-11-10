@@ -22,19 +22,21 @@ class AdvertRepository extends ServiceEntityRepository
 //    /**
 //     * @return Advert[] Returns an array of Advert objects
 //     */
-    /*
-    public function findByExampleField($value)
+
+    public function getAdvertWithRelations($id)
     {
         return $this->createQueryBuilder('a')
-            ->andWhere('a.exampleField = :val')
-            ->setParameter('val', $value)
-            ->orderBy('a.id', 'ASC')
-            ->setMaxResults(10)
+            ->where('a.id = :val')
+            ->setParameter('val', $id)
+            ->leftJoin('a.city', 'c')
+            ->addSelect('c')
+            ->leftJoin('a.referentielAppellation', 'r')
+            ->addSelect('r')
             ->getQuery()
-            ->getResult()
+            ->getOneOrNullResult()
         ;
     }
-    */
+
 
     /*
     public function findOneBySomeField($value): ?Advert

@@ -18,8 +18,6 @@ class AdvertType extends AbstractType
         $builder
             ->add('title')
             ->add('content', TextareaType::class, ['attr' => ['class' => 'md-textarea form-control']])
-            ->add('codeRome')
-            ->add('codeOgr')
             ->add('grossSalaryPerHour')
             ->add('hourPerWeek')
         ;

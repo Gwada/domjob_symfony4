@@ -34,17 +34,22 @@
           $('#advert_validation_button').click();
         }, 50);
       });
-      $( function() {
-        $( "#referentiel-activity-input" ).autocomplete({
+      $(function() {
+        $("#advert-form-referentiel-activity").autocomplete({
           source: "{{ path('referentielAppellation') }}",
           minLength: 1,
           select: function (event, ui) {
-            console.log(ui);
-            $("#advert_codeRome").val(ui.item.codeRome).prev().addClass('active');
-            $("#advert_codeOgr").val(ui.item.codeOgr).prev().addClass('active');
+            $("#advert-form-code-ogr").val(ui.item.id);
           }
         });
-      } );
+        $("#advert-form-city").autocomplete({
+          source: "{{ path('city') }}",
+          minLength: 1,
+          select: function (event, ui) {
+            $("#advert-form-city-id").val(ui.item.id);
+          }
+        });
+      });
     });
   </script>
 {% endblock %}

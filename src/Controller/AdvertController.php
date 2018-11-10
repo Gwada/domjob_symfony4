@@ -2,19 +2,21 @@
 
 namespace App\Controller;
 
+use App\Entity\City;
 use App\Entity\Texte;
 use App\Entity\Advert;
 use App\Form\AdvertType;
 use App\Entity\GrandDomaine;
 use App\Entity\ReferentielCodeRome;
 use App\Entity\DomaineProfessionnel;
+use App\Entity\ReferentielAppellation;
 use Symfony\Component\HttpFoundation\Request;
 use Doctrine\Common\Persistence\ObjectManager;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
+use Sensio\Bundle\FrameworkExtraBundle\Configuration\IsGranted;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
-use Sensio\Bundle\FrameworkExtraBundle\Configuration\IsGranted;
 
 class AdvertController extends AbstractController
 {
@@ -55,8 +57,9 @@ class AdvertController extends AbstractController
     /**
      * @Route("/les-offres/offre-{id}", name="advert_view", requirements={"id": "\d+"})
      */
-    public function             viewAction(Advert $advert = null, ObjectManager $manager)
+    public function             viewAction($id = null, ObjectManager $om)
     {
+        $advert = $om->getRepository(Advert::class)->getAdvertWithRelations($id);
         if (!$advert) {
             throw new NotFoundHttpException("L'annonce d'id ".$id." n'existe pas.");
         }
@@ -74,14 +77,16 @@ class AdvertController extends AbstractController
      * @Route("/offre/{id}/edition", name="advert_edit")
      * @IsGranted("ROLE_RECRUITER")
      */
-    public function advertFormAction(Advert $advert = null, Request $request, ObjectManager $om)
+    public function advertFormAction($id = null, Request $request, ObjectManager $om)
     {
-        !$advert ? $advert = new Advert() : 0;
+        $advert = ($id ? $om->getRepository(Advert::class)->getAdvertWithRelations($id) : new Advert());
         $form = $this->createForm(AdvertType::class, $advert);
         $form->handleRequest($request);
         dump($request->request);
         if ($form->isSubmitted() && $form->isValid())
         {
+            $request->request->get("codeOgr") ? $advert->setReferentielAppellation($om->find(ReferentielAppellation::class, $request->request->get("codeOgr"))) : 0;
+            $request->request->get("city-id") ? $advert->setCity($om->find(City::class, $request->request->get("city-id"))) : 0;
             !$advert->getId() ? $advert->setCreatedAt(new \DateTime) : 0;
             !$advert->getId() ? $advert->setUser($this->getUser()) : 0;
             $om->persist($advert);

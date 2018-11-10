@@ -19,22 +19,45 @@ class CityRepository extends ServiceEntityRepository
         parent::__construct($registry, City::class);
     }
 
-//    /**
-//     * @return City[] Returns an array of City objects
-//     */
-    /*
-    public function findByExampleField($value)
+    /**
+     * @return City[] Returns an array of City objects
+     */
+    public function findByTerm($term, $maxResults)
     {
-        return $this->createQueryBuilder('c')
-            ->andWhere('c.exampleField = :val')
-            ->setParameter('val', $value)
-            ->orderBy('c.id', 'ASC')
-            ->setMaxResults(10)
+        $results = $this->createQueryBuilder('c')
+            ->where('c.nomCommune LIKE :term')
+            ->setParameter('term', "$term%")
+            ->orderBy('c.nomCommune', 'ASC')
+            ->setMaxResults($maxResults)
             ->getQuery()
-            ->getResult()
+            ->getArrayResult()
         ;
+        foreach ($results as $key => $result)
+        {
+            $results[$key]['value'] = $results[$key]["codePostal"] . " - " . $results[$key]["nomCommune"];
+        }
+        return $results;
     }
-    */
+
+    /**
+     * @return City[] Returns an array of City objects
+     */
+    public function findByPostalCode($postalCode, $maxResults)
+    {
+        $results = $this->createQueryBuilder('c')
+            ->where('c.codePostal LIKE :term')
+            ->setParameter('term', "$postalCode%")
+            ->orderBy('c.nomCommune', 'ASC')
+            ->setMaxResults($maxResults)
+            ->getQuery()
+            ->getArrayResult()
+        ;
+        foreach ($results as $key => $result)
+        {
+            $results[$key]['value'] = $results[$key]["codePostal"] . " - " . $results[$key]["nomCommune"];
+        }
+        return $results;
+    }
 
     /*
     public function findOneBySomeField($value): ?City

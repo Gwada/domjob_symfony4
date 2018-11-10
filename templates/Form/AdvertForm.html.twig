@@ -18,25 +18,13 @@
       </div>
 
       <div class="md-form form-group">
-        <label>Selectionnez une ville pour cette offre</label>
-        <input type="search" id="advert-form-city" class="form-control ui-autocomplete-input">
+        <label>Indiquez une ville ou un code postale pour cette offre</label>
+        <input type="search" id="advert-form-city" class="form-control ui-autocomplete-input" value="{{ advertForm.vars.value.city ? "#{advertForm.vars.value.city.codePostal} - #{advertForm.vars.value.city.nomCommune}" }}">
       </div>
 
       <div class="md-form form-group">
-        <label for="referentiel-activity-input">Selectionnez le metier </label>
-        <input type="search" id="referentiel-activity-input" class="form-control ui-autocomplete-input">
-      </div>
-
-      <div class="md-form form-group">
-        <label>Code Rome</label>
-        {{ form_widget(advertForm.codeRome) }}
-        <div class="invalid-feedback">Longueur minimale 10 caractères</div>
-      </div>
-
-      <div class="md-form form-group">
-        <label>Code Ogr</label>
-        {{ form_widget(advertForm.codeOgr) }}
-        <div class="invalid-feedback">Longueur minimale 10 caractères</div>
+        <label>Selectionnez le metier </label>
+        <input type="search" id="advert-form-referentiel-activity" class="form-control ui-autocomplete-input" value="{{ advertForm.vars.value.referentielAppellation ? advertForm.vars.value.referentielAppellation.libelleAppellationCourt }}">
       </div>
 
       <div class="md-form form-group">
@@ -50,6 +38,9 @@
         {{ form_widget(advertForm.hourPerWeek) }}
         <div class="invalid-feedback">Longueur minimale 10 caractères</div>
       </div>
+
+      <input type="hidden" id="advert-form-code-ogr" name="codeOgr">
+      <input type="hidden" id="advert-form-city-id" name="city-id">
 
       <div class="d-flex justify-content-end">
         <button class="btn btn-outline-default btn-rounded waves-effect" type="submit" id="advert_validation_button"><i class="fas fa-cloud-upload-alt fa"> </i> {{ editMode ? "Enregistrer les modifications" : "Poster l'offre" }}</button>

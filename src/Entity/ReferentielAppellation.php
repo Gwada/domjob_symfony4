@@ -2,6 +2,8 @@
 
 namespace App\Entity;
 
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
@@ -50,6 +52,16 @@ class ReferentielAppellation
      * @ORM\Column(type="integer")
      */
     private $statut;
+
+    /**
+     * @ORM\OneToMany(targetEntity="App\Entity\Advert", mappedBy="referentielAppellation")
+     */
+    private $adverts;
+
+    public function __construct()
+    {
+        $this->adverts = new ArrayCollection();
+    }
 
     public function getId(): ?int
     {
@@ -136,6 +148,37 @@ class ReferentielAppellation
     public function setStatut(int $statut): self
     {
         $this->statut = $statut;
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|Advert[]
+     */
+    public function getAdverts(): Collection
+    {
+        return $this->adverts;
+    }
+
+    public function addAdvert(Advert $advert): self
+    {
+        if (!$this->adverts->contains($advert)) {
+            $this->adverts[] = $advert;
+            $advert->setReferentielAppellation($this);
+        }
+
+        return $this;
+    }
+
+    public function removeAdvert(Advert $advert): self
+    {
+        if ($this->adverts->contains($advert)) {
+            $this->adverts->removeElement($advert);
+            // set the owning side to null (unless already changed)
+            if ($advert->getReferentielAppellation() === $this) {
+                $advert->setReferentielAppellation(null);
+            }
+        }
 
         return $this;
     }

@@ -13,11 +13,11 @@ class ReferentielAppellationController extends AbstractController
     /**
      * @Route("/referentiel-appellation", name="referentielAppellation")
      */
-    public function basic(Request $request, ReferentielAppellationRepository $repository)
+    public function initial(Request $request, ReferentielAppellationRepository $repository)
     {
         if ($request->isMethod('GET') && $request->query->get('term'))
         {
-            return new JsonResponse($repository->findByTerm(explode(' ', $request->query->get('term')), 30));
+            return new JsonResponse($repository->findByTerm(explode(' ', $request->query->get('term')), 15));
         }
     }
 }

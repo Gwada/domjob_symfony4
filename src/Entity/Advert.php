@@ -35,16 +35,6 @@ class Advert
     private $createdAt;
 
     /**
-     * @ORM\Column(type="integer", nullable=true)
-     */
-    private $codeOgr;
-
-    /**
-     * @ORM\Column(type="string", length=255, nullable=true)
-     */
-    private $codeRome;
-
-    /**
      * @ORM\ManyToOne(targetEntity="App\Entity\User", inversedBy="adverts")
      */
     private $user;
@@ -63,6 +53,11 @@ class Advert
      * @ORM\ManyToOne(targetEntity="App\Entity\City", inversedBy="adverts")
      */
     private $city;
+
+    /**
+     * @ORM\ManyToOne(targetEntity="App\Entity\ReferentielAppellation", inversedBy="adverts")
+     */
+    private $referentielAppellation;
 
     public function getId(): ?int
     {
@@ -101,30 +96,6 @@ class Advert
     public function setCreatedAt(\DateTimeInterface $createdAt): self
     {
         $this->createdAt = $createdAt;
-
-        return $this;
-    }
-
-    public function getCodeOgr(): ?int
-    {
-        return $this->codeOgr;
-    }
-
-    public function setCodeOgr(?int $codeOgr): self
-    {
-        $this->codeOgr = $codeOgr;
-
-        return $this;
-    }
-
-    public function getCodeRome(): ?string
-    {
-        return $this->codeRome;
-    }
-
-    public function setCodeRome(?string $codeRome): self
-    {
-        $this->codeRome = $codeRome;
 
         return $this;
     }
@@ -173,6 +144,18 @@ class Advert
     public function setCity(?City $city): self
     {
         $this->city = $city;
+
+        return $this;
+    }
+
+    public function getReferentielAppellation(): ?ReferentielAppellation
+    {
+        return $this->referentielAppellation;
+    }
+
+    public function setReferentielAppellation(?ReferentielAppellation $referentielAppellation): self
+    {
+        $this->referentielAppellation = $referentielAppellation;
 
         return $this;
     }

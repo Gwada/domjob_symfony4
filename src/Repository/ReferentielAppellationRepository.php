@@ -20,7 +20,7 @@ class ReferentielAppellationRepository extends ServiceEntityRepository
     }
 
     /**
-     * @return Array[] Returns an array of ReferentielAppellation objects
+     * @return ReferentielAppellation[] Returns an array of ReferentielAppellation objects
      */
     public function findByTerm(array $term = [], $maxResults)
     {
