@@ -21,55 +21,28 @@ use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 class AdvertController extends AbstractController
 {
     /**
-     * @Route("/les-offres/{page}", name="advert_homepage", requirements={"page": "\d+"}, defaults={"page": "1"})
+     * @Route("/les-offres", name="advert_homepage")
      */
-    public function             indexAction($page, ObjectManager $manager)
+    public                  function indexAction(Request $request, ObjectManager $om)
     {
-        if ($page < 1) {
-            throw new NotFoundHttpException('Page "'.$page.'" inexistante.');
-        }
-        $listAdverts = [
-            [
-              'title'   => 'Recherche développpeur Symfony',
-              'id'      => 1,
-              'author'  => 'Alexandre',
-              'content' => 'Nous recherchons un développeur Symfony débutant sur Lyon. Blabla…',
-              'date'    => new \Datetime()
-            ],
-            [
-              'title'   => 'Mission de webmaster',
-              'id'      => 2,
-              'author'  => 'Hugo',
-              'content' => 'Nous recherchons un webmaster capable de maintenir notre site internet. Blabla…',
-              'date'    => new \Datetime()
-            ],
-            [
-              'title'   => 'Offre de stage webdesigner',
-              'id'      => 3,
-              'author'  => 'Mathieu',
-              'content' => 'Nous proposons un poste pour webdesigner. Blabla…',
-              'date'    => new \Datetime()
-            ],
-        ];
+        $listAdverts = $om->getRepository(Advert::class)->getLastAdvertsWithRelations($request);
+        dump($listAdverts);
         return $this->render('advert/index.html.twig', ['listAdverts' => $listAdverts]);
     }
 
     /**
      * @Route("/les-offres/offre-{id}", name="advert_view", requirements={"id": "\d+"})
+     * @IsGranted("ROLE_USER")
      */
-    public function             viewAction($id = null, ObjectManager $om)
+    public function         viewAction($id = null, ObjectManager $om)
     {
-        $advert = $om->getRepository(Advert::class)->getAdvertWithRelations($id);
+        $advert             = $om->getRepository(Advert::class)->getAdvertWithRelations($id);
+
         if (!$advert) {
             throw new NotFoundHttpException("L'annonce d'id ".$id." n'existe pas.");
         }
         dump($advert);
-        //$codeRome = $manager->find(ReferentielCodeRome::class, $advert->getReferentielCodeRome()->getId())->getCodeRome();
-        //dump($codeRome);
-        return ($this->render('advert/view.html.twig', [
-            'advert' => $advert,
-            //'textes' => $manager->getRepository(Texte::class)->findByCodeRome($codeRome),
-        ]));
+        return ($this->render('advert/view.html.twig', ['advert' => $advert]));
     }
     
     /**
@@ -77,10 +50,10 @@ class AdvertController extends AbstractController
      * @Route("/offre/{id}/edition", name="advert_edit")
      * @IsGranted("ROLE_RECRUITER")
      */
-    public function advertFormAction($id = null, Request $request, ObjectManager $om)
+    public function         advertFormAction($id = null, Request $request, ObjectManager $om)
     {
-        $advert = ($id ? $om->getRepository(Advert::class)->getAdvertWithRelations($id) : new Advert());
-        $form = $this->createForm(AdvertType::class, $advert);
+        $advert             = ($id ? $om->getRepository(Advert::class)->getAdvertWithRelations($id) : new Advert());
+        $form               = $this->createForm(AdvertType::class, $advert);
         $form->handleRequest($request);
         dump($request->request);
         if ($form->isSubmitted() && $form->isValid())
@@ -102,7 +75,7 @@ class AdvertController extends AbstractController
         /**
          * @Route("/les-offres/delete/{id}", name="advert_delete")
          */
-        public function             deleteAction(Advert $advert = null, ObjectManager $manager)
+        public function     deleteAction(Advert $advert = null, ObjectManager $manager)
         {
             if (!$advert)
             {
@@ -113,21 +86,17 @@ class AdvertController extends AbstractController
             return ($this->redirectToRoute('advert_homepage'));
         }
         
-        public function             menuAction()
+        public function     menuAction(ObjectManager $om)
         {
-            $listAdverts            = [
-                ['id' => 12, 'title' => 'Recherche développeur Symfony', 'date' => '10/10/10', 'type' => 'developer', 'content' => 'Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci.'],
-                ['id' => 11, 'title' => 'Mission de webmaster', 'date' => '10/10/10', 'type' => 'developer', 'content' => 'Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci.'],
-                ['id' => 10, 'title' => 'Offre de stage webdesigner', 'date' => '10/10/10', 'type' => 'developer', 'content' => 'Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci.']
-            ];
+            $listAdverts    = $om->getRepository(Advert::class)->getLastAdvertsWithRelations();
             
             return $this->render('advert/menu.html.twig', ['listAdverts' => $listAdverts]);
         }
         
-        public function             editImageAction($advertId)
+        public function     editImageAction($advertId)
         {
-            $em                     = $this->getDoctrine()->getManager();
-            $advert                 = $em->find('DomJobPlatformBundle:Advert', $advertId);
+            $em             = $this->getDoctrine()->getManager();
+            $advert         = $em->find('DomJobPlatformBundle:Advert', $advertId);
             
             $advert->getImage()->setUrl('test.png');
             $em->flush();

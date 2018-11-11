@@ -1,54 +1,60 @@
-{% extends "base.html.twig" %}
+{% extends "advert/base.html.twig" %}
 
 {% block title %}
   {{ parent() }} - Offre n°{{ advert.id }} - {{ advert.title }} 
 {% endblock %}
 
-{% block body %}
-  {# dump(textes) #}
-  <a href="{{ path('advert_homepage') }}" class="btn btn-outline-default btn-rounded waves-effect">
-    <i class="fas fa-chevron-left"></i>
-    Retour à la liste
-  </a>
+{% block advert_body %}
+  <div class="d-flex justify-content-end">
+    <a href="{{ path('advert_homepage') }}" class="btn btn-outline-default btn-rounded waves-effect">
+      <i class="fas fa-chevron-left"></i>
+      <span class="clearfix d-none d-sm-inline-block ml-2"> Retour à la liste</span>
+    </a>
+  </div>
 
-  <p class="d-flex justify-content-end">Par {{ advert.user.email }}, le {{ advert.createdAt|date('d/m/Y') }}</p>
-  <h2 class="text-center">{{ advert.title }}</h2>
+  <p class="d-flex justify-content-end mt-4 ">Offre publiée le {{ advert.createdAt|date('d/m/Y') }}</p>
 
-  <div class="well">
-    <h4>Description</h4>
-    <p>{{ advert.content }}</p>
+  <h2 class="text-center mb-5 font-weight-bold">{{ advert.title }}</h2>
 
-    <h4>Grand Domaine</h4>
-    <p>{# advert.GrandDomaine.libelleGrandDomaine #}</p>
+  <div>
+    <h4 class="font-weight-bold mb-4">Informations de l'offre</h4>
+    <h5 class="font-weight-bold mb-2">Description</h5>
+    <p class="text-truncate">{{ advert.content }}</p>
+
+    <h6 class="font-weight-bold">Informations metier "{{ advert.referentielAppellation.libelleAppellationCourt }}"</h6>
+    {#<h4>Grand Domaine</h4>
+    <p>{{ advert.GrandDomaine.libelleGrandDomaine }}</p>
 
     <h4>Domaine professionel</h4>
-    <p>{# advert.domaineProfessionel.libelleDomaineProfessionnel #}</p>
+    <p>{{ advert.domaineProfessionel.libelleDomaineProfessionnel }}</p>
 
     <h4>Libellé rome</h4>
-    <p>{# advert.referentielCodeRome.libelleRome #}</p>
+    <p>{{ advert.referentielCodeRome.libelleRome }}</p>
 
-    {# code_rome display texts #}
-    {# for i in 1..3 %}
+    {{ code_rome display texts }}
+    {% for i in 1..3 %}
       <h4>{% if i < 2 %}Définition{% elseif i < 3 %}Condition d'accès à l'emploi{% else %}Condition d'exercice de l'activité{% endif %}</h4>
       {% for texte in textes %}
         <p>{{ texte.codeTypeTexte is same as(i) ? texte.libelleTexte }}</p>
       {% endfor %}
-    {% endfor #}
+    {% endfor %}#}
   </div>
 
-  <div class="d-flex justify-content-end">
-    <a href="{{ path('advert_homepage') }}" class="btn btn-outline-default btn-rounded waves-effect">
-      <i class="fas fa-chevron-left"></i>
-      Retour à la liste
-    </a>
-    <a href="{{ path('advert_edit', {'id': advert.id}) }}" class="btn btn-outline-default btn-rounded waves-effect">
-      <i class="fas fa-edit"></i>
-      Modifier l'offre
-    </a>
-    <a href="{{ path('advert_delete', {'id': advert.id}) }}" class="btn btn-outline-danger btn-rounded waves-effect">
-      <i class="fas fa-trash-alt"></i>
-      Supprimer l'offre
-    </a>
+  <div class="d-flex justify-content-end mb-3 mt-5">
+      <a href="{{ path('advert_homepage') }}" class="btn btn-outline-default btn-rounded waves-effect">
+        <i class="fas fa-chevron-left"></i>
+        <span class="clearfix d-none d-sm-inline-block ml-2"> Retour à la liste</span>
+      </a>
+    {% if app.user is same as(advert.user) %}
+        <a href="{{ path('advert_edit', {'id': advert.id}) }}" class="btn btn-outline-default btn-rounded waves-effect">
+          <i class="fas fa-edit"></i>
+          <span class="clearfix d-none d-sm-inline-block ml-2"> Modifier l'offre</span>
+        </a>
+        <a href="{{ path('advert_delete', {'id': advert.id}) }}" class="btn btn-outline-danger btn-rounded waves-effect">
+          <i class="fas fa-trash-alt"></i>
+          <span class="clearfix d-none d-sm-inline-block ml-2"> Supprimer l'offre</span>
+        </a>
+    {% endif %}
   </div>
 
 

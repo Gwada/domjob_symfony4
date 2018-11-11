@@ -4,25 +4,18 @@
     {{ parent() }} - Consulter les offres
 {% endblock %}
 
-{% block domjob_body %}
+{% block advert_body %}
 
     <h2>Liste des offres</h2>
 
     <ul>
         {% for advert in listAdverts %}
-        <li>
-            {#<a href="{{ path('dj_platform_view', {'id': advert.id}) }}">
-            {{ advert.title }}
-            </a>#}
-            {{ advert.title }}
-            par {{ advert.author }},
-            le {{ advert.date|date('d/m/Y') }}
-        </li>
+            <li><a href="{{ path('advert_view', {'id': advert.id}) }}">{{ advert.title }}</a> publié le {{ advert.createdAt | date('d/m/Y') }}</li>
         {% else %}
-            <li>Pas (encore !) d'offres</li>
+            <li><p class="text-center">Désolé, aucune annonce ne correspond a votre recherche</p></li>
         {% endfor %}
     </ul>
 
-    {{ render(controller("App\\Controller\\AdvertController::menuAction", {'limit': 3})) }}
+    {{ render(controller("App\\Controller\\AdvertController::menuAction")) }}
 
 {% endblock %}

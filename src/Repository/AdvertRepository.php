@@ -5,6 +5,7 @@ namespace App\Repository;
 use App\Entity\Advert;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Symfony\Bridge\Doctrine\RegistryInterface;
+use Doctrine\ORM\QueryBuilder;
 
 /**
  * @method Advert|null find($id, $lockMode = null, $lockVersion = null)
@@ -19,24 +20,38 @@ class AdvertRepository extends ServiceEntityRepository
         parent::__construct($registry, Advert::class);
     }
 
-//    /**
-//     * @return Advert[] Returns an array of Advert objects
-//     */
+    /**
+     * @return Advert[] Returns an array of Advert objects
+     */
+    public function getLastAdvertsWithRelations()
+    {
+        $qb = $this->createQueryBuilder('a')
+            ->orderBy('a.id', 'DESC')
+            ->setMaxResults(15);
+
+        $this->getAdvertRelations($qb);
+        return $qb->getQuery()->getArrayResult();
+    }
 
     public function getAdvertWithRelations($id)
     {
-        return $this->createQueryBuilder('a')
+        $qb = $this->createQueryBuilder('a')
             ->where('a.id = :val')
-            ->setParameter('val', $id)
-            ->leftJoin('a.city', 'c')
-            ->addSelect('c')
-            ->leftJoin('a.referentielAppellation', 'r')
-            ->addSelect('r')
-            ->getQuery()
-            ->getOneOrNullResult()
-        ;
+            ->setParameter('val', $id);
+
+        $this->getAdvertRelations($qb);            
+        return $qb->getQuery()->getOneOrNullResult();
     }
 
+    public function getAdvertRelations(QueryBuilder $qb)
+    {
+        $qb->leftJoin('a.city', 'c')
+        ->addSelect('c')
+        ->leftJoin('a.referentielAppellation', 'r')
+        ->addSelect('r')
+        ->leftJoin('a.user', 'u')
+        ->addSelect('u');
+    }
 
     /*
     public function findOneBySomeField($value): ?Advert

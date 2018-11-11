@@ -1,49 +1,90 @@
 {% if listAdverts | length() > 0 %}
+    <!-- Section heading -->
     <section class="text-center my-5">
-        <h2 class="h1-responsive font-weight-bold text-center my-5">Les dernières offres d'emplois</h2><!-- Section heading -->
-        <p class="grey-text text-center w-responsive mx-auto mb-5">Vous trouverez ici les dèrnières offres d'emplois actualisées en temps direct.</p><!-- Section description -->
-        <div id="multi-item-example" class="carousel slide carousel-multi-item" data-ride="carousel"><!-- Carousel Wrapper -->
-        <div class="controls-top"><!-- Controls -->
-            <a class="btn-floating primary-color waves-effect waves-light" href="#multi-item-example" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
-            <a class="btn-floating primary-color waves-effect waves-light" href="#multi-item-example" data-slide="next"><i class="fa fa-chevron-right"></i></a>
-        </div><!-- Controls -->
-        <ol class="carousel-indicators"><!-- Indicators -->
-            {% for advert in listAdverts %}
-            {% if loop.index is same as(1) %}
-                <li class="primary-color active" data-target="#multi-item-example" data-slide-to="0"></li>
-                {% else %}
-                <li class="primary-color" data-target="#multi-item-example" data-slide-to="0"></li>
-                {% endif %}
-            {% endfor %}
-        </ol><!-- Indicators -->
-        <div class="carousel-inner" role="listbox"><!-- Slides -->
-            {% for advert in listAdverts %}
-            {% if loop.index is same as (1) %}
-                <div class="carousel-item active"><!-- Slide -->
-            {% else %}
-                <div class="carousel-item"><!-- Slide -->
+        <h2 class="h1-responsive font-weight-bold text-center my-5">Les dernières offres d'emplois</h2>
+
+        <!-- Section description -->
+        <p class="grey-text text-center w-responsive mx-auto mb-5">Vous trouverez ici les dèrnières offres d'emplois actualisées en temps direct.</p>
+
+        <!-- Carousel Wrapper -->
+        <div id="multi-item-example" class="carousel slide carousel-multi-item" data-ride="carousel">
+
+            {% if listAdverts | length > 1 %}
+                <!-- Controls -->
+                <div class="controls-top">
+                    <a class="btn-floating primary-color waves-effect waves-light" href="#multi-item-example" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
+                    <a class="btn-floating primary-color waves-effect waves-light" href="#multi-item-example" data-slide="next"><i class="fa fa-chevron-right"></i></a>
+                </div>
+                <!-- Controls -->
+
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    {% for advert in listAdverts %}
+                        <li class="primary-color{{ loop.index < 2 ? " active" }}" data-target="#multi-item-example" data-slide-to="{{ loop.index - 1 }}"></li>
+                    {% endfor %}
+                </ol>
+                <!-- Indicators -->
             {% endif %}
-                <div class="card card-cascade narrower card-ecommerce"><!-- Card -->
-                    <div class="view view-cascade overlay"><!-- Card image -->
-                    <img src="http://sdz-upload.s3.amazonaws.com/prod/upload/job-de-reve.jpg" class="card-img-top" alt="sample photo">
-                    <a><div class="mask rgba-white-slight"></div></a>
-                    </div><!-- Card image -->
-                    <div class="card-body card-body-cascade text-center"><!-- Card content -->
-                    <a href="" class="text-muted"><h5>{{ advert.type | capitalize() }}</h5></a><!-- Category & Title -->
-                    <h4 class="card-title my-4"><strong><a href="">{{ advert.title | capitalize() }}</a></strong></h4>
-                    <p class="card-text">{{ advert.content }}</p><!-- Description -->
-                    <div class="card-footer px-1"><!-- Card footer -->
-                        <span class="float-left">{{ advert.date }}</span>
-                        <span class="float-right">
-                        <a class="" data-toggle="tooltip" data-placement="top" title="" data-original-title="Quick Look"><i class="fa fa-eye ml-3"></i> </a>
-                        <a class="" data-toggle="tooltip" data-placement="top" title="" data-original-title="Add to Wishlist"><i class="fa fa-heart ml-3"></i> </a>
-                        </span>
-                    </div><!-- Card footer -->
-                    </div><!-- Card content -->
-                </div><!-- Card -->
-                </div><!-- Slide -->
-            {% endfor %}
-        </div><!-- Slides -->
-        </div><!-- Carousel Wrapper -->
-    </section><!-- Section: Products v.5 -->
+
+            <!-- Slides -->
+            <div class="carousel-inner" role="listbox">
+                {% for advert in listAdverts %}
+                    <!-- Slide -->
+                    <div class="carousel-item{{ loop.index < 2 ? " active" }}">
+                        <div class="col-md-4 mb-2">
+
+                            <!-- Card -->
+                            <div class="card card-cascade narrower card-ecommerce">
+
+                                <!-- Card image -->
+                                <div class="view view-cascade overlay zoom">
+                                    <img src="http://sdz-upload.s3.amazonaws.com/prod/upload/job-de-reve.jpg" class="card-img-top" alt="sample photo">
+                                    <a href="{{ path('advert_view', {'id': advert.id}) }}">
+                                        <div class="mask rgba-white-slight"></div>
+                                    </a>
+                                </div>
+                                <!-- Card image -->
+
+                                <!-- Card content -->
+                                <div class="card-body card-body-cascade text-center">
+
+                                    <!-- Category & Title -->
+                                    <a href="" class="text-muted"><h6>{{ advert.referentielAppellation.libelleAppellationCourt | capitalize() }}</h6></a>
+                                    <h5 class="card-title my-4">
+                                        <strong>
+                                            <a href="{{ path('advert_view', {'id': advert.id}) }}">{{ advert.title | capitalize() }}</a>
+                                        </strong>
+                                    </h5>
+
+                                    <!-- Description -->
+                                    <p class="card-text">{{ advert.content }}</p>
+
+                                    <!-- Card footer -->
+                                    <div class="card-footer px-1">
+                                        <span class="float-left">{{ advert.createdAt | date('d/m/Y') }}</span>
+                                        <span class="float-right">
+                                            <a class="" data-toggle="tooltip" data-placement="top" title="" data-original-title="Quick Look" href="{{ path('advert_view', {'id': advert.id}) }}"><i class="fa fa-eye ml-3"></i> </a>
+                                            <a class="" data-toggle="tooltip" data-placement="top" title="" data-original-title="Add to Wishlist"><i class="fa fa-heart ml-3"></i> </a>
+                                        </span>
+                                    </div>
+                                    <!-- Card footer -->
+
+                                </div>
+                                <!-- Card content -->
+
+                            </div>
+                            <!-- Card -->
+
+                        </div>
+                    </div>
+                    <!-- Slide -->
+                {% endfor %}
+            </div>
+            <!-- Slides -->
+
+        </div>
+        <!-- Carousel Wrapper -->
+
+    </section>
+    <!-- Section: Products v.5 -->
 {% endif %}
