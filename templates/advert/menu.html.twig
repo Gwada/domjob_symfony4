@@ -19,8 +19,8 @@
 
                 <!-- Indicators -->
                 <ol class="carousel-indicators">
-                    {% for advert in listAdverts %}
-                        <li class="primary-color{{ loop.index < 2 ? " active" }}" data-target="#multi-item-example" data-slide-to="{{ loop.index - 1 }}"></li>
+                    {% for i in 0..(((listAdverts | length - 1) / 3) | round(0, 'floor')) %}
+                        <li class="primary-color{{ i < 1 ? " active" }}" data-target="#multi-item-example" data-slide-to="{{ i }}"></li>
                     {% endfor %}
                 </ol>
                 <!-- Indicators -->
@@ -30,9 +30,10 @@
             <div class="carousel-inner" role="listbox">
                 {% for advert in listAdverts %}
                     <!-- Slide -->
-                    <div class="carousel-item{{ loop.index < 2 ? " active" }}">
+                    {% if not (loop.index - 1) % 3 %}
+                        <div class="carousel-item{{ loop.index < 2 ? " active" }}">
+                    {% endif %}
                         <div class="col-md-4 mb-2">
-
                             <!-- Card -->
                             <div class="card card-cascade narrower card-ecommerce">
 
@@ -57,7 +58,7 @@
                                     </h5>
 
                                     <!-- Description -->
-                                    <p class="card-text">{{ advert.content }}</p>
+                                    <p class="card-text text-truncate">{{ advert.content }}</p>
 
                                     <!-- Card footer -->
                                     <div class="card-footer px-1">
@@ -76,7 +77,9 @@
                             <!-- Card -->
 
                         </div>
-                    </div>
+                    {% if not (loop.index - 1) % 3 %}
+                        </div>
+                    {% endif %}
                     <!-- Slide -->
                 {% endfor %}
             </div>

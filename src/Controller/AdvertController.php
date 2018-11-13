@@ -25,9 +25,12 @@ class AdvertController extends AbstractController
      */
     public                  function indexAction(Request $request, ObjectManager $om)
     {
-        $listAdverts = $om->getRepository(Advert::class)->getLastAdvertsWithRelations($request);
+        $listAdverts = $om->getRepository(Advert::class)->getAdvertsWithFilters($request);
         dump($listAdverts);
-        return $this->render('advert/index.html.twig', ['listAdverts' => $listAdverts]);
+        return $this->render('advert/index.html.twig', [
+            'listAdverts' => $listAdverts->getQuery()->getArrayResult(),
+            'totalItem' => $listAdverts->count(),
+        ]);
     }
 
     /**
