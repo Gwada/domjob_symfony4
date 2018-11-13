@@ -18,9 +18,13 @@
   {{ parent() }}
   <script>
     $(document).ready(function() {
+
       $('.mdb-select').material_select();
+
       $('input#input_text, textarea#advert_content').characterCounter();
+
       $(".select-wrapper").removeClass("form-control");
+
       $("#grandDomaine ul li span").on("click", function() {
         $("#domaineProfessionel").remove();
         $("#referentielCodeRome").remove();
@@ -28,25 +32,27 @@
           $('#advert_validation_button').click();
         }, 50);
       });
+
       $("#domaineProfessionel ul li span").on("click", function() {
         $("#referentielCodeRome").remove();
         setTimeout(function() {
           $('#advert_validation_button').click();
         }, 50);
       });
+
       $(function() {
-        $("#advert-form-referentiel-activity").autocomplete({
+        $("#input-referentielAppellation").autocomplete({
           source: "{{ path('referentielAppellation') }}",
           minLength: 1,
           select: function (event, ui) {
-            $("#advert-form-code-ogr").val(ui.item.id);
+            $("#referentielAppellation-id").val(ui.item.id);
           }
         });
-        $("#advert-form-city").autocomplete({
+        $("#input-city").autocomplete({
           source: "{{ path('city') }}",
           minLength: 1,
           select: function (event, ui) {
-            $("#advert-form-city-id").val(ui.item.id);
+            $("#city-id").val(ui.item.id);
           }
         });
       });

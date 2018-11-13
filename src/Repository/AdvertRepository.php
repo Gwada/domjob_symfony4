@@ -46,6 +46,7 @@ class AdvertRepository extends ServiceEntityRepository
 
         $this->getAdvertRelations($qb);
         $this->whereCity($qb, $request->query->get('city_id'));
+        $this->whereReferentielAppellation($qb, $request->query->get('referentielAppellation_id'));
         $qb->setMaxResults(15)
             ->setFirstResult(($request->query->get('page') ? (($request->query->get('page') - 1) * 15) : 0))
             ->orderBy('a.id', 'ASC')
@@ -79,8 +80,14 @@ class AdvertRepository extends ServiceEntityRepository
         if ($city_id)
         {
             $qb->andWhere($qb->expr()->in('c.id', $city_id));
-            /*$qb->andWhere('c.id LIKE :value')
-                ->setParameter('value', $city_id);*/
+        }
+    }
+
+    public function whereReferentielAppellation(QueryBuilder $qb, $referentielAppellation_id)
+    {
+        if ($referentielAppellation_id)
+        {
+            $qb->andWhere($qb->expr()->in('r.id', $referentielAppellation_id));
         }
     }
 

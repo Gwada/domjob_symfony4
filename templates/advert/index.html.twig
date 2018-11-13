@@ -5,17 +5,132 @@
 {% endblock %}
 
 {% block advert_body %}
-    {% dump(totalItem) %}
-    <h2>Liste des offres</h2>
+    <section>
+        <h2 class="text-center">{{ listAdverts.count }} résultat{{ listAdverts.count > 1 ? "s" }}</h2>
 
-    <ul>
-        {% for advert in listAdverts %}
-            <li><a href="{{ path('advert_view', {'id': advert.id}) }}">{{ advert.title }}</a> publié le {{ advert.createdAt | date('d/m/Y') }}</li>
-        {% else %}
-            <li><p class="text-center">Désolé, aucune annonce ne correspond a votre recherche</p></li>
-        {% endfor %}
-    </ul>
+        <!-- Card -->
+        <div class="card card-image" style="background-image: url(https://mdbootstrap.com/img/Photos/Horizontal/Work/4-col/img%20%2814%29.jpg);">
+
+            <!-- Content -->
+            <div class="rgba-black-strong py-5 px-4">
+                <div class="row d-flex justify-content-center">
+                    <div class="col-md-10 col-xl-8">
+
+                        <form method="GET">
+                            <!--Accordion wrapper-->
+                            <div class="accordion md-accordion accordion-5" id="accordionEx5" role="tablist" aria-multiselectable="true">
+
+                                <!-- Accordion card -->
+                                <div class="card mb-4">
+                                    <!-- Card header -->
+                                    <div class="card-header p-0 z-depth-1" role="tab" id="heading30" style="background-color: #3f5c80;">
+                                        <a data-toggle="collapse" data-parent="#accordionEx5" href="#collapse30" aria-expanded="true"
+                                            aria-controls="collapse30">
+                                            <i class="fas fa-map-marker-alt fa fa-2x p-3 mr-4 float-left black-text" aria-hidden="true"></i>
+                                            <h5 class="white-text mb-0 py-3 mt-1">Lieu</h5>
+                                        </a>
+                                    </div>
+                                    <!-- Card body -->
+                                    <div id="collapse30" class="collapse" role="tabpanel" aria-labelledby="heading30" data-parent="#accordionEx5">
+                                        <div class="card-body rgba-indigo-light white-text z-depth-1">
+                                            <div class="md-form form-group">
+                                                <label class="white-text">Recherchez par ville ou code postal</label>
+                                                <input type="text" id="input-city" class="form-control ui-autocomplete-input white-text">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Accordion card -->
+
+                                <!-- Accordion card -->
+                                <div class="card mb-4">
+                                    <!-- Card header -->
+                                    <div class="card-header p-0 z-depth-1" role="tab" id="heading31" style="background-color: #3f5c80;">
+                                        <a data-toggle="collapse" data-parent="#accordionEx5" href="#collapse31" aria-expanded="true"
+                                            aria-controls="collapse31">
+                                            <i class="fa fas fa-toolbox fa-2x p-3 mr-4 float-left black-text" aria-hidden="true"></i>
+                                            <h5 class="white-text mb-0 py-3 mt-1">Informations métier</h5>
+                                        </a>
+                                    </div>
+                                    <!-- Card body -->
+                                    <div id="collapse31" class="collapse" role="tabpanel" aria-labelledby="heading31" data-parent="#accordionEx5">
+                                        <div class="card-body rgba-indigo-light white-text z-depth-1">
+                                            <div class="md-form form-group">
+                                                <label>Selectionnez le metier </label>
+                                                <input type="search" id="input-referentielAppellation" class="form-control ui-autocomplete-input">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Accordion card -->
+
+                                <!-- Accordion card -->
+                                <div class="card mb-4">
+                                    <!-- Card header -->
+                                    <div class="card-header p-0 z-depth-1" role="tab" id="heading32" style="background-color: #3f5c80;">
+                                        <a data-toggle="collapse" data-parent="#accordionEx5" href="#collapse32" aria-expanded="true" aria-controls="collapse32">
+                                            <i class="fa fas fa-cogs fa-2x p-3 mr-4 float-left black-text" aria-hidden="true"></i>
+                                            <h5 class="white-text mb-0 py-3 mt-1">Autres informations</h5>
+                                        </a>
+                                    </div>
+                                    <!-- Card body -->
+                                    <div id="collapse32" class="collapse" role="tabpanel" aria-labelledby="heading32" data-parent="#accordionEx5">
+                                        <div class="card-body rgba-indigo-light white-text z-depth-1">
+                                            <p class="p-md-4 mb-0"></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Accordion card -->
+                            </div>
+                            <!--/.Accordion wrapper-->
+                            <input type="hidden" id="referentielAppellation-id" name="referentielAppellation.id">
+                            <input type="hidden" id="city-id" name="city.id">
+                            <div class="d-flex justify-content-center">
+                                <button type="submit" class="btn btn-default btn-rounded waves-effect"><i class="fas fa-search mr-2"></i>Lancer la recherche</button>
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+            <!-- Content -->
+        </div>
+        <!-- Card -->
+
+        {% if listAdverts.count %}
+            <ul>
+                {% for advert in listAdverts %}
+                    <li><a href="{{ path('advert_view', {'id': advert.id}) }}">{{ advert.title }}</a> publié le {{ advert.createdAt | date('d/m/Y') }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+    </section>
 
     {{ render(controller("App\\Controller\\AdvertController::menuAction")) }}
 
+{% endblock %}
+
+{% block javascripts %}
+    {{ parent() }}
+    <script>
+        $(document).ready(function() {
+            $(function() {
+                $("#input-referentielAppellation").autocomplete({
+                    source: "{{ path('referentielAppellation') }}",
+                    minLength: 1,
+                    select: function (event, ui) {
+                        $("#referentielAppellation-id").val(ui.item.id);
+                    }
+                });
+                $("#input-city").autocomplete({
+                    source: "{{ path('city') }}",
+                    minLength: 1,
+                    select: function (event, ui) {
+                        $("#city-id").val(ui.item.id);
+                    }
+                });
+            });
+        });
+    </script>
 {% endblock %}

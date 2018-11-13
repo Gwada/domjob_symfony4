@@ -19,12 +19,12 @@
 
       <div class="md-form form-group">
         <label>Indiquez une ville ou un code postale pour cette offre</label>
-        <input type="text" id="advert-form-city" class="form-control ui-autocomplete-input" value="{{ advertForm.vars.value.city ? "#{advertForm.vars.value.city.codePostal} - #{advertForm.vars.value.city.nomCommune}" }}">
+        <input type="text" id="input-city" class="form-control ui-autocomplete-input" value="{{ advertForm.vars.value.city ? "#{advertForm.vars.value.city.codePostal} - #{advertForm.vars.value.city.nomCommune}" }}">
       </div>
 
       <div class="md-form form-group">
         <label>Selectionnez le metier </label>
-        <input type="search" id="advert-form-referentiel-activity" class="form-control ui-autocomplete-input" value="{{ advertForm.vars.value.referentielAppellation ? advertForm.vars.value.referentielAppellation.libelleAppellationCourt }}">
+        <input type="search" id="input-referentielAppellation" class="form-control ui-autocomplete-input" value="{{ advertForm.vars.value.referentielAppellation ? advertForm.vars.value.referentielAppellation.libelleAppellationCourt }}">
       </div>
 
       <div class="md-form form-group">
@@ -39,8 +39,8 @@
         <div class="invalid-feedback">Longueur minimale 10 caractères</div>
       </div>
 
-      <input type="hidden" id="advert-form-code-ogr" name="codeOgr">
-      <input type="hidden" id="advert-form-city-id" name="city-id">
+      <input type="hidden" id="referentielAppellation-id" name="codeOgr">
+      <input type="hidden" id="city-id" name="city-id">
 
       <div class="d-flex justify-content-end">
         <button class="btn btn-outline-default btn-rounded waves-effect" type="submit" id="advert_validation_button"><i class="fas fa-cloud-upload-alt fa"> </i> {{ editMode ? "Enregistrer les modifications" : "Poster l'offre" }}</button>
