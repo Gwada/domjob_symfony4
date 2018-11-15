@@ -18,6 +18,12 @@
 
   <div>
     <h4 class="font-weight-bold mb-4">Informations de l'offre</h4>
+    <h5 class="font-weight-bold mb-2">Lieu</h5>
+    <p class="text-truncate">Ville: {{ advert.city.nomCommune }}</p>
+    <h5 class="font-weight-bold mb-2">Information contrat</h5>
+    <p class="text-truncate">Taux horaire: {{ advert.grossSalaryPerHour }}€</p>
+    <p class="text-truncate">Nombre d'heures/semaine: {{ advert.hourPerWeek }}€</p>
+    <p class="text-truncate">Type de contrat: (à preciser)</p>
     <h5 class="font-weight-bold mb-2">Description</h5>
     <p class="text-truncate">{{ advert.content }}</p>
 
@@ -44,6 +50,10 @@
       <a href="{{ path('advert_homepage') }}" class="btn btn-outline-default btn-rounded waves-effect">
         <i class="fas fa-chevron-left"></i>
         <span class="clearfix d-none d-sm-inline-block ml-2"> Retour à la liste</span>
+      </a>
+      <a href="{{ path('application', {'advert': advert.id}) }}" class="btn btn-outline-default btn-rounded waves-effect">
+        <i class="fas fa-envelope"></i>
+        <span class="clearfix d-none d-sm-inline-block ml-2">Candidature</span>
       </a>
     {% if app.user is same as(advert.user) %}
         <a href="{{ path('advert_edit', {'id': advert.id}) }}" class="btn btn-outline-default btn-rounded waves-effect">
@@ -80,4 +90,13 @@
       </tbody>
     </table>
   {% endif #}
+  {{ form_start(applicationForm, {'attr': {'class': 'needs-validation'}}) }}
+
+    {{ form_widget(applicationForm.content) }}
+
+    <div class="d-flex justify-content-end">
+      <button class="btn btn-outline-default btn-rounded waves-effect" type="submit" id="advert_validation_button"><i class="fas fa-cloud-upload-alt fa"> </i> Postuler</button>
+    </div>
+
+  {{ form_end(applicationForm) }}
 {% endblock %}

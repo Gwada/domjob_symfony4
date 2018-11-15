@@ -2,6 +2,8 @@
 
 namespace App\Entity;
 
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
 
@@ -58,6 +60,16 @@ class Advert
      * @ORM\ManyToOne(targetEntity="App\Entity\ReferentielAppellation", inversedBy="adverts")
      */
     private $referentielAppellation;
+
+    /**
+     * @ORM\OneToMany(targetEntity="App\Entity\Application", mappedBy="advert", orphanRemoval=true)
+     */
+    private $applications;
+
+    public function __construct()
+    {
+        $this->applications = new ArrayCollection();
+    }
 
     public function getId(): ?int
     {
@@ -156,6 +168,37 @@ class Advert
     public function setReferentielAppellation(?ReferentielAppellation $referentielAppellation): self
     {
         $this->referentielAppellation = $referentielAppellation;
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|Application[]
+     */
+    public function getApplications(): Collection
+    {
+        return $this->applications;
+    }
+
+    public function addApplication(Application $application): self
+    {
+        if (!$this->applications->contains($application)) {
+            $this->applications[] = $application;
+            $application->setAdvert($this);
+        }
+
+        return $this;
+    }
+
+    public function removeApplication(Application $application): self
+    {
+        if ($this->applications->contains($application)) {
+            $this->applications->removeElement($application);
+            // set the owning side to null (unless already changed)
+            if ($application->getAdvert() === $this) {
+                $application->setAdvert(null);
+            }
+        }
 
         return $this;
     }

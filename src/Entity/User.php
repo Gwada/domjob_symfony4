@@ -72,9 +72,15 @@ class User implements UserInterface
      */
     private $adverts;
 
+    /**
+     * @ORM\OneToMany(targetEntity="App\Entity\Application", mappedBy="user", orphanRemoval=true)
+     */
+    private $applications;
+
     public function __construct()
     {
         $this->adverts = new ArrayCollection();
+        $this->applications = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -258,6 +264,37 @@ class User implements UserInterface
             // set the owning side to null (unless already changed)
             if ($advert->getUser() === $this) {
                 $advert->setUser(null);
+            }
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|Application[]
+     */
+    public function getApplications(): Collection
+    {
+        return $this->applications;
+    }
+
+    public function addApplication(Application $application): self
+    {
+        if (!$this->applications->contains($application)) {
+            $this->applications[] = $application;
+            $application->setUser($this);
+        }
+
+        return $this;
+    }
+
+    public function removeApplication(Application $application): self
+    {
+        if ($this->applications->contains($application)) {
+            $this->applications->removeElement($application);
+            // set the owning side to null (unless already changed)
+            if ($application->getUser() === $this) {
+                $application->setUser(null);
             }
         }
 

@@ -6,7 +6,9 @@ use App\Entity\City;
 use App\Entity\Texte;
 use App\Entity\Advert;
 use App\Form\AdvertType;
+use App\Entity\Application;
 use App\Entity\GrandDomaine;
+use App\Form\ApplicationType;
 use App\Entity\ReferentielCodeRome;
 use App\Entity\DomaineProfessionnel;
 use App\Entity\ReferentielAppellation;
@@ -34,15 +36,28 @@ class AdvertController extends AbstractController
      * @Route("/les-offres/offre-{id}", name="advert_view", requirements={"id": "\d+"})
      * @IsGranted("ROLE_USER")
      */
-    public function     viewAction($id = null, ObjectManager $om)
+    public function     viewAction($id = null, ObjectManager $om, Request $request)
     {
         $advert         = $om->getRepository(Advert::class)->getAdvertWithRelations($id);
+        $application    = new Application();
 
         if (!$advert) {
             throw new NotFoundHttpException("L'annonce d'id ".$id." n'existe pas.");
         }
+        $form = $this->createForm(ApplicationType::class, $application);
+        $form->handleRequest($request);
+        if ($form->isSubmitted() && $form->isValid()) {
+            $advert->addApplication($application);
+            $this->getUser()->addApplication($application);
+            $om->persist($application);
+            $om->flush();
+        }
         dump($advert);
-        return ($this->render('advert/view.html.twig', ['advert' => $advert]));
+        dump($application);
+        return ($this->render('advert/view.html.twig', [
+            'advert' => $advert,
+            'applicationForm' => $form->createView(),])
+        );
     }
     
     /**
